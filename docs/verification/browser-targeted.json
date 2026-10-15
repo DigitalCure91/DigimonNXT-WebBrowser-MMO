@@ -1,0 +1,60 @@
+{
+  "checks": [
+    {
+      "ok": true,
+      "name": "Ranked page HTTP200"
+    },
+    {
+      "ok": true,
+      "name": "Desktop leaderboard scroll bounded",
+      "detail": {
+        "height": 540,
+        "maxHeight": "540px",
+        "overflow": "auto",
+        "fullHeight": 1570
+      }
+    },
+    {
+      "ok": true,
+      "name": "Formation divider has no stretched background"
+    },
+    {
+      "ok": true,
+      "name": "Map HTTP200"
+    },
+    {
+      "ok": true,
+      "name": "Worker bots rendered in shared map",
+      "detail": 8
+    },
+    {
+      "ok": true,
+      "name": "Human players prioritized before bots"
+    },
+    {
+      "ok": true,
+      "name": "AI map actors have visible labels"
+    },
+    {
+      "ok": true,
+      "name": "No HTTP or JavaScript errors"
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "badResponses": [],
+  "screens": [
+    {
+      "label": "battle-arena-polished-desktop",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "world-map-bots-desktop",
+      "overflow": false,
+      "missing": []
+    }
+  ],
+  "botBatch": "2026-09-22T00:37:19+00:00 {\"processed\":80,\"skipped\":false,\"cursor\":160,\"errors\":[]}",
+  "success": true
+}

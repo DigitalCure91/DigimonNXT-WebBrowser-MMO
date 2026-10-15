@@ -1,0 +1,1 @@
+<?php declare(strict_types=1);require_once __DIR__.'/includes/ui.php';nxt_status_page(404,'Signal lost','That network address could not be found. Reconnect to Digimon NXT and choose your next destination.');

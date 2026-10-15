@@ -1,0 +1,1234 @@
+{
+  "checks": [
+    {
+      "ok": true,
+      "label": "attack accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Double click sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted attack rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1484,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1484,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1423,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1423,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "Damage popups follow authoritative hit order",
+      "detail": {
+        "hitTexts": [
+          "\u2212116",
+          "\u221229",
+          "\u221228",
+          "\u2212120"
+        ],
+        "pops": [
+          "\u2212116Effective \u00d72",
+          "\u221229Resisted \u00d70.5",
+          "\u221228Resisted \u00d70.5",
+          "\u2212120Effective \u00d72"
+        ]
+      }
+    },
+    {
+      "ok": true,
+      "label": "Attack shows moving sprite/projectile"
+    },
+    {
+      "ok": true,
+      "label": "Playback completes once"
+    },
+    {
+      "ok": true,
+      "label": "Stale turn token rejected"
+    },
+    {
+      "ok": true,
+      "label": "Stale token does not advance battle"
+    },
+    {
+      "ok": true,
+      "label": "Invalid CSRF rejected"
+    },
+    {
+      "ok": true,
+      "label": "Invalid CSRF does not advance battle"
+    },
+    {
+      "ok": true,
+      "label": "guard accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted guard rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1518,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1518,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "Guard emits defensive feedback"
+    },
+    {
+      "ok": true,
+      "label": "skill accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted skill rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1550,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1550,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1550,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1550,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1550,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1550,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1431,
+          "sp": 245
+        },
+        "expected": {
+          "hp": 1431,
+          "sp": 245
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "All-target skill hits all three enemies"
+    },
+    {
+      "ok": true,
+      "label": "Effectiveness text appears beside hit values",
+      "detail": [
+        "\u221250",
+        "\u221250",
+        "\u221250",
+        "\u221228Resisted \u00d70.5",
+        "\u221228Resisted \u00d70.5",
+        "\u2212113Effective \u00d72"
+      ]
+    },
+    {
+      "ok": true,
+      "label": "switch accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted switch rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l3 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1426,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1426,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "Reserve switch animates from actual event"
+    },
+    {
+      "ok": true,
+      "label": "Reserve enters visible formation"
+    },
+    {
+      "ok": true,
+      "label": "item accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted item rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 492,
+          "sp": 20
+        },
+        "expected": {
+          "hp": 492,
+          "sp": 20
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "Capsule emits actual recovery event"
+    },
+    {
+      "ok": true,
+      "label": "Recovery displays positive value"
+    },
+    {
+      "ok": true,
+      "label": "attack accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted attack rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1488,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1488,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1422,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1422,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "Skip completes presentation early"
+    },
+    {
+      "ok": true,
+      "label": "attack accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted attack rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1478,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1478,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1415,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1415,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "Reduced motion suppresses travel"
+    },
+    {
+      "ok": true,
+      "label": "attack accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted attack rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1478,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1478,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1425,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1425,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Next command uses committed rotating token"
+    },
+    {
+      "ok": true,
+      "label": "Next turn controls unlock"
+    },
+    {
+      "ok": true,
+      "label": "390px page has no horizontal overflow"
+    },
+    {
+      "ok": true,
+      "label": "flee accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted flee rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "flee accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted flee rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 1600,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 1600,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 674,
+          "sp": 35
+        },
+        "expected": {
+          "hp": 674,
+          "sp": 35
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 655,
+          "sp": 55
+        },
+        "expected": {
+          "hp": 655,
+          "sp": 55
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 450,
+          "sp": 49
+        },
+        "expected": {
+          "hp": 450,
+          "sp": 49
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Flee settles with disconnect"
+    },
+    {
+      "ok": true,
+      "label": "All four party partners restore after battle"
+    },
+    {
+      "ok": true,
+      "label": "skill accepted by server",
+      "detail": ""
+    },
+    {
+      "ok": true,
+      "label": "Command sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "Accepted skill rotates turn token"
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 0,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 0,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 0,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 0,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed r2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 0,
+          "sp": 250
+        },
+        "expected": {
+          "hp": 0,
+          "sp": 250
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l0 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 674,
+          "sp": 35
+        },
+        "expected": {
+          "hp": 674,
+          "sp": 35
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l1 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 655,
+          "sp": 55
+        },
+        "expected": {
+          "hp": 655,
+          "sp": 55
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "DOM matches committed l2 HP/SP",
+      "detail": {
+        "actual": {
+          "hp": 450,
+          "sp": 49
+        },
+        "expected": {
+          "hp": 450,
+          "sp": 49
+        }
+      }
+    },
+    {
+      "ok": true,
+      "label": "Victory transition finishes at saved result"
+    },
+    {
+      "ok": true,
+      "label": "Victory panel shown after playback"
+    },
+    {
+      "ok": true,
+      "label": "New ranked challenge autoplays recorded battle"
+    },
+    {
+      "ok": true,
+      "label": "Reload does not autoplay saved ranked match"
+    },
+    {
+      "ok": true,
+      "label": "Manual ranked replay spends no energy or rewards"
+    },
+    {
+      "ok": true,
+      "label": "No-JavaScript HTML form POST and redirect refresh next turn"
+    },
+    {
+      "ok": true,
+      "label": "No browser runtime errors",
+      "detail": []
+    },
+    {
+      "ok": true,
+      "label": "No failed game/assets HTTP responses",
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "badResponses": [],
+  "totalWildPosts": 11,
+  "notes": [
+    "Actual headless Chromium connected to isolated PHP 8.3 + MariaDB 10.11; ordinary game source/config unchanged by QA.",
+    "Non-AJAX fallback: submitted server-rendered HTML form fields over HTTP and rendered redirected state in JavaScript-disabled Chromium. Native form clicks unavailable in this headless runtime when JavaScript is disabled, including baseline login.",
+    "Desktop/mobile contact screenshots captured during actual playback; CSS was subsequently compacted and independently rechecked by battle_styles.",
+    "No claim of listening to audio hardware; audio assets and lifecycle tested separately."
+  ]
+}

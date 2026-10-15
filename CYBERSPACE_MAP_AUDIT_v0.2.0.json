@@ -1,0 +1,488 @@
+{
+  "release": "0.2.0",
+  "source_archive": "BetterCyberSpaceMaps.zip",
+  "sector_count": 11,
+  "route": [
+    "terminal-plaza",
+    "packet-meadow",
+    "cache-grove",
+    "proxy-path",
+    "firewall-ridge",
+    "memory-sector",
+    "data-stream-delta",
+    "server-ruins",
+    "kernel-garden",
+    "core-nexus",
+    "the-core"
+  ],
+  "maps": [
+    {
+      "area_key": "terminal-plaza",
+      "display_name": "Plaza Terminal",
+      "asset": "images/worlds/cyberspace/plaza-terminal.png",
+      "sha256": "35736d71c0867192c62a2766305a4b7dc4956c422668ae3409825262cbf1316b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 600,
+      "blocked_cells": 844,
+      "encounter_cells": 0,
+      "spawn_points": [
+        [
+          19,
+          25
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 36,
+          "target_world": "cyberspace",
+          "target_area": "packet-meadow",
+          "target_x": 19,
+          "target_y": 13
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 55.0
+    },
+    {
+      "area_key": "packet-meadow",
+      "display_name": "Cyber Route",
+      "asset": "images/worlds/cyberspace/cyber-route.png",
+      "sha256": "9db8c73191c36c1c6d7d4279fbe4b59d717ddc5c17dbecb56c0d18bf2040ced7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 443,
+      "blocked_cells": 1001,
+      "encounter_cells": 200,
+      "spawn_points": [
+        [
+          19,
+          18
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 10,
+          "target_world": "cyberspace",
+          "target_area": "terminal-plaza",
+          "target_x": 19,
+          "target_y": 30
+        },
+        {
+          "x": 19,
+          "y": 38,
+          "target_world": "cyberspace",
+          "target_area": "cache-grove",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 70.0
+    },
+    {
+      "area_key": "cache-grove",
+      "display_name": "Dataflow",
+      "asset": "images/worlds/cyberspace/dataflow.png",
+      "sha256": "3e512950b6ad1cdb8e1c2adb2b1fae0ac5de7f14ef0f01c12aeffcb6b01bbfbc",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 482,
+      "blocked_cells": 962,
+      "encounter_cells": 248,
+      "spawn_points": [
+        [
+          19,
+          23
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 6,
+          "target_world": "cyberspace",
+          "target_area": "packet-meadow",
+          "target_x": 19,
+          "target_y": 36
+        },
+        {
+          "x": 19,
+          "y": 38,
+          "target_world": "cyberspace",
+          "target_area": "proxy-path",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 60.0
+    },
+    {
+      "area_key": "proxy-path",
+      "display_name": "Overclock",
+      "asset": "images/worlds/cyberspace/overclock.png",
+      "sha256": "9a80762210a3bd7efc3a71f5ed9761efda8781c3460de4f8cd765c15a35c4e94",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 642,
+      "blocked_cells": 802,
+      "encounter_cells": 321,
+      "spawn_points": [
+        [
+          19,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 6,
+          "target_world": "cyberspace",
+          "target_area": "cache-grove",
+          "target_x": 19,
+          "target_y": 36
+        },
+        {
+          "x": 19,
+          "y": 38,
+          "target_world": "cyberspace",
+          "target_area": "firewall-ridge",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 40.0
+    },
+    {
+      "area_key": "firewall-ridge",
+      "display_name": "Icewall",
+      "asset": "images/worlds/cyberspace/icewall.png",
+      "sha256": "be46e86b66cf4d3f15bdb95dac9ee13373baee9d1499315b76a55e43271b297a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 729,
+      "blocked_cells": 715,
+      "encounter_cells": 371,
+      "spawn_points": [
+        [
+          19,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 5,
+          "target_world": "cyberspace",
+          "target_area": "proxy-path",
+          "target_x": 19,
+          "target_y": 36
+        },
+        {
+          "x": 19,
+          "y": 38,
+          "target_world": "cyberspace",
+          "target_area": "memory-sector",
+          "target_x": 19,
+          "target_y": 10
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 135.0
+    },
+    {
+      "area_key": "memory-sector",
+      "display_name": "Geargrid",
+      "asset": "images/worlds/cyberspace/geargrid.png",
+      "sha256": "b585a53ca41c2d54342d927f6d693e4ecd27792386e25c8e59963b9cdd111a78",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 554,
+      "blocked_cells": 890,
+      "encounter_cells": 271,
+      "spawn_points": [
+        [
+          19,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 7,
+          "target_world": "cyberspace",
+          "target_area": "firewall-ridge",
+          "target_x": 19,
+          "target_y": 36
+        },
+        {
+          "x": 19,
+          "y": 37,
+          "target_world": "cyberspace",
+          "target_area": "data-stream-delta",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 65.0
+    },
+    {
+      "area_key": "data-stream-delta",
+      "display_name": "Encrypt Field",
+      "asset": "images/worlds/cyberspace/encrypt-field.png",
+      "sha256": "c5e754bcdb50472b9b56c584362a7779422ce7a15e57f3e3c4f2f28e602f5966",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 428,
+      "blocked_cells": 1016,
+      "encounter_cells": 199,
+      "spawn_points": [
+        [
+          19,
+          24
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 5,
+          "target_world": "cyberspace",
+          "target_area": "memory-sector",
+          "target_x": 19,
+          "target_y": 35
+        },
+        {
+          "x": 19,
+          "y": 38,
+          "target_world": "cyberspace",
+          "target_area": "server-ruins",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 55.0
+    },
+    {
+      "area_key": "server-ruins",
+      "display_name": "Node Link",
+      "asset": "images/worlds/cyberspace/node-link.png",
+      "sha256": "b5e37580e5afa3b91ebc8d7f88d02671b64c89e4f94fd6f2c4d857543c5e7bd7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 839,
+      "blocked_cells": 605,
+      "encounter_cells": 438,
+      "spawn_points": [
+        [
+          19,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 5,
+          "target_world": "cyberspace",
+          "target_area": "data-stream-delta",
+          "target_x": 19,
+          "target_y": 36
+        },
+        {
+          "x": 19,
+          "y": 37,
+          "target_world": "cyberspace",
+          "target_area": "kernel-garden",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 50.0
+    },
+    {
+      "area_key": "kernel-garden",
+      "display_name": "Firewall",
+      "asset": "images/worlds/cyberspace/firewall.png",
+      "sha256": "bee2c4081385b60e6d072e4c80ff4ac891d6b4ff96bad385f3a23edebf473153",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 618,
+      "blocked_cells": 826,
+      "encounter_cells": 310,
+      "spawn_points": [
+        [
+          19,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 5,
+          "target_world": "cyberspace",
+          "target_area": "server-ruins",
+          "target_x": 19,
+          "target_y": 35
+        },
+        {
+          "x": 19,
+          "y": 37,
+          "target_world": "cyberspace",
+          "target_area": "core-nexus",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 35.0
+    },
+    {
+      "area_key": "core-nexus",
+      "display_name": "Mainframe",
+      "asset": "images/worlds/cyberspace/mainframe.png",
+      "sha256": "a49ff436135c8776dc442d0837900d10f92c0942a465ce499210aaef2e5afffc",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 579,
+      "blocked_cells": 865,
+      "encounter_cells": 287,
+      "spawn_points": [
+        [
+          12,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 6,
+          "target_world": "cyberspace",
+          "target_area": "kernel-garden",
+          "target_x": 19,
+          "target_y": 35
+        },
+        {
+          "x": 19,
+          "y": 37,
+          "target_world": "cyberspace",
+          "target_area": "the-core",
+          "target_x": 19,
+          "target_y": 9
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 85.0
+    },
+    {
+      "area_key": "the-core",
+      "display_name": "The Core",
+      "asset": "images/worlds/cyberspace/the-core.png",
+      "sha256": "b0ea9a86e469e13fe5fa045ce0ee63d63e8266cac8aa7ab37a3bff44cf593adf",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "grid": [
+        38,
+        38
+      ],
+      "display_tile_size": 33,
+      "walkable_cells": 643,
+      "blocked_cells": 801,
+      "encounter_cells": 348,
+      "spawn_points": [
+        [
+          12,
+          20
+        ]
+      ],
+      "transitions": [
+        {
+          "x": 19,
+          "y": 5,
+          "target_world": "cyberspace",
+          "target_area": "core-nexus",
+          "target_x": 19,
+          "target_y": 34
+        }
+      ],
+      "collision_generation": "median-luminance-main-component-v2",
+      "threshold": 50.0
+    }
+  ]
+}

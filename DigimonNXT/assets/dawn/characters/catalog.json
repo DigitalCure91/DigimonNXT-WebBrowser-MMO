@@ -1,0 +1,7122 @@
+[
+  {
+    "source_id": 0,
+    "sprite": "assets/dawn/characters/character_000.png",
+    "frames": 1,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 1,
+    "sprite": "assets/dawn/characters/character_001.png",
+    "frames": 1,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 2,
+    "sprite": "assets/dawn/characters/character_002.png",
+    "frames": 25,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 3,
+    "sprite": "assets/dawn/characters/character_003.png",
+    "frames": 25,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 4,
+    "sprite": "assets/dawn/characters/character_004.png",
+    "frames": 25,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 5,
+    "sprite": "assets/dawn/characters/character_005.png",
+    "frames": 25,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 6,
+    "sprite": "assets/dawn/characters/character_006.png",
+    "frames": 57,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 7,
+    "sprite": "assets/dawn/characters/character_007.png",
+    "frames": 57,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 8,
+    "sprite": "assets/dawn/characters/character_008.png",
+    "frames": 57,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 9,
+    "sprite": "assets/dawn/characters/character_009.png",
+    "frames": 57,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 10,
+    "sprite": "assets/dawn/characters/character_010.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 11,
+    "sprite": "assets/dawn/characters/character_011.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 12,
+    "sprite": "assets/dawn/characters/character_012.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 13,
+    "sprite": "assets/dawn/characters/character_013.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 14,
+    "sprite": "assets/dawn/characters/character_014.png",
+    "frames": 27,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 15,
+    "sprite": "assets/dawn/characters/character_015.png",
+    "frames": 15,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 16,
+    "sprite": "assets/dawn/characters/character_016.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 17,
+    "sprite": "assets/dawn/characters/character_017.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 18,
+    "sprite": "assets/dawn/characters/character_018.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 19,
+    "sprite": "assets/dawn/characters/character_019.png",
+    "frames": 18,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 20,
+    "sprite": "assets/dawn/characters/character_020.png",
+    "frames": 15,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 21,
+    "sprite": "assets/dawn/characters/character_021.png",
+    "frames": 19,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 22,
+    "sprite": "assets/dawn/characters/character_022.png",
+    "frames": 22,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 23,
+    "sprite": "assets/dawn/characters/character_023.png",
+    "frames": 16,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 24,
+    "sprite": "assets/dawn/characters/character_024.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 25,
+    "sprite": "assets/dawn/characters/character_025.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 26,
+    "sprite": "assets/dawn/characters/character_026.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 27,
+    "sprite": "assets/dawn/characters/character_027.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 28,
+    "sprite": "assets/dawn/characters/character_028.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 29,
+    "sprite": "assets/dawn/characters/character_029.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 30,
+    "sprite": "assets/dawn/characters/character_030.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 31,
+    "sprite": "assets/dawn/characters/character_031.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 32,
+    "sprite": "assets/dawn/characters/character_032.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 33,
+    "sprite": "assets/dawn/characters/character_033.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 34,
+    "sprite": "assets/dawn/characters/character_034.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 35,
+    "sprite": "assets/dawn/characters/character_035.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 36,
+    "sprite": "assets/dawn/characters/character_036.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 37,
+    "sprite": "assets/dawn/characters/character_037.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 38,
+    "sprite": "assets/dawn/characters/character_038.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 39,
+    "sprite": "assets/dawn/characters/character_039.png",
+    "frames": 18,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 40,
+    "sprite": "assets/dawn/characters/character_040.png",
+    "frames": 3,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 41,
+    "sprite": "assets/dawn/characters/character_041.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 42,
+    "sprite": "assets/dawn/characters/character_042.png",
+    "frames": 28,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 43,
+    "sprite": "assets/dawn/characters/character_043.png",
+    "frames": 46,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 44,
+    "sprite": "assets/dawn/characters/character_044.png",
+    "frames": 26,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 45,
+    "sprite": "assets/dawn/characters/character_045.png",
+    "frames": 15,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 46,
+    "sprite": "assets/dawn/characters/character_046.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 47,
+    "sprite": "assets/dawn/characters/character_047.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 48,
+    "sprite": "assets/dawn/characters/character_048.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 49,
+    "sprite": "assets/dawn/characters/character_049.png",
+    "frames": 20,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 50,
+    "sprite": "assets/dawn/characters/character_050.png",
+    "frames": 20,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 51,
+    "sprite": "assets/dawn/characters/character_051.png",
+    "frames": 13,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 52,
+    "sprite": "assets/dawn/characters/character_052.png",
+    "frames": 30,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 53,
+    "sprite": "assets/dawn/characters/character_053.png",
+    "frames": 15,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 54,
+    "sprite": "assets/dawn/characters/character_054.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 55,
+    "sprite": "assets/dawn/characters/character_055.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 56,
+    "sprite": "assets/dawn/characters/character_056.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 57,
+    "sprite": "assets/dawn/characters/character_057.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 58,
+    "sprite": "assets/dawn/characters/character_058.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 59,
+    "sprite": "assets/dawn/characters/character_059.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 60,
+    "sprite": "assets/dawn/characters/character_060.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 61,
+    "sprite": "assets/dawn/characters/character_061.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 62,
+    "sprite": "assets/dawn/characters/character_062.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 63,
+    "sprite": "assets/dawn/characters/character_063.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 64,
+    "sprite": "assets/dawn/characters/character_064.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 65,
+    "sprite": "assets/dawn/characters/character_065.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 66,
+    "sprite": "assets/dawn/characters/character_066.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 67,
+    "sprite": "assets/dawn/characters/character_067.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 68,
+    "sprite": "assets/dawn/characters/character_068.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 69,
+    "sprite": "assets/dawn/characters/character_069.png",
+    "frames": 18,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 70,
+    "sprite": "assets/dawn/characters/character_070.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 71,
+    "sprite": "assets/dawn/characters/character_071.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 72,
+    "sprite": "assets/dawn/characters/character_072.png",
+    "frames": 25,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 73,
+    "sprite": "assets/dawn/characters/character_073.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 74,
+    "sprite": "assets/dawn/characters/character_074.png",
+    "frames": 17,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 75,
+    "sprite": "assets/dawn/characters/character_075.png",
+    "frames": 17,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 76,
+    "sprite": "assets/dawn/characters/character_076.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 77,
+    "sprite": "assets/dawn/characters/character_077.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 78,
+    "sprite": "assets/dawn/characters/character_078.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 79,
+    "sprite": "assets/dawn/characters/character_079.png",
+    "frames": 6,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 80,
+    "sprite": "assets/dawn/characters/character_080.png",
+    "frames": 6,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 81,
+    "sprite": "assets/dawn/characters/character_081.png",
+    "frames": 8,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 82,
+    "sprite": "assets/dawn/characters/character_082.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 83,
+    "sprite": "assets/dawn/characters/character_083.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 84,
+    "sprite": "assets/dawn/characters/character_084.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 85,
+    "sprite": "assets/dawn/characters/character_085.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 86,
+    "sprite": "assets/dawn/characters/character_086.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 87,
+    "sprite": "assets/dawn/characters/character_087.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 88,
+    "sprite": "assets/dawn/characters/character_088.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 89,
+    "sprite": "assets/dawn/characters/character_089.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 90,
+    "sprite": "assets/dawn/characters/character_090.png",
+    "frames": 8,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 91,
+    "sprite": "assets/dawn/characters/character_091.png",
+    "frames": 12,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 92,
+    "sprite": "assets/dawn/characters/character_092.png",
+    "frames": 12,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 93,
+    "sprite": "assets/dawn/characters/character_093.png",
+    "frames": 57,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 94,
+    "sprite": "assets/dawn/characters/character_094.png",
+    "frames": 57,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 95,
+    "sprite": "assets/dawn/characters/character_095.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 96,
+    "sprite": "assets/dawn/characters/character_096.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 97,
+    "sprite": "assets/dawn/characters/character_097.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 98,
+    "sprite": "assets/dawn/characters/character_098.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 99,
+    "sprite": "assets/dawn/characters/character_099.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 100,
+    "sprite": "assets/dawn/characters/character_100.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 101,
+    "sprite": "assets/dawn/characters/character_101.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 102,
+    "sprite": "assets/dawn/characters/character_102.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 103,
+    "sprite": "assets/dawn/characters/character_103.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 104,
+    "sprite": "assets/dawn/characters/character_104.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 105,
+    "sprite": "assets/dawn/characters/character_105.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 106,
+    "sprite": "assets/dawn/characters/character_106.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 107,
+    "sprite": "assets/dawn/characters/character_107.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 108,
+    "sprite": "assets/dawn/characters/character_108.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 109,
+    "sprite": "assets/dawn/characters/character_109.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 110,
+    "sprite": "assets/dawn/characters/character_110.png",
+    "frames": 6,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 111,
+    "sprite": "assets/dawn/characters/character_111.png",
+    "frames": 13,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 112,
+    "sprite": "assets/dawn/characters/character_112.png",
+    "frames": 13,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 113,
+    "sprite": "assets/dawn/characters/character_113.png",
+    "frames": 16,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 114,
+    "sprite": "assets/dawn/characters/character_114.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 115,
+    "sprite": "assets/dawn/characters/character_115.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 116,
+    "sprite": "assets/dawn/characters/character_116.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 117,
+    "sprite": "assets/dawn/characters/character_117.png",
+    "frames": 9,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 118,
+    "sprite": "assets/dawn/characters/character_118.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 119,
+    "sprite": "assets/dawn/characters/character_119.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 120,
+    "sprite": "assets/dawn/characters/character_120.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 121,
+    "sprite": "assets/dawn/characters/character_121.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 122,
+    "sprite": "assets/dawn/characters/character_122.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 123,
+    "sprite": "assets/dawn/characters/character_123.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 124,
+    "sprite": "assets/dawn/characters/character_124.png",
+    "frames": 9,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 125,
+    "sprite": "assets/dawn/characters/character_125.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 126,
+    "sprite": "assets/dawn/characters/character_126.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 127,
+    "sprite": "assets/dawn/characters/character_127.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 128,
+    "sprite": "assets/dawn/characters/character_128.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 129,
+    "sprite": "assets/dawn/characters/character_129.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 130,
+    "sprite": "assets/dawn/characters/character_130.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 131,
+    "sprite": "assets/dawn/characters/character_131.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 132,
+    "sprite": "assets/dawn/characters/character_132.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 133,
+    "sprite": "assets/dawn/characters/character_133.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 134,
+    "sprite": "assets/dawn/characters/character_134.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 135,
+    "sprite": "assets/dawn/characters/character_135.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 136,
+    "sprite": "assets/dawn/characters/character_136.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 137,
+    "sprite": "assets/dawn/characters/character_137.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 138,
+    "sprite": "assets/dawn/characters/character_138.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 139,
+    "sprite": "assets/dawn/characters/character_139.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 140,
+    "sprite": "assets/dawn/characters/character_140.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 141,
+    "sprite": "assets/dawn/characters/character_141.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 142,
+    "sprite": "assets/dawn/characters/character_142.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 143,
+    "sprite": "assets/dawn/characters/character_143.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 144,
+    "sprite": "assets/dawn/characters/character_144.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 145,
+    "sprite": "assets/dawn/characters/character_145.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 146,
+    "sprite": "assets/dawn/characters/character_146.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 147,
+    "sprite": "assets/dawn/characters/character_147.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 148,
+    "sprite": "assets/dawn/characters/character_148.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 149,
+    "sprite": "assets/dawn/characters/character_149.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 150,
+    "sprite": "assets/dawn/characters/character_150.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 151,
+    "sprite": "assets/dawn/characters/character_151.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 152,
+    "sprite": "assets/dawn/characters/character_152.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 153,
+    "sprite": "assets/dawn/characters/character_153.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 154,
+    "sprite": "assets/dawn/characters/character_154.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 155,
+    "sprite": "assets/dawn/characters/character_155.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 156,
+    "sprite": "assets/dawn/characters/character_156.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 157,
+    "sprite": "assets/dawn/characters/character_157.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 158,
+    "sprite": "assets/dawn/characters/character_158.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 159,
+    "sprite": "assets/dawn/characters/character_159.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 160,
+    "sprite": "assets/dawn/characters/character_160.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 161,
+    "sprite": "assets/dawn/characters/character_161.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 162,
+    "sprite": "assets/dawn/characters/character_162.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 163,
+    "sprite": "assets/dawn/characters/character_163.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 164,
+    "sprite": "assets/dawn/characters/character_164.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 165,
+    "sprite": "assets/dawn/characters/character_165.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 166,
+    "sprite": "assets/dawn/characters/character_166.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 167,
+    "sprite": "assets/dawn/characters/character_167.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 168,
+    "sprite": "assets/dawn/characters/character_168.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 169,
+    "sprite": "assets/dawn/characters/character_169.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 170,
+    "sprite": "assets/dawn/characters/character_170.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 171,
+    "sprite": "assets/dawn/characters/character_171.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 172,
+    "sprite": "assets/dawn/characters/character_172.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 173,
+    "sprite": "assets/dawn/characters/character_173.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 174,
+    "sprite": "assets/dawn/characters/character_174.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 175,
+    "sprite": "assets/dawn/characters/character_175.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 176,
+    "sprite": "assets/dawn/characters/character_176.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 177,
+    "sprite": "assets/dawn/characters/character_177.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 178,
+    "sprite": "assets/dawn/characters/character_178.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 179,
+    "sprite": "assets/dawn/characters/character_179.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 180,
+    "sprite": "assets/dawn/characters/character_180.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 181,
+    "sprite": "assets/dawn/characters/character_181.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 182,
+    "sprite": "assets/dawn/characters/character_182.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 183,
+    "sprite": "assets/dawn/characters/character_183.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 184,
+    "sprite": "assets/dawn/characters/character_184.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 185,
+    "sprite": "assets/dawn/characters/character_185.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 186,
+    "sprite": "assets/dawn/characters/character_186.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 187,
+    "sprite": "assets/dawn/characters/character_187.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 188,
+    "sprite": "assets/dawn/characters/character_188.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 189,
+    "sprite": "assets/dawn/characters/character_189.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 190,
+    "sprite": "assets/dawn/characters/character_190.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 191,
+    "sprite": "assets/dawn/characters/character_191.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 192,
+    "sprite": "assets/dawn/characters/character_192.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 193,
+    "sprite": "assets/dawn/characters/character_193.png",
+    "frames": 6,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 194,
+    "sprite": "assets/dawn/characters/character_194.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 195,
+    "sprite": "assets/dawn/characters/character_195.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 196,
+    "sprite": "assets/dawn/characters/character_196.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 197,
+    "sprite": "assets/dawn/characters/character_197.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 198,
+    "sprite": "assets/dawn/characters/character_198.png",
+    "frames": 6,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 199,
+    "sprite": "assets/dawn/characters/character_199.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 200,
+    "sprite": "assets/dawn/characters/character_200.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 201,
+    "sprite": "assets/dawn/characters/character_201.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 202,
+    "sprite": "assets/dawn/characters/character_202.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 203,
+    "sprite": "assets/dawn/characters/character_203.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 204,
+    "sprite": "assets/dawn/characters/character_204.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 205,
+    "sprite": "assets/dawn/characters/character_205.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 206,
+    "sprite": "assets/dawn/characters/character_206.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 207,
+    "sprite": "assets/dawn/characters/character_207.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 208,
+    "sprite": "assets/dawn/characters/character_208.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 209,
+    "sprite": "assets/dawn/characters/character_209.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 210,
+    "sprite": "assets/dawn/characters/character_210.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 211,
+    "sprite": "assets/dawn/characters/character_211.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 212,
+    "sprite": "assets/dawn/characters/character_212.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 213,
+    "sprite": "assets/dawn/characters/character_213.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 214,
+    "sprite": "assets/dawn/characters/character_214.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 215,
+    "sprite": "assets/dawn/characters/character_215.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 216,
+    "sprite": "assets/dawn/characters/character_216.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 217,
+    "sprite": "assets/dawn/characters/character_217.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 218,
+    "sprite": "assets/dawn/characters/character_218.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 219,
+    "sprite": "assets/dawn/characters/character_219.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 220,
+    "sprite": "assets/dawn/characters/character_220.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 221,
+    "sprite": "assets/dawn/characters/character_221.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 222,
+    "sprite": "assets/dawn/characters/character_222.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 223,
+    "sprite": "assets/dawn/characters/character_223.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 224,
+    "sprite": "assets/dawn/characters/character_224.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 225,
+    "sprite": "assets/dawn/characters/character_225.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 226,
+    "sprite": "assets/dawn/characters/character_226.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 227,
+    "sprite": "assets/dawn/characters/character_227.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 228,
+    "sprite": "assets/dawn/characters/character_228.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 229,
+    "sprite": "assets/dawn/characters/character_229.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 230,
+    "sprite": "assets/dawn/characters/character_230.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 231,
+    "sprite": "assets/dawn/characters/character_231.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 232,
+    "sprite": "assets/dawn/characters/character_232.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 233,
+    "sprite": "assets/dawn/characters/character_233.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 234,
+    "sprite": "assets/dawn/characters/character_234.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 235,
+    "sprite": "assets/dawn/characters/character_235.png",
+    "frames": 9,
+    "shape": 10,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "source_id": 236,
+    "sprite": "assets/dawn/characters/character_236.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 237,
+    "sprite": "assets/dawn/characters/character_237.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 238,
+    "sprite": "assets/dawn/characters/character_238.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 239,
+    "sprite": "assets/dawn/characters/character_239.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 240,
+    "sprite": "assets/dawn/characters/character_240.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 241,
+    "sprite": "assets/dawn/characters/character_241.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 242,
+    "sprite": "assets/dawn/characters/character_242.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 243,
+    "sprite": "assets/dawn/characters/character_243.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 244,
+    "sprite": "assets/dawn/characters/character_244.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 245,
+    "sprite": "assets/dawn/characters/character_245.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 246,
+    "sprite": "assets/dawn/characters/character_246.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 247,
+    "sprite": "assets/dawn/characters/character_247.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 248,
+    "sprite": "assets/dawn/characters/character_248.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 249,
+    "sprite": "assets/dawn/characters/character_249.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 250,
+    "sprite": "assets/dawn/characters/character_250.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 251,
+    "sprite": "assets/dawn/characters/character_251.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 252,
+    "sprite": "assets/dawn/characters/character_252.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 253,
+    "sprite": "assets/dawn/characters/character_253.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 254,
+    "sprite": "assets/dawn/characters/character_254.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 255,
+    "sprite": "assets/dawn/characters/character_255.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 256,
+    "sprite": "assets/dawn/characters/character_256.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 257,
+    "sprite": "assets/dawn/characters/character_257.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 258,
+    "sprite": "assets/dawn/characters/character_258.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 259,
+    "sprite": "assets/dawn/characters/character_259.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 260,
+    "sprite": "assets/dawn/characters/character_260.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 261,
+    "sprite": "assets/dawn/characters/character_261.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 262,
+    "sprite": "assets/dawn/characters/character_262.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 263,
+    "sprite": "assets/dawn/characters/character_263.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 264,
+    "sprite": "assets/dawn/characters/character_264.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 265,
+    "sprite": "assets/dawn/characters/character_265.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 266,
+    "sprite": "assets/dawn/characters/character_266.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 267,
+    "sprite": "assets/dawn/characters/character_267.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 268,
+    "sprite": "assets/dawn/characters/character_268.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 269,
+    "sprite": "assets/dawn/characters/character_269.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 270,
+    "sprite": "assets/dawn/characters/character_270.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 271,
+    "sprite": "assets/dawn/characters/character_271.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 272,
+    "sprite": "assets/dawn/characters/character_272.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 273,
+    "sprite": "assets/dawn/characters/character_273.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 274,
+    "sprite": "assets/dawn/characters/character_274.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 275,
+    "sprite": "assets/dawn/characters/character_275.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 276,
+    "sprite": "assets/dawn/characters/character_276.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 277,
+    "sprite": "assets/dawn/characters/character_277.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 278,
+    "sprite": "assets/dawn/characters/character_278.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 279,
+    "sprite": "assets/dawn/characters/character_279.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 280,
+    "sprite": "assets/dawn/characters/character_280.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 281,
+    "sprite": "assets/dawn/characters/character_281.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 282,
+    "sprite": "assets/dawn/characters/character_282.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 283,
+    "sprite": "assets/dawn/characters/character_283.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 284,
+    "sprite": "assets/dawn/characters/character_284.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 285,
+    "sprite": "assets/dawn/characters/character_285.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 286,
+    "sprite": "assets/dawn/characters/character_286.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 287,
+    "sprite": "assets/dawn/characters/character_287.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 288,
+    "sprite": "assets/dawn/characters/character_288.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 289,
+    "sprite": "assets/dawn/characters/character_289.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 290,
+    "sprite": "assets/dawn/characters/character_290.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 291,
+    "sprite": "assets/dawn/characters/character_291.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 292,
+    "sprite": "assets/dawn/characters/character_292.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 293,
+    "sprite": "assets/dawn/characters/character_293.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 294,
+    "sprite": "assets/dawn/characters/character_294.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 295,
+    "sprite": "assets/dawn/characters/character_295.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 296,
+    "sprite": "assets/dawn/characters/character_296.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 297,
+    "sprite": "assets/dawn/characters/character_297.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 298,
+    "sprite": "assets/dawn/characters/character_298.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 299,
+    "sprite": "assets/dawn/characters/character_299.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 300,
+    "sprite": "assets/dawn/characters/character_300.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 301,
+    "sprite": "assets/dawn/characters/character_301.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 302,
+    "sprite": "assets/dawn/characters/character_302.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 303,
+    "sprite": "assets/dawn/characters/character_303.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 304,
+    "sprite": "assets/dawn/characters/character_304.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 305,
+    "sprite": "assets/dawn/characters/character_305.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 306,
+    "sprite": "assets/dawn/characters/character_306.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 307,
+    "sprite": "assets/dawn/characters/character_307.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 308,
+    "sprite": "assets/dawn/characters/character_308.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 309,
+    "sprite": "assets/dawn/characters/character_309.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 310,
+    "sprite": "assets/dawn/characters/character_310.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 311,
+    "sprite": "assets/dawn/characters/character_311.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 312,
+    "sprite": "assets/dawn/characters/character_312.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 313,
+    "sprite": "assets/dawn/characters/character_313.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 314,
+    "sprite": "assets/dawn/characters/character_314.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 315,
+    "sprite": "assets/dawn/characters/character_315.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 316,
+    "sprite": "assets/dawn/characters/character_316.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 317,
+    "sprite": "assets/dawn/characters/character_317.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 318,
+    "sprite": "assets/dawn/characters/character_318.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 319,
+    "sprite": "assets/dawn/characters/character_319.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 320,
+    "sprite": "assets/dawn/characters/character_320.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 321,
+    "sprite": "assets/dawn/characters/character_321.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 322,
+    "sprite": "assets/dawn/characters/character_322.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 323,
+    "sprite": "assets/dawn/characters/character_323.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 324,
+    "sprite": "assets/dawn/characters/character_324.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 325,
+    "sprite": "assets/dawn/characters/character_325.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 326,
+    "sprite": "assets/dawn/characters/character_326.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 327,
+    "sprite": "assets/dawn/characters/character_327.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 328,
+    "sprite": "assets/dawn/characters/character_328.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 329,
+    "sprite": "assets/dawn/characters/character_329.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 330,
+    "sprite": "assets/dawn/characters/character_330.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 331,
+    "sprite": "assets/dawn/characters/character_331.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 332,
+    "sprite": "assets/dawn/characters/character_332.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 333,
+    "sprite": "assets/dawn/characters/character_333.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 334,
+    "sprite": "assets/dawn/characters/character_334.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 335,
+    "sprite": "assets/dawn/characters/character_335.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 336,
+    "sprite": "assets/dawn/characters/character_336.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 337,
+    "sprite": "assets/dawn/characters/character_337.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 338,
+    "sprite": "assets/dawn/characters/character_338.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 339,
+    "sprite": "assets/dawn/characters/character_339.png",
+    "frames": 9,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 340,
+    "sprite": "assets/dawn/characters/character_340.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 341,
+    "sprite": "assets/dawn/characters/character_341.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 342,
+    "sprite": "assets/dawn/characters/character_342.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 343,
+    "sprite": "assets/dawn/characters/character_343.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 344,
+    "sprite": "assets/dawn/characters/character_344.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 345,
+    "sprite": "assets/dawn/characters/character_345.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 346,
+    "sprite": "assets/dawn/characters/character_346.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 347,
+    "sprite": "assets/dawn/characters/character_347.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 348,
+    "sprite": "assets/dawn/characters/character_348.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 349,
+    "sprite": "assets/dawn/characters/character_349.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 350,
+    "sprite": "assets/dawn/characters/character_350.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 351,
+    "sprite": "assets/dawn/characters/character_351.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 352,
+    "sprite": "assets/dawn/characters/character_352.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 353,
+    "sprite": "assets/dawn/characters/character_353.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 354,
+    "sprite": "assets/dawn/characters/character_354.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 355,
+    "sprite": "assets/dawn/characters/character_355.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 356,
+    "sprite": "assets/dawn/characters/character_356.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 357,
+    "sprite": "assets/dawn/characters/character_357.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 358,
+    "sprite": "assets/dawn/characters/character_358.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 359,
+    "sprite": "assets/dawn/characters/character_359.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 360,
+    "sprite": "assets/dawn/characters/character_360.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 361,
+    "sprite": "assets/dawn/characters/character_361.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 362,
+    "sprite": "assets/dawn/characters/character_362.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 363,
+    "sprite": "assets/dawn/characters/character_363.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 364,
+    "sprite": "assets/dawn/characters/character_364.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 365,
+    "sprite": "assets/dawn/characters/character_365.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 366,
+    "sprite": "assets/dawn/characters/character_366.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 367,
+    "sprite": "assets/dawn/characters/character_367.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 368,
+    "sprite": "assets/dawn/characters/character_368.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 369,
+    "sprite": "assets/dawn/characters/character_369.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 370,
+    "sprite": "assets/dawn/characters/character_370.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 371,
+    "sprite": "assets/dawn/characters/character_371.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 372,
+    "sprite": "assets/dawn/characters/character_372.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 373,
+    "sprite": "assets/dawn/characters/character_373.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 374,
+    "sprite": "assets/dawn/characters/character_374.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 375,
+    "sprite": "assets/dawn/characters/character_375.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 376,
+    "sprite": "assets/dawn/characters/character_376.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 377,
+    "sprite": "assets/dawn/characters/character_377.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 378,
+    "sprite": "assets/dawn/characters/character_378.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 379,
+    "sprite": "assets/dawn/characters/character_379.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 380,
+    "sprite": "assets/dawn/characters/character_380.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 381,
+    "sprite": "assets/dawn/characters/character_381.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 382,
+    "sprite": "assets/dawn/characters/character_382.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 383,
+    "sprite": "assets/dawn/characters/character_383.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 384,
+    "sprite": "assets/dawn/characters/character_384.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 385,
+    "sprite": "assets/dawn/characters/character_385.png",
+    "frames": 8,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 386,
+    "sprite": "assets/dawn/characters/character_386.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 387,
+    "sprite": "assets/dawn/characters/character_387.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 388,
+    "sprite": "assets/dawn/characters/character_388.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 389,
+    "sprite": "assets/dawn/characters/character_389.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 390,
+    "sprite": "assets/dawn/characters/character_390.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 391,
+    "sprite": "assets/dawn/characters/character_391.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 392,
+    "sprite": "assets/dawn/characters/character_392.png",
+    "frames": 9,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 393,
+    "sprite": "assets/dawn/characters/character_393.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 394,
+    "sprite": "assets/dawn/characters/character_394.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 395,
+    "sprite": "assets/dawn/characters/character_395.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 396,
+    "sprite": "assets/dawn/characters/character_396.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 397,
+    "sprite": "assets/dawn/characters/character_397.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 398,
+    "sprite": "assets/dawn/characters/character_398.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 399,
+    "sprite": "assets/dawn/characters/character_399.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 400,
+    "sprite": "assets/dawn/characters/character_400.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 401,
+    "sprite": "assets/dawn/characters/character_401.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 402,
+    "sprite": "assets/dawn/characters/character_402.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 403,
+    "sprite": "assets/dawn/characters/character_403.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 404,
+    "sprite": "assets/dawn/characters/character_404.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 405,
+    "sprite": "assets/dawn/characters/character_405.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 406,
+    "sprite": "assets/dawn/characters/character_406.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 407,
+    "sprite": "assets/dawn/characters/character_407.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 408,
+    "sprite": "assets/dawn/characters/character_408.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 409,
+    "sprite": "assets/dawn/characters/character_409.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 410,
+    "sprite": "assets/dawn/characters/character_410.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 411,
+    "sprite": "assets/dawn/characters/character_411.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 412,
+    "sprite": "assets/dawn/characters/character_412.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 413,
+    "sprite": "assets/dawn/characters/character_413.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 414,
+    "sprite": "assets/dawn/characters/character_414.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 415,
+    "sprite": "assets/dawn/characters/character_415.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 416,
+    "sprite": "assets/dawn/characters/character_416.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 417,
+    "sprite": "assets/dawn/characters/character_417.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 418,
+    "sprite": "assets/dawn/characters/character_418.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 419,
+    "sprite": "assets/dawn/characters/character_419.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 420,
+    "sprite": "assets/dawn/characters/character_420.png",
+    "frames": 10,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 421,
+    "sprite": "assets/dawn/characters/character_421.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 422,
+    "sprite": "assets/dawn/characters/character_422.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 423,
+    "sprite": "assets/dawn/characters/character_423.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 424,
+    "sprite": "assets/dawn/characters/character_424.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 425,
+    "sprite": "assets/dawn/characters/character_425.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 426,
+    "sprite": "assets/dawn/characters/character_426.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 427,
+    "sprite": "assets/dawn/characters/character_427.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 428,
+    "sprite": "assets/dawn/characters/character_428.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 429,
+    "sprite": "assets/dawn/characters/character_429.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 430,
+    "sprite": "assets/dawn/characters/character_430.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 431,
+    "sprite": "assets/dawn/characters/character_431.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 432,
+    "sprite": "assets/dawn/characters/character_432.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 433,
+    "sprite": "assets/dawn/characters/character_433.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 434,
+    "sprite": "assets/dawn/characters/character_434.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 435,
+    "sprite": "assets/dawn/characters/character_435.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 436,
+    "sprite": "assets/dawn/characters/character_436.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 437,
+    "sprite": "assets/dawn/characters/character_437.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 438,
+    "sprite": "assets/dawn/characters/character_438.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 439,
+    "sprite": "assets/dawn/characters/character_439.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 440,
+    "sprite": "assets/dawn/characters/character_440.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 441,
+    "sprite": "assets/dawn/characters/character_441.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 442,
+    "sprite": "assets/dawn/characters/character_442.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 443,
+    "sprite": "assets/dawn/characters/character_443.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 444,
+    "sprite": "assets/dawn/characters/character_444.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 445,
+    "sprite": "assets/dawn/characters/character_445.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 446,
+    "sprite": "assets/dawn/characters/character_446.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 447,
+    "sprite": "assets/dawn/characters/character_447.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 448,
+    "sprite": "assets/dawn/characters/character_448.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 449,
+    "sprite": "assets/dawn/characters/character_449.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 450,
+    "sprite": "assets/dawn/characters/character_450.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 451,
+    "sprite": "assets/dawn/characters/character_451.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 452,
+    "sprite": "assets/dawn/characters/character_452.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 453,
+    "sprite": "assets/dawn/characters/character_453.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 454,
+    "sprite": "assets/dawn/characters/character_454.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 455,
+    "sprite": "assets/dawn/characters/character_455.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 456,
+    "sprite": "assets/dawn/characters/character_456.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 457,
+    "sprite": "assets/dawn/characters/character_457.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 458,
+    "sprite": "assets/dawn/characters/character_458.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 459,
+    "sprite": "assets/dawn/characters/character_459.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 460,
+    "sprite": "assets/dawn/characters/character_460.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 461,
+    "sprite": "assets/dawn/characters/character_461.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 462,
+    "sprite": "assets/dawn/characters/character_462.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 463,
+    "sprite": "assets/dawn/characters/character_463.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 464,
+    "sprite": "assets/dawn/characters/character_464.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 465,
+    "sprite": "assets/dawn/characters/character_465.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 466,
+    "sprite": "assets/dawn/characters/character_466.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 467,
+    "sprite": "assets/dawn/characters/character_467.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 468,
+    "sprite": "assets/dawn/characters/character_468.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 469,
+    "sprite": "assets/dawn/characters/character_469.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 470,
+    "sprite": "assets/dawn/characters/character_470.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 471,
+    "sprite": "assets/dawn/characters/character_471.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 472,
+    "sprite": "assets/dawn/characters/character_472.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 473,
+    "sprite": "assets/dawn/characters/character_473.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 474,
+    "sprite": "assets/dawn/characters/character_474.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 475,
+    "sprite": "assets/dawn/characters/character_475.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 476,
+    "sprite": "assets/dawn/characters/character_476.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 477,
+    "sprite": "assets/dawn/characters/character_477.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 478,
+    "sprite": "assets/dawn/characters/character_478.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 479,
+    "sprite": "assets/dawn/characters/character_479.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 480,
+    "sprite": "assets/dawn/characters/character_480.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 481,
+    "sprite": "assets/dawn/characters/character_481.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 482,
+    "sprite": "assets/dawn/characters/character_482.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 483,
+    "sprite": "assets/dawn/characters/character_483.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 484,
+    "sprite": "assets/dawn/characters/character_484.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 485,
+    "sprite": "assets/dawn/characters/character_485.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 486,
+    "sprite": "assets/dawn/characters/character_486.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 487,
+    "sprite": "assets/dawn/characters/character_487.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 488,
+    "sprite": "assets/dawn/characters/character_488.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 489,
+    "sprite": "assets/dawn/characters/character_489.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 490,
+    "sprite": "assets/dawn/characters/character_490.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 491,
+    "sprite": "assets/dawn/characters/character_491.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 492,
+    "sprite": "assets/dawn/characters/character_492.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 493,
+    "sprite": "assets/dawn/characters/character_493.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 494,
+    "sprite": "assets/dawn/characters/character_494.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 495,
+    "sprite": "assets/dawn/characters/character_495.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 496,
+    "sprite": "assets/dawn/characters/character_496.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 497,
+    "sprite": "assets/dawn/characters/character_497.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 498,
+    "sprite": "assets/dawn/characters/character_498.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 499,
+    "sprite": "assets/dawn/characters/character_499.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 500,
+    "sprite": "assets/dawn/characters/character_500.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 501,
+    "sprite": "assets/dawn/characters/character_501.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 502,
+    "sprite": "assets/dawn/characters/character_502.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 503,
+    "sprite": "assets/dawn/characters/character_503.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 504,
+    "sprite": "assets/dawn/characters/character_504.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 505,
+    "sprite": "assets/dawn/characters/character_505.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 506,
+    "sprite": "assets/dawn/characters/character_506.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 507,
+    "sprite": "assets/dawn/characters/character_507.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 508,
+    "sprite": "assets/dawn/characters/character_508.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 509,
+    "sprite": "assets/dawn/characters/character_509.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 510,
+    "sprite": "assets/dawn/characters/character_510.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 511,
+    "sprite": "assets/dawn/characters/character_511.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 512,
+    "sprite": "assets/dawn/characters/character_512.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 513,
+    "sprite": "assets/dawn/characters/character_513.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 514,
+    "sprite": "assets/dawn/characters/character_514.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 515,
+    "sprite": "assets/dawn/characters/character_515.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 516,
+    "sprite": "assets/dawn/characters/character_516.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 517,
+    "sprite": "assets/dawn/characters/character_517.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 518,
+    "sprite": "assets/dawn/characters/character_518.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 519,
+    "sprite": "assets/dawn/characters/character_519.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 520,
+    "sprite": "assets/dawn/characters/character_520.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 521,
+    "sprite": "assets/dawn/characters/character_521.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 522,
+    "sprite": "assets/dawn/characters/character_522.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 523,
+    "sprite": "assets/dawn/characters/character_523.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 524,
+    "sprite": "assets/dawn/characters/character_524.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 525,
+    "sprite": "assets/dawn/characters/character_525.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 526,
+    "sprite": "assets/dawn/characters/character_526.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 527,
+    "sprite": "assets/dawn/characters/character_527.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 528,
+    "sprite": "assets/dawn/characters/character_528.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 529,
+    "sprite": "assets/dawn/characters/character_529.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 530,
+    "sprite": "assets/dawn/characters/character_530.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 531,
+    "sprite": "assets/dawn/characters/character_531.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 532,
+    "sprite": "assets/dawn/characters/character_532.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 533,
+    "sprite": "assets/dawn/characters/character_533.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 534,
+    "sprite": "assets/dawn/characters/character_534.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 535,
+    "sprite": "assets/dawn/characters/character_535.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 536,
+    "sprite": "assets/dawn/characters/character_536.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 537,
+    "sprite": "assets/dawn/characters/character_537.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 538,
+    "sprite": "assets/dawn/characters/character_538.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 539,
+    "sprite": "assets/dawn/characters/character_539.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 540,
+    "sprite": "assets/dawn/characters/character_540.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 541,
+    "sprite": "assets/dawn/characters/character_541.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 542,
+    "sprite": "assets/dawn/characters/character_542.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 543,
+    "sprite": "assets/dawn/characters/character_543.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 544,
+    "sprite": "assets/dawn/characters/character_544.png",
+    "frames": 9,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 545,
+    "sprite": "assets/dawn/characters/character_545.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 546,
+    "sprite": "assets/dawn/characters/character_546.png",
+    "frames": 9,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 547,
+    "sprite": "assets/dawn/characters/character_547.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 548,
+    "sprite": "assets/dawn/characters/character_548.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 549,
+    "sprite": "assets/dawn/characters/character_549.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 550,
+    "sprite": "assets/dawn/characters/character_550.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 551,
+    "sprite": "assets/dawn/characters/character_551.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 552,
+    "sprite": "assets/dawn/characters/character_552.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 553,
+    "sprite": "assets/dawn/characters/character_553.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 554,
+    "sprite": "assets/dawn/characters/character_554.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 555,
+    "sprite": "assets/dawn/characters/character_555.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 556,
+    "sprite": "assets/dawn/characters/character_556.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 557,
+    "sprite": "assets/dawn/characters/character_557.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 558,
+    "sprite": "assets/dawn/characters/character_558.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 559,
+    "sprite": "assets/dawn/characters/character_559.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 560,
+    "sprite": "assets/dawn/characters/character_560.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 561,
+    "sprite": "assets/dawn/characters/character_561.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 562,
+    "sprite": "assets/dawn/characters/character_562.png",
+    "frames": 15,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 563,
+    "sprite": "assets/dawn/characters/character_563.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 564,
+    "sprite": "assets/dawn/characters/character_564.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 565,
+    "sprite": "assets/dawn/characters/character_565.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 566,
+    "sprite": "assets/dawn/characters/character_566.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 567,
+    "sprite": "assets/dawn/characters/character_567.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 568,
+    "sprite": "assets/dawn/characters/character_568.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 569,
+    "sprite": "assets/dawn/characters/character_569.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 570,
+    "sprite": "assets/dawn/characters/character_570.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 571,
+    "sprite": "assets/dawn/characters/character_571.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 572,
+    "sprite": "assets/dawn/characters/character_572.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 573,
+    "sprite": "assets/dawn/characters/character_573.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 574,
+    "sprite": "assets/dawn/characters/character_574.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 575,
+    "sprite": "assets/dawn/characters/character_575.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 576,
+    "sprite": "assets/dawn/characters/character_576.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 577,
+    "sprite": "assets/dawn/characters/character_577.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 578,
+    "sprite": "assets/dawn/characters/character_578.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 579,
+    "sprite": "assets/dawn/characters/character_579.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 580,
+    "sprite": "assets/dawn/characters/character_580.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 581,
+    "sprite": "assets/dawn/characters/character_581.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 582,
+    "sprite": "assets/dawn/characters/character_582.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 583,
+    "sprite": "assets/dawn/characters/character_583.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 584,
+    "sprite": "assets/dawn/characters/character_584.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 585,
+    "sprite": "assets/dawn/characters/character_585.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 586,
+    "sprite": "assets/dawn/characters/character_586.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 587,
+    "sprite": "assets/dawn/characters/character_587.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 588,
+    "sprite": "assets/dawn/characters/character_588.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 589,
+    "sprite": "assets/dawn/characters/character_589.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 590,
+    "sprite": "assets/dawn/characters/character_590.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 591,
+    "sprite": "assets/dawn/characters/character_591.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 592,
+    "sprite": "assets/dawn/characters/character_592.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 593,
+    "sprite": "assets/dawn/characters/character_593.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 594,
+    "sprite": "assets/dawn/characters/character_594.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 595,
+    "sprite": "assets/dawn/characters/character_595.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 596,
+    "sprite": "assets/dawn/characters/character_596.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 597,
+    "sprite": "assets/dawn/characters/character_597.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 598,
+    "sprite": "assets/dawn/characters/character_598.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 599,
+    "sprite": "assets/dawn/characters/character_599.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 600,
+    "sprite": "assets/dawn/characters/character_600.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 601,
+    "sprite": "assets/dawn/characters/character_601.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 602,
+    "sprite": "assets/dawn/characters/character_602.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 603,
+    "sprite": "assets/dawn/characters/character_603.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 604,
+    "sprite": "assets/dawn/characters/character_604.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 605,
+    "sprite": "assets/dawn/characters/character_605.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 606,
+    "sprite": "assets/dawn/characters/character_606.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 607,
+    "sprite": "assets/dawn/characters/character_607.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 608,
+    "sprite": "assets/dawn/characters/character_608.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 609,
+    "sprite": "assets/dawn/characters/character_609.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 610,
+    "sprite": "assets/dawn/characters/character_610.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 611,
+    "sprite": "assets/dawn/characters/character_611.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 612,
+    "sprite": "assets/dawn/characters/character_612.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 613,
+    "sprite": "assets/dawn/characters/character_613.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 614,
+    "sprite": "assets/dawn/characters/character_614.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 615,
+    "sprite": "assets/dawn/characters/character_615.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 616,
+    "sprite": "assets/dawn/characters/character_616.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 617,
+    "sprite": "assets/dawn/characters/character_617.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 618,
+    "sprite": "assets/dawn/characters/character_618.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 619,
+    "sprite": "assets/dawn/characters/character_619.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 620,
+    "sprite": "assets/dawn/characters/character_620.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 621,
+    "sprite": "assets/dawn/characters/character_621.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 622,
+    "sprite": "assets/dawn/characters/character_622.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 623,
+    "sprite": "assets/dawn/characters/character_623.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 624,
+    "sprite": "assets/dawn/characters/character_624.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 625,
+    "sprite": "assets/dawn/characters/character_625.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 626,
+    "sprite": "assets/dawn/characters/character_626.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 627,
+    "sprite": "assets/dawn/characters/character_627.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 628,
+    "sprite": "assets/dawn/characters/character_628.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 629,
+    "sprite": "assets/dawn/characters/character_629.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 630,
+    "sprite": "assets/dawn/characters/character_630.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 631,
+    "sprite": "assets/dawn/characters/character_631.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 632,
+    "sprite": "assets/dawn/characters/character_632.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 633,
+    "sprite": "assets/dawn/characters/character_633.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 634,
+    "sprite": "assets/dawn/characters/character_634.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 635,
+    "sprite": "assets/dawn/characters/character_635.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 636,
+    "sprite": "assets/dawn/characters/character_636.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 637,
+    "sprite": "assets/dawn/characters/character_637.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 638,
+    "sprite": "assets/dawn/characters/character_638.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 639,
+    "sprite": "assets/dawn/characters/character_639.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 640,
+    "sprite": "assets/dawn/characters/character_640.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 641,
+    "sprite": "assets/dawn/characters/character_641.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 642,
+    "sprite": "assets/dawn/characters/character_642.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 643,
+    "sprite": "assets/dawn/characters/character_643.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 644,
+    "sprite": "assets/dawn/characters/character_644.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 645,
+    "sprite": "assets/dawn/characters/character_645.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 646,
+    "sprite": "assets/dawn/characters/character_646.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 647,
+    "sprite": "assets/dawn/characters/character_647.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 648,
+    "sprite": "assets/dawn/characters/character_648.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 649,
+    "sprite": "assets/dawn/characters/character_649.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 650,
+    "sprite": "assets/dawn/characters/character_650.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 651,
+    "sprite": "assets/dawn/characters/character_651.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 652,
+    "sprite": "assets/dawn/characters/character_652.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 653,
+    "sprite": "assets/dawn/characters/character_653.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 654,
+    "sprite": "assets/dawn/characters/character_654.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 655,
+    "sprite": "assets/dawn/characters/character_655.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 656,
+    "sprite": "assets/dawn/characters/character_656.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 657,
+    "sprite": "assets/dawn/characters/character_657.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 658,
+    "sprite": "assets/dawn/characters/character_658.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 659,
+    "sprite": "assets/dawn/characters/character_659.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 660,
+    "sprite": "assets/dawn/characters/character_660.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 661,
+    "sprite": "assets/dawn/characters/character_661.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 662,
+    "sprite": "assets/dawn/characters/character_662.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 663,
+    "sprite": "assets/dawn/characters/character_663.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 664,
+    "sprite": "assets/dawn/characters/character_664.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 665,
+    "sprite": "assets/dawn/characters/character_665.png",
+    "frames": 2,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 666,
+    "sprite": "assets/dawn/characters/character_666.png",
+    "frames": 6,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 667,
+    "sprite": "assets/dawn/characters/character_667.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 668,
+    "sprite": "assets/dawn/characters/character_668.png",
+    "frames": 3,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  },
+  {
+    "source_id": 669,
+    "sprite": "assets/dawn/characters/character_669.png",
+    "frames": 2,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 670,
+    "sprite": "assets/dawn/characters/character_670.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 671,
+    "sprite": "assets/dawn/characters/character_671.png",
+    "frames": 2,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 672,
+    "sprite": "assets/dawn/characters/character_672.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 673,
+    "sprite": "assets/dawn/characters/character_673.png",
+    "frames": 3,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 674,
+    "sprite": "assets/dawn/characters/character_674.png",
+    "frames": 2,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 675,
+    "sprite": "assets/dawn/characters/character_675.png",
+    "frames": 2,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 676,
+    "sprite": "assets/dawn/characters/character_676.png",
+    "frames": 1,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 677,
+    "sprite": "assets/dawn/characters/character_677.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 678,
+    "sprite": "assets/dawn/characters/character_678.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 679,
+    "sprite": "assets/dawn/characters/character_679.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 680,
+    "sprite": "assets/dawn/characters/character_680.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 681,
+    "sprite": "assets/dawn/characters/character_681.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 682,
+    "sprite": "assets/dawn/characters/character_682.png",
+    "frames": 4,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 683,
+    "sprite": "assets/dawn/characters/character_683.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 684,
+    "sprite": "assets/dawn/characters/character_684.png",
+    "frames": 4,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 685,
+    "sprite": "assets/dawn/characters/character_685.png",
+    "frames": 14,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 686,
+    "sprite": "assets/dawn/characters/character_686.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 687,
+    "sprite": "assets/dawn/characters/character_687.png",
+    "frames": 14,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 688,
+    "sprite": "assets/dawn/characters/character_688.png",
+    "frames": 15,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 689,
+    "sprite": "assets/dawn/characters/character_689.png",
+    "frames": 11,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 690,
+    "sprite": "assets/dawn/characters/character_690.png",
+    "frames": 7,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 691,
+    "sprite": "assets/dawn/characters/character_691.png",
+    "frames": 4,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 692,
+    "sprite": "assets/dawn/characters/character_692.png",
+    "frames": 9,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 693,
+    "sprite": "assets/dawn/characters/character_693.png",
+    "frames": 5,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 694,
+    "sprite": "assets/dawn/characters/character_694.png",
+    "frames": 15,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 695,
+    "sprite": "assets/dawn/characters/character_695.png",
+    "frames": 4,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 696,
+    "sprite": "assets/dawn/characters/character_696.png",
+    "frames": 4,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 697,
+    "sprite": "assets/dawn/characters/character_697.png",
+    "frames": 2,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 698,
+    "sprite": "assets/dawn/characters/character_698.png",
+    "frames": 15,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 699,
+    "sprite": "assets/dawn/characters/character_699.png",
+    "frames": 15,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 700,
+    "sprite": "assets/dawn/characters/character_700.png",
+    "frames": 10,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 701,
+    "sprite": "assets/dawn/characters/character_701.png",
+    "frames": 5,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 702,
+    "sprite": "assets/dawn/characters/character_702.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 703,
+    "sprite": "assets/dawn/characters/character_703.png",
+    "frames": 12,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 704,
+    "sprite": "assets/dawn/characters/character_704.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 705,
+    "sprite": "assets/dawn/characters/character_705.png",
+    "frames": 12,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 706,
+    "sprite": "assets/dawn/characters/character_706.png",
+    "frames": 14,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 707,
+    "sprite": "assets/dawn/characters/character_707.png",
+    "frames": 16,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 708,
+    "sprite": "assets/dawn/characters/character_708.png",
+    "frames": 16,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 709,
+    "sprite": "assets/dawn/characters/character_709.png",
+    "frames": 14,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 710,
+    "sprite": "assets/dawn/characters/character_710.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 711,
+    "sprite": "assets/dawn/characters/character_711.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 712,
+    "sprite": "assets/dawn/characters/character_712.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 713,
+    "sprite": "assets/dawn/characters/character_713.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 714,
+    "sprite": "assets/dawn/characters/character_714.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 715,
+    "sprite": "assets/dawn/characters/character_715.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 716,
+    "sprite": "assets/dawn/characters/character_716.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 717,
+    "sprite": "assets/dawn/characters/character_717.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 718,
+    "sprite": "assets/dawn/characters/character_718.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 719,
+    "sprite": "assets/dawn/characters/character_719.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 720,
+    "sprite": "assets/dawn/characters/character_720.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 721,
+    "sprite": "assets/dawn/characters/character_721.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 722,
+    "sprite": "assets/dawn/characters/character_722.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 723,
+    "sprite": "assets/dawn/characters/character_723.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 724,
+    "sprite": "assets/dawn/characters/character_724.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 725,
+    "sprite": "assets/dawn/characters/character_725.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 726,
+    "sprite": "assets/dawn/characters/character_726.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 727,
+    "sprite": "assets/dawn/characters/character_727.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 728,
+    "sprite": "assets/dawn/characters/character_728.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 729,
+    "sprite": "assets/dawn/characters/character_729.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 730,
+    "sprite": "assets/dawn/characters/character_730.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 731,
+    "sprite": "assets/dawn/characters/character_731.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 732,
+    "sprite": "assets/dawn/characters/character_732.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 733,
+    "sprite": "assets/dawn/characters/character_733.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 734,
+    "sprite": "assets/dawn/characters/character_734.png",
+    "frames": 3,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 735,
+    "sprite": "assets/dawn/characters/character_735.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 736,
+    "sprite": "assets/dawn/characters/character_736.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 737,
+    "sprite": "assets/dawn/characters/character_737.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 738,
+    "sprite": "assets/dawn/characters/character_738.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 739,
+    "sprite": "assets/dawn/characters/character_739.png",
+    "frames": 10,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 740,
+    "sprite": "assets/dawn/characters/character_740.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 741,
+    "sprite": "assets/dawn/characters/character_741.png",
+    "frames": 2,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 742,
+    "sprite": "assets/dawn/characters/character_742.png",
+    "frames": 2,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 743,
+    "sprite": "assets/dawn/characters/character_743.png",
+    "frames": 10,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 744,
+    "sprite": "assets/dawn/characters/character_744.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 745,
+    "sprite": "assets/dawn/characters/character_745.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 746,
+    "sprite": "assets/dawn/characters/character_746.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 747,
+    "sprite": "assets/dawn/characters/character_747.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 748,
+    "sprite": "assets/dawn/characters/character_748.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 749,
+    "sprite": "assets/dawn/characters/character_749.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 750,
+    "sprite": "assets/dawn/characters/character_750.png",
+    "frames": 2,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  },
+  {
+    "source_id": 751,
+    "sprite": "assets/dawn/characters/character_751.png",
+    "frames": 4,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 752,
+    "sprite": "assets/dawn/characters/character_752.png",
+    "frames": 4,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 753,
+    "sprite": "assets/dawn/characters/character_753.png",
+    "frames": 4,
+    "shape": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source_id": 754,
+    "sprite": "assets/dawn/characters/character_754.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 755,
+    "sprite": "assets/dawn/characters/character_755.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 756,
+    "sprite": "assets/dawn/characters/character_756.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 757,
+    "sprite": "assets/dawn/characters/character_757.png",
+    "frames": 5,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 758,
+    "sprite": "assets/dawn/characters/character_758.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 759,
+    "sprite": "assets/dawn/characters/character_759.png",
+    "frames": 5,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 760,
+    "sprite": "assets/dawn/characters/character_760.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 761,
+    "sprite": "assets/dawn/characters/character_761.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 762,
+    "sprite": "assets/dawn/characters/character_762.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 763,
+    "sprite": "assets/dawn/characters/character_763.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 764,
+    "sprite": "assets/dawn/characters/character_764.png",
+    "frames": 3,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 765,
+    "sprite": "assets/dawn/characters/character_765.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 766,
+    "sprite": "assets/dawn/characters/character_766.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 767,
+    "sprite": "assets/dawn/characters/character_767.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 768,
+    "sprite": "assets/dawn/characters/character_768.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 769,
+    "sprite": "assets/dawn/characters/character_769.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 770,
+    "sprite": "assets/dawn/characters/character_770.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 771,
+    "sprite": "assets/dawn/characters/character_771.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 772,
+    "sprite": "assets/dawn/characters/character_772.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 773,
+    "sprite": "assets/dawn/characters/character_773.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 774,
+    "sprite": "assets/dawn/characters/character_774.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 775,
+    "sprite": "assets/dawn/characters/character_775.png",
+    "frames": 2,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 776,
+    "sprite": "assets/dawn/characters/character_776.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 777,
+    "sprite": "assets/dawn/characters/character_777.png",
+    "frames": 2,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 778,
+    "sprite": "assets/dawn/characters/character_778.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 779,
+    "sprite": "assets/dawn/characters/character_779.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 780,
+    "sprite": "assets/dawn/characters/character_780.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 781,
+    "sprite": "assets/dawn/characters/character_781.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 782,
+    "sprite": "assets/dawn/characters/character_782.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 783,
+    "sprite": "assets/dawn/characters/character_783.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 784,
+    "sprite": "assets/dawn/characters/character_784.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 785,
+    "sprite": "assets/dawn/characters/character_785.png",
+    "frames": 5,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 786,
+    "sprite": "assets/dawn/characters/character_786.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 787,
+    "sprite": "assets/dawn/characters/character_787.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 788,
+    "sprite": "assets/dawn/characters/character_788.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 789,
+    "sprite": "assets/dawn/characters/character_789.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 790,
+    "sprite": "assets/dawn/characters/character_790.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 791,
+    "sprite": "assets/dawn/characters/character_791.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 792,
+    "sprite": "assets/dawn/characters/character_792.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 793,
+    "sprite": "assets/dawn/characters/character_793.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 794,
+    "sprite": "assets/dawn/characters/character_794.png",
+    "frames": 5,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 795,
+    "sprite": "assets/dawn/characters/character_795.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 796,
+    "sprite": "assets/dawn/characters/character_796.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 797,
+    "sprite": "assets/dawn/characters/character_797.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 798,
+    "sprite": "assets/dawn/characters/character_798.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 799,
+    "sprite": "assets/dawn/characters/character_799.png",
+    "frames": 4,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 800,
+    "sprite": "assets/dawn/characters/character_800.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 801,
+    "sprite": "assets/dawn/characters/character_801.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 802,
+    "sprite": "assets/dawn/characters/character_802.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 803,
+    "sprite": "assets/dawn/characters/character_803.png",
+    "frames": 4,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 804,
+    "sprite": "assets/dawn/characters/character_804.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 805,
+    "sprite": "assets/dawn/characters/character_805.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 806,
+    "sprite": "assets/dawn/characters/character_806.png",
+    "frames": 5,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 807,
+    "sprite": "assets/dawn/characters/character_807.png",
+    "frames": 1,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 808,
+    "sprite": "assets/dawn/characters/character_808.png",
+    "frames": 5,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 809,
+    "sprite": "assets/dawn/characters/character_809.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 810,
+    "sprite": "assets/dawn/characters/character_810.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 811,
+    "sprite": "assets/dawn/characters/character_811.png",
+    "frames": 8,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 812,
+    "sprite": "assets/dawn/characters/character_812.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 813,
+    "sprite": "assets/dawn/characters/character_813.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 814,
+    "sprite": "assets/dawn/characters/character_814.png",
+    "frames": 1,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 815,
+    "sprite": "assets/dawn/characters/character_815.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 816,
+    "sprite": "assets/dawn/characters/character_816.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 817,
+    "sprite": "assets/dawn/characters/character_817.png",
+    "frames": 1,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 818,
+    "sprite": "assets/dawn/characters/character_818.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 819,
+    "sprite": "assets/dawn/characters/character_819.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 820,
+    "sprite": "assets/dawn/characters/character_820.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 821,
+    "sprite": "assets/dawn/characters/character_821.png",
+    "frames": 1,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 822,
+    "sprite": "assets/dawn/characters/character_822.png",
+    "frames": 4,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 823,
+    "sprite": "assets/dawn/characters/character_823.png",
+    "frames": 2,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 824,
+    "sprite": "assets/dawn/characters/character_824.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 825,
+    "sprite": "assets/dawn/characters/character_825.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 826,
+    "sprite": "assets/dawn/characters/character_826.png",
+    "frames": 3,
+    "shape": 5,
+    "width": 32,
+    "height": 8
+  },
+  {
+    "source_id": 827,
+    "sprite": "assets/dawn/characters/character_827.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 828,
+    "sprite": "assets/dawn/characters/character_828.png",
+    "frames": 4,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 829,
+    "sprite": "assets/dawn/characters/character_829.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 830,
+    "sprite": "assets/dawn/characters/character_830.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 831,
+    "sprite": "assets/dawn/characters/character_831.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 832,
+    "sprite": "assets/dawn/characters/character_832.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 833,
+    "sprite": "assets/dawn/characters/character_833.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 834,
+    "sprite": "assets/dawn/characters/character_834.png",
+    "frames": 1,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  },
+  {
+    "source_id": 835,
+    "sprite": "assets/dawn/characters/character_835.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 836,
+    "sprite": "assets/dawn/characters/character_836.png",
+    "frames": 1,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 837,
+    "sprite": "assets/dawn/characters/character_837.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 838,
+    "sprite": "assets/dawn/characters/character_838.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 839,
+    "sprite": "assets/dawn/characters/character_839.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 840,
+    "sprite": "assets/dawn/characters/character_840.png",
+    "frames": 6,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 841,
+    "sprite": "assets/dawn/characters/character_841.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 842,
+    "sprite": "assets/dawn/characters/character_842.png",
+    "frames": 6,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 843,
+    "sprite": "assets/dawn/characters/character_843.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 844,
+    "sprite": "assets/dawn/characters/character_844.png",
+    "frames": 8,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 845,
+    "sprite": "assets/dawn/characters/character_845.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 846,
+    "sprite": "assets/dawn/characters/character_846.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 847,
+    "sprite": "assets/dawn/characters/character_847.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 848,
+    "sprite": "assets/dawn/characters/character_848.png",
+    "frames": 4,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 849,
+    "sprite": "assets/dawn/characters/character_849.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 850,
+    "sprite": "assets/dawn/characters/character_850.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 851,
+    "sprite": "assets/dawn/characters/character_851.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 852,
+    "sprite": "assets/dawn/characters/character_852.png",
+    "frames": 3,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 853,
+    "sprite": "assets/dawn/characters/character_853.png",
+    "frames": 1,
+    "shape": 2,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source_id": 854,
+    "sprite": "assets/dawn/characters/character_854.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 855,
+    "sprite": "assets/dawn/characters/character_855.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 856,
+    "sprite": "assets/dawn/characters/character_856.png",
+    "frames": 2,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 857,
+    "sprite": "assets/dawn/characters/character_857.png",
+    "frames": 3,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 858,
+    "sprite": "assets/dawn/characters/character_858.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 859,
+    "sprite": "assets/dawn/characters/character_859.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 860,
+    "sprite": "assets/dawn/characters/character_860.png",
+    "frames": 5,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 861,
+    "sprite": "assets/dawn/characters/character_861.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 862,
+    "sprite": "assets/dawn/characters/character_862.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 863,
+    "sprite": "assets/dawn/characters/character_863.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 864,
+    "sprite": "assets/dawn/characters/character_864.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 865,
+    "sprite": "assets/dawn/characters/character_865.png",
+    "frames": 8,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 866,
+    "sprite": "assets/dawn/characters/character_866.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 867,
+    "sprite": "assets/dawn/characters/character_867.png",
+    "frames": 4,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 868,
+    "sprite": "assets/dawn/characters/character_868.png",
+    "frames": 3,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 869,
+    "sprite": "assets/dawn/characters/character_869.png",
+    "frames": 4,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 870,
+    "sprite": "assets/dawn/characters/character_870.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 871,
+    "sprite": "assets/dawn/characters/character_871.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 872,
+    "sprite": "assets/dawn/characters/character_872.png",
+    "frames": 4,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 873,
+    "sprite": "assets/dawn/characters/character_873.png",
+    "frames": 6,
+    "shape": 11,
+    "width": 32,
+    "height": 64
+  },
+  {
+    "source_id": 874,
+    "sprite": "assets/dawn/characters/character_874.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 875,
+    "sprite": "assets/dawn/characters/character_875.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 876,
+    "sprite": "assets/dawn/characters/character_876.png",
+    "frames": 1,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 877,
+    "sprite": "assets/dawn/characters/character_877.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 878,
+    "sprite": "assets/dawn/characters/character_878.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 879,
+    "sprite": "assets/dawn/characters/character_879.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 880,
+    "sprite": "assets/dawn/characters/character_880.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 881,
+    "sprite": "assets/dawn/characters/character_881.png",
+    "frames": 3,
+    "shape": 3,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "source_id": 882,
+    "sprite": "assets/dawn/characters/character_882.png",
+    "frames": 1,
+    "shape": 4,
+    "width": 16,
+    "height": 8
+  },
+  {
+    "source_id": 883,
+    "sprite": "assets/dawn/characters/character_883.png",
+    "frames": 1,
+    "shape": 5,
+    "width": 32,
+    "height": 8
+  },
+  {
+    "source_id": 884,
+    "sprite": "assets/dawn/characters/character_884.png",
+    "frames": 1,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  },
+  {
+    "source_id": 885,
+    "sprite": "assets/dawn/characters/character_885.png",
+    "frames": 1,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  },
+  {
+    "source_id": 886,
+    "sprite": "assets/dawn/characters/character_886.png",
+    "frames": 1,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  },
+  {
+    "source_id": 887,
+    "sprite": "assets/dawn/characters/character_887.png",
+    "frames": 1,
+    "shape": 5,
+    "width": 32,
+    "height": 8
+  },
+  {
+    "source_id": 888,
+    "sprite": "assets/dawn/characters/character_888.png",
+    "frames": 1,
+    "shape": 7,
+    "width": 64,
+    "height": 32
+  },
+  {
+    "source_id": 889,
+    "sprite": "assets/dawn/characters/character_889.png",
+    "frames": 1,
+    "shape": 6,
+    "width": 32,
+    "height": 16
+  }
+]

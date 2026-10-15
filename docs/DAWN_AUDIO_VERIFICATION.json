@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "source_game": "Digimon World - Dawn (USA)",
+  "rom_sha256": "b8fbc2272ec2a7b3c85674a43ffce0a7dde208319e331b349218e1238ce83005",
+  "rom_game_code": "A3VE",
+  "sdat_offset": 52938240,
+  "sdat_bytes": 6199200,
+  "sdat_sha256": "0bff292ab7e3766dea15fe87770a141b4d17f73d3465cdd1debf38f7c85d5b9c",
+  "renderer": "SSEQPlayer 77222d3657adff358fb4e610d3e56bb7ada8ec24",
+  "music_count": 46,
+  "effect_sequence_count": 183,
+  "rendered_count": 228,
+  "note": "ROM sequence IDs retained. Scene assignments are NXT arrangements; track titles/roles are not asserted as original game metadata.",
+  "ogg_sha256_checks_passed": 228,
+  "ogg_full_decode_checks_passed": 228,
+  "validation_failures": [],
+  "looping_music_tracks": 45,
+  "nonlooping_music": [
+    "bgm54"
+  ],
+  "omitted_effects": {
+    "se024": "Original SSAR entry preserved. An infinite zero-duration note loop cannot be exported as a finite audio cue."
+  },
+  "playable_audio_bytes": 51965678,
+  "all_rendered_tracks_have_nonzero_pcm": true
+}

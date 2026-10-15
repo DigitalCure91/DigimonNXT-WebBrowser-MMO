@@ -1,0 +1,18 @@
+[
+  {"key":"packet-scout-mika","name":"Packet Scout Mika","tier":"Bronze","avatar":2,"rating":900,"reward_bits":220,"team":["agumon","biyomon","tentomon"]},
+  {"key":"cache-runner-kai","name":"Cache Runner Kai","tier":"Bronze","avatar":4,"rating":940,"reward_bits":240,"team":["gabumon","gomamon","patamon"]},
+  {"key":"proxy-tamer-ren","name":"Proxy Tamer Ren","tier":"Bronze","avatar":1,"rating":980,"reward_bits":260,"team":["veemon","terriermon","lopmon"]},
+  {"key":"signal-hacker-yui","name":"Signal Hacker Yui","tier":"Silver","avatar":5,"rating":1040,"reward_bits":320,"team":["greymon","gatomon","kabuterimon"]},
+  {"key":"firewall-guard-dax","name":"Firewall Guard Dax","tier":"Silver","avatar":3,"rating":1080,"reward_bits":350,"team":["garurumon","birdramon","ikkakumon"]},
+  {"key":"memory-diver-aria","name":"Memory Diver Aria","tier":"Silver","avatar":6,"rating":1120,"reward_bits":380,"team":["growlmon","exveemon","stingmon"]},
+  {"key":"server-knight-cole","name":"Server Knight Cole","tier":"Gold","avatar":1,"rating":1180,"reward_bits":470,"team":["angemon","wizardmon","tyrannomon"]},
+  {"key":"kernel-agent-sora","name":"Kernel Agent Sora","tier":"Gold","avatar":5,"rating":1220,"reward_bits":510,"team":["metalgreymon","weregarurumon","lillymon"]},
+  {"key":"data-warden-riven","name":"Data Warden Riven","tier":"Gold","avatar":4,"rating":1270,"reward_bits":550,"team":["zudomon","megakabuterimon","magnaangemon"]},
+  {"key":"nexus-hacker-iris","name":"Nexus Hacker Iris","tier":"Platinum","avatar":2,"rating":1340,"reward_bits":700,"team":["wargrowlmon","paildramon","ladydevimon"]},
+  {"key":"core-operator-vex","name":"Core Operator Vex","tier":"Platinum","avatar":3,"rating":1400,"reward_bits":760,"team":["cyberdramon","metalgarurumon","sakuyamon"]},
+  {"key":"nxt-ace-nova","name":"NXT Ace Nova","tier":"Platinum","avatar":6,"rating":1475,"reward_bits":840,"team":["wargreymon","gallantmon","seraphimon"]},
+  {"key":"deep-net-zero","name":"Deep Net Zero","tier":"Master","avatar":1,"rating":1560,"reward_bits":1000,"team":["vikemon","herculeskabuterimon","imperialdramon-fighter"]},
+  {"key":"protocol-omega","name":"Protocol Omega","tier":"Master","avatar":6,"rating":1650,"reward_bits":1200,"team":["gallantmon","metalgarurumon","wargreymon"]},
+  {"key":"kernel-phantom","name":"Kernel Phantom","tier":"Master","avatar":5,"rating":1740,"reward_bits":1450,"team":["sakuyamon","seraphimon","imperialdramon-fighter"]},
+  {"key":"nxt-overseer","name":"NXT Overseer","tier":"Legend","avatar":2,"rating":1850,"reward_bits":1800,"team":["herculeskabuterimon","gallantmon","imperialdramon-fighter"]}
+]

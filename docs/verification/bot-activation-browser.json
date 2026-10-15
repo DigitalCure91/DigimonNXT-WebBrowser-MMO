@@ -1,0 +1,180 @@
+{
+  "checks": [
+    {
+      "ok": true,
+      "name": "Fresh browser setup succeeds"
+    },
+    {
+      "ok": true,
+      "name": "Fresh database contains 1000 persistent bots"
+    },
+    {
+      "ok": true,
+      "name": "No fabricated activity or manual worker before first login"
+    },
+    {
+      "ok": true,
+      "name": "Anonymous pulse rejected"
+    },
+    {
+      "ok": true,
+      "name": "GET cannot trigger activity"
+    },
+    {
+      "ok": true,
+      "name": "Dashboard automatically starts bounded real bot activity",
+      "detail": {
+        "ok": true,
+        "processed": 40,
+        "skipped": false,
+        "retry_after": 5,
+        "last_run": 1790040186,
+        "background": false,
+        "attention": false,
+        "message": ""
+      }
+    },
+    {
+      "ok": true,
+      "name": "Invalid CSRF rejected"
+    },
+    {
+      "ok": true,
+      "name": "Unauthorized pulse changes no bot progress"
+    },
+    {
+      "ok": true,
+      "name": "Immediate extra tab/request cannot accelerate the shared clock",
+      "detail": {
+        "ok": true,
+        "processed": 0,
+        "skipped": true,
+        "retry_after": 5,
+        "last_run": 1790040186,
+        "background": false,
+        "attention": false,
+        "message": ""
+      }
+    },
+    {
+      "ok": true,
+      "name": "Automatic browser processing settles wild battles"
+    },
+    {
+      "ok": true,
+      "name": "Automatic browser processing settles actual ranked matches"
+    },
+    {
+      "ok": true,
+      "name": "Activity feed displays real persisted actions"
+    },
+    {
+      "ok": true,
+      "name": "Activity desktop has no horizontal overflow"
+    },
+    {
+      "ok": true,
+      "name": "Activity mobile has no horizontal overflow"
+    },
+    {
+      "ok": true,
+      "name": "Ranked leaderboard has live refresh"
+    },
+    {
+      "ok": true,
+      "name": "Ranked standings contain earned nonzero points"
+    },
+    {
+      "ok": true,
+      "name": "No browser JavaScript errors",
+      "detail": []
+    },
+    {
+      "ok": true,
+      "name": "All browsers closed and no human presence before offline-worker test"
+    },
+    {
+      "ok": true,
+      "name": "Background worker advances real tamers with zero players online",
+      "detail": {
+        "before": 80,
+        "after": 85
+      }
+    },
+    {
+      "ok": true,
+      "name": "Persistent worker publishes distinct live heartbeat"
+    },
+    {
+      "ok": true,
+      "name": "Worker stays alive when MySQL stops"
+    },
+    {
+      "ok": true,
+      "name": "Same worker reconnects and resumes after MySQL restart",
+      "detail": {
+        "before": 88,
+        "after": 93
+      }
+    }
+  ],
+  "pageErrors": [],
+  "pulseReplies": [
+    {
+      "status": 200,
+      "body": {
+        "ok": true,
+        "processed": 40,
+        "skipped": false,
+        "retry_after": 5,
+        "last_run": 1790040186,
+        "background": false,
+        "attention": false,
+        "message": ""
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "ok": true,
+        "processed": 0,
+        "skipped": true,
+        "retry_after": 5,
+        "last_run": 1790040186,
+        "background": false,
+        "attention": false,
+        "message": ""
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "ok": true,
+        "processed": 40,
+        "skipped": false,
+        "retry_after": 5,
+        "last_run": 1790040193,
+        "background": false,
+        "attention": false,
+        "message": ""
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "ok": true,
+        "processed": 0,
+        "skipped": true,
+        "retry_after": 5,
+        "last_run": 1790040193,
+        "background": false,
+        "attention": false,
+        "message": ""
+      }
+    }
+  ],
+  "screens": [],
+  "counts": "party\t9\nranked\t18\nwild\t66",
+  "success": true,
+  "workerTail": "Digimon NXT persistent tamers · game folder /workspace/scratch/3a2eb832704f/qa/bot-activation-app\nPlayers may close every browser. Keep Apache/MySQL available; database outages are retried.\n2026-09-22T01:23:15+00:00 {\"processed\":0,\"skipped\":true,\"reason\":\"cooldown\",\"retry_after\":3,\"errors\":[]}\n2026-09-22T01:23:20+00:00 Tamer worker is waiting for the database: MySQL server has gone away\n"
+}

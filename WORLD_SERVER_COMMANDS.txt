@@ -1,0 +1,670 @@
+DIGIMON NXT v0.7.2 — COMPLETE WORLD SERVER COMMAND REFERENCE
+Blank-password release • Schema 8 • Windows physical-local administrator console
+
+OPEN THE CONSOLE
+Run tools\start_world_server_windows.bat on the physical server PC and accept
+administrator elevation. Start Apache and MySQL first. The default installed
+game folder is C:\xampp\htdocs\DigimonNXT. Run Create / Repair Schema after
+updating the game; keep your installed config\app.php and saved database.
+
+COMMAND NOTATION
+<value> is required. [value] is optional. Do not type the angle/square brackets.
+Quote an argument containing spaces, for example "A short support message".
+Account selectors accept exact usernames or #account-id, such as #1001.
+Species/item selectors accept catalog IDs, exact slugs or exact quoted names.
+Owned Digimon use instance IDs from digimon list, not species catalog IDs.
+Commands accept an optional leading period: .givemoney works like givemoney.
+Command names are case-insensitive; supply option keywords exactly as shown.
+Pagination is 30 records per page unless stated otherwise. Pages start at 1.
+Input is limited to 2,048 bytes per command; control characters are rejected.
+Numeric limits use whole integers, without commas, decimals or a leading minus.
+Text/password lengths stated in bytes are UTF-8 lengths; non-ASCII characters
+may occupy more than one byte.
+
+EXAMPLES ARE ILLUSTRATIVE
+Replace DemoTamer, #1001 and instance 1234 with real accounts/IDs from your world.
+The command guide does not create the example accounts or run these commands.
+
+PASSWORDS AND CONFIRMATION
+account create and account password open a masked password prompt (8–72 bytes).
+Do not add a password to the command line. Password values are excluded from
+command history, activity records and administrator audit records.
+Commands marked CONFIRM ask you to type CONFIRM before applying the operation.
+Every other response cancels the operation. Review the target and values first.
+Escape cancels the current input or prompt without applying that operation.
+
+The exact local controls, stream filters and keyboard shortcuts are listed
+at the end of this reference. docs/WORLD_SERVER_CONSOLE.md covers installation,
+traffic scope, log retention, session revocation and troubleshooting.
+
+BACKEND COMMANDS (52)
+========================================================================
+
+01. HELP
+Syntax: help [command]
+Access: READ ONLY
+List commands or explain one command.
+
+Details: A group such as account or digimon shows its related commands. A leading period is
+optional for backend commands; .help works too.
+Example: help
+Example: help account
+Example: help account ban
+
+02. STATUS
+Syntax: status
+Access: READ ONLY
+Show database, player, battle, bot and maintenance state.
+
+Details: Read-only. Counts reflect the configured game database at the time of the command,
+not the other MMOs hosted by XAMPP.
+Example: status
+
+03. ONLINE
+Syntax: online [limit]
+Access: READ ONLY
+List human accounts seen in the past five minutes, with IP and activity.
+
+Details: Limit 1–100; default 30. Online means human activity recorded within the previous
+five minutes, not a continuously connected socket. The IP is the account’s last recorded
+address.
+Example: online
+Example: online 100
+
+04. ACCOUNT LIST
+Syntax: account list [search] [page]
+Access: READ ONLY
+Search human and AI accounts, 30 per page. Quote names containing spaces.
+
+Details: Page 1–100,000; default 1; 30 accounts per page. Includes human players and AI
+tamers. Use an empty quoted search before a page number to list all accounts on that page.
+Example: account list
+Example: account list Demo 2
+Example: account list "" 2
+
+05. ACCOUNT INFO
+Syntax: account info <account>
+Access: READ ONLY
+Inspect an account, role, ban, funds and progression totals.
+
+Details: Shows private account details locally, including email and last recorded IP. Accepts
+exact username or #account-id.
+Example: account info DemoTamer
+Example: account info #1001
+
+06. ACCOUNT CREATE
+Syntax: account create <username> <email> [starter]
+Access: CHANGES WORLD • MASKED PASSWORD
+Create a playable account with three level-5 partners. Password is prompted privately.
+
+Details: Username: 3–24 ASCII letters, digits or underscores. Email: valid, at most 160 bytes.
+Starter: agumon (default), gabumon, tentomon, veemon, guilmon or terriermon. Creates three
+level-5 partners and starter supplies. The new account receives the normal tamer role.
+Duplicate usernames/emails are rejected. Enter the password only at the separate masked prompt
+(8–72 bytes).
+Example: account create DemoTamer tamer@example.com agumon
+
+07. ACCOUNT PASSWORD
+Syntax: account password <account>
+Access: CHANGES WORLD • MASKED PASSWORD
+Set a password through a private prompt and revoke existing sessions.
+
+Details: Human accounts only. Enter 8–72 bytes at the separate masked prompt. Existing
+sessions are revoked and must sign in again on their next request. AI accounts cannot be
+converted into playable login accounts with this command.
+Example: account password DemoTamer
+
+08. ACCOUNT ROLE
+Syntax: account role <account> <tamer|moderator|admin>
+Access: CHANGES WORLD • CONFIRM
+Change access role and revoke existing sessions. Protects the last unbanned human admin.
+
+Details: Human accounts only. Roles are exactly tamer, moderator or admin. Existing sessions
+are revoked. The last unbanned human administrator cannot be demoted; promote another human
+administrator first. A game role does not grant access to the physical-local world console.
+Example: account role DemoTamer moderator
+
+09. ACCOUNT BAN
+Syntax: account ban <account> <minutes|permanent> <reason>
+Access: CHANGES WORLD • CONFIRM
+Ban an account and revoke sessions. Timed bans expire automatically.
+
+Details: Duration: 1–525,600 minutes or permanent. Reason: 1–255 bytes; quote multiple words.
+Revokes sessions. Timed bans expire when checked by the server. The last unbanned human admin
+is protected. Banning an AI tamer disables its autonomous actions too.
+Example: account ban DemoTamer 60 "Repeated abuse"
+Example: account ban DemoTamer permanent "Account suspended"
+
+10. ACCOUNT UNBAN
+Syntax: account unban <account>
+Access: CHANGES WORLD
+Remove an account ban. Does not re-enable a disabled bot.
+
+Details: Removes the account ban. It does not restore previous sessions or automatically
+enable a disabled AI tamer; use bots enable separately when appropriate.
+Example: account unban DemoTamer
+
+11. ACCOUNT KICK
+Syntax: account kick <account> [reason]
+Access: CHANGES WORLD
+Revoke every existing login for this account without banning it.
+
+Details: Optional reason: 1–255 bytes. Ends all current logins on the next server request. The
+account can sign in again. Saved battles remain resumable and this is not a battle-abort
+command.
+Example: account kick DemoTamer "Please sign in again"
+
+12. ACCOUNT UNLOCK
+Syntax: account unlock <account>
+Access: CHANGES WORLD
+Clear failed-login throttle records for this username.
+
+Details: Clears username-based failed-login throttle records. It does not change the password,
+remove an account/IP ban or restore revoked sessions.
+Example: account unlock DemoTamer
+
+13. BANLIST
+Syntax: banlist [page]
+Access: READ ONLY
+List banned accounts, reasons and expiry, 30 per page.
+
+Details: Page 1–100,000, default 1; 30 entries per page. Older imported bans may show a
+legacy/unspecified reason. Expired entries may remain until the server checks the ban.
+Example: banlist
+Example: banlist 2
+
+14. LOOKUP SPECIES
+Syntax: lookup species <search> [page]
+Access: READ ONLY
+Find catalog species IDs/slugs and stages, 30 per page.
+
+Details: Search by partial name/slug or numeric ID. Page 1–100,000, default 1; 30 results per
+page. Use the exact returned ID or slug in grant/scan commands.
+Example: lookup species agumon
+Example: lookup species "" 2
+
+15. LOOKUP ITEMS
+Syntax: lookup items <search> [page]
+Access: READ ONLY
+Find item IDs/slugs and stack limits, 30 per page.
+
+Details: Search by partial name/slug or numeric ID. Page 1–100,000, default 1; 30 results per
+page. Results show the item’s catalog stack limit; an inactive item cannot be granted.
+Example: lookup items capsule
+Example: lookup items "" 2
+
+16. GIVEMONEY
+Syntax: givemoney <account> <amount>
+Access: CHANGES WORLD
+Add 1–999,999,999 Bits, without exceeding the balance limit.
+
+Details: Amount 1–999,999,999. Resulting balance must stay between 0 and 999,999,999 Bits.
+Money means the game’s Bits balance, not ranked points or medals.
+Example: givemoney DemoTamer 5000
+
+17. TAKEMONEY
+Syntax: takemoney <account> <amount>
+Access: CHANGES WORLD • CONFIRM
+Remove Bits; refuses insufficient funds.
+
+Details: Amount 1–999,999,999. Refuses a deduction exceeding the current Bits balance;
+balances never become negative.
+Example: takemoney DemoTamer 500
+
+18. SETMONEY
+Syntax: setmoney <account> <amount>
+Access: CHANGES WORLD • CONFIRM
+Set the Bits balance to 0–999,999,999.
+
+Details: Amount 0–999,999,999. Replaces the current Bits balance; it is not an increment.
+Example: setmoney DemoTamer 10000
+
+19. GIVEDIGIMON
+Syntax: givedigimon <account> <species> [level] [abi]
+Access: CHANGES WORLD
+Grant a catalog Digimon to collection with valid stats, moves and discovery data. Defaults:
+level 1, ABI 0.
+
+Details: Species: catalog ID, exact slug or exact quoted name. Level 1–99, default 1. ABI
+0–200, default 0. To specify ABI, supply the level first. Adds a new owned instance to the
+collection, records discovery and creates valid stats/moves. It does not place the Digimon in
+the party automatically. Refuses an active saved wild battle.
+Example: givedigimon DemoTamer agumon
+Example: givedigimon DemoTamer gabumon 25 40
+
+20. REMOVEDIGIMON
+Syntax: removedigimon <account> <instance-id>
+Access: CHANGES WORLD • CONFIRM
+Permanently remove a reserve Digimon. Refuses party members, trade listings and active
+battles.
+
+Details: Instance ID 1–2,147,483,647, owned by the selected account. The Digimon must be
+unassigned: none of party slots 1–6, including battle reserves 4–6. It must not be trade-
+listed. Refuses an active saved wild battle. Deletion is permanent; back up before correcting
+player data.
+Example: removedigimon DemoTamer 1234
+
+21. DIGIMON LIST
+Syntax: digimon list <account> [page]
+Access: READ ONLY
+List owned instance IDs, forms, levels and party slots, 30 per page.
+
+Details: Page 1–100,000, default 1; 30 owned instances per page. An instance ID identifies one
+player-owned Digimon and is different from a catalog species ID.
+Example: digimon list DemoTamer
+Example: digimon list DemoTamer 2
+
+22. DIGIMON INFO
+Syntax: digimon info <account> <instance-id>
+Access: READ ONLY
+Inspect owned Digimon stats, ABI, CAM and learned moves.
+
+Details: Read-only. Instance ID 1–2,147,483,647, owned by the selected account. Shows stats,
+current HP/SP, EXP, ABI, CAM, trade lock and learned moves.
+Example: digimon info DemoTamer 1234
+
+23. DIGIMON LEVEL
+Syntax: digimon level <account> <instance-id> <level>
+Access: CHANGES WORLD • CONFIRM
+Set level 1–99, reset current EXP, recalculate stats, restore vitals and learn eligible moves.
+Existing moves remain learned.
+
+Details: Level 1–99. Requires an idle account and an owned, unlisted instance. Current EXP
+resets to zero, stats are recalculated and HP/SP are restored. Eligible moves are learned;
+lowering a level does not remove moves learned previously.
+Example: digimon level DemoTamer 1234 30
+
+24. DIGIMON ABI
+Syntax: digimon abi <account> <instance-id> <abi>
+Access: CHANGES WORLD • CONFIRM
+Set ABI 0–200; refuses reductions below the existing training budget.
+
+Details: ABI 0–200. Requires an idle account and an owned, unlisted instance. Refuses a value
+that makes existing training exceed its allowed budget of 50 + floor(ABI / 2). It does not
+silently erase trained stats.
+Example: digimon abi DemoTamer 1234 80
+
+25. DIGIMON CAM
+Syntax: digimon cam <account> <instance-id> <cam>
+Access: CHANGES WORLD
+Set CAM 0–100.
+
+Details: CAM 0–100. Requires an idle account and an owned, unlisted instance.
+Example: digimon cam DemoTamer 1234 100
+
+26. HEAL
+Syntax: heal <account> [party|all]
+Access: CHANGES WORLD
+Fully restore HP and SP outside combat. Defaults to party.
+
+Details: Scope party (default) means all assigned slots 1–6; all means the entire collection.
+Refuses an active saved wild battle. Ordinary completed battles already restore the full party
+automatically.
+Example: heal DemoTamer
+Example: heal DemoTamer all
+
+27. PARTY
+Syntax: party <account>
+Access: READ ONLY
+Inspect all six party slots; the first three are the battle team.
+
+Details: Read-only. Slots 1–3 form the active battle team; slots 4–6 are battle reserves.
+Empty slots may be absent from the result.
+Example: party DemoTamer
+
+28. PARTY SET
+Syntax: party set <account> <slot> <instance-id>
+Access: CHANGES WORLD
+Assign an owned, unlisted Digimon to slot 1–6 outside combat.
+
+Details: Slot 1–6. Use an owned instance ID from digimon list. Refuses an active saved wild
+battle or trade-listed Digimon. Moving an already-assigned Digimon clears its old slot;
+replacing a slot returns its previous partner to the collection. Keep at least one Digimon in
+active slots 1–3.
+Example: party set DemoTamer 2 1234
+
+29. PARTY REMOVE
+Syntax: party remove <account> <slot>
+Access: CHANGES WORLD • CONFIRM
+Remove a party slot outside combat. Keeps at least one active partner.
+
+Details: Slot 1–6. Refuses an active saved wild battle or removal of the last partner in
+active slots 1–3. The Digimon stays in the collection; this command does not delete it.
+Example: party remove DemoTamer 6
+
+30. INVENTORY
+Syntax: inventory <account>
+Access: READ ONLY
+List owned item quantities and stack limits.
+
+Details: Read-only. Lists positive owned quantities with each item’s catalog ID, slug and
+stack limit.
+Example: inventory DemoTamer
+
+31. GIVEITEM
+Syntax: giveitem <account> <item> <quantity>
+Access: CHANGES WORLD
+Add items within their catalog stack limit.
+
+Details: Item: catalog ID, exact slug or exact quoted name. Quantity 1–999,999, further
+limited by the item’s active state and stack limit. Refuses an active saved wild battle; no
+stack overflow or inactive-item grants.
+Example: giveitem DemoTamer hp-capsule-s 5
+
+32. TAKEITEM
+Syntax: takeitem <account> <item> <quantity>
+Access: CHANGES WORLD • CONFIRM
+Remove owned items; refuses insufficient quantity.
+
+Details: Item: catalog ID, exact slug or exact quoted name. Quantity 1–999,999. Refuses an
+active saved wild battle or removal exceeding the owned quantity.
+Example: takeitem DemoTamer hp-capsule-s 2
+
+33. SCAN LIST
+Syntax: scan list <account> [page]
+Access: READ ONLY
+List discovered species and scan percentages, 30 per page.
+
+Details: Page 1–100,000, default 1; 30 discovered species per page. Includes scan percentage
+and existing encounter/win counters.
+Example: scan list DemoTamer
+Example: scan list DemoTamer 2
+
+34. SCAN GIVE
+Syntax: scan give <account> <species> <percent>
+Access: CHANGES WORLD
+Add 1–200 scan points, capped at 200%.
+
+Details: Species: catalog ID, exact slug or exact quoted name. Adds 1–200 percentage points,
+capped at a total of 200%. Refuses an active saved wild battle. It does not materialize a
+Digimon automatically.
+Example: scan give DemoTamer agumon 25
+
+35. SCAN SET
+Syntax: scan set <account> <species> <percent>
+Access: CHANGES WORLD • CONFIRM
+Set scan data to 0–200% without altering battle records.
+
+Details: Species: catalog ID, exact slug or exact quoted name. Sets 0–200%. Refuses an active
+saved wild battle. It records discovery without fabricating encounter or victory history.
+Example: scan set DemoTamer agumon 100
+
+36. ANNOUNCE
+Syntax: announce <message> [seconds]
+Access: CHANGES WORLD • CONFIRM
+Show a live banner for 1–86400 seconds (default 300) and notify every human account. Maximum
+500 bytes.
+
+Details: Message: 1–500 bytes, quoted as one argument. Live banner duration: 1–86,400 seconds,
+default 300 seconds (five minutes). Sends a system notification to every human account. AI
+tamers are excluded. The live banner updates through the game’s normal polling; it is not a
+blocking modal.
+Example: announce "Welcome, tamers! The server is open."
+Example: announce "Maintenance begins in ten minutes." 600
+
+37. ANNOUNCE CLEAR
+Syntax: announce clear
+Access: CHANGES WORLD
+Clear the current live announcement banner. Previously delivered notifications remain.
+
+Details: Clears the active server announcement banner; already-delivered notifications remain
+in recipients’ history.
+Example: announce clear
+
+38. IP BAN
+Syntax: ip ban <address> <minutes|permanent> <reason>
+Access: CHANGES WORLD • CONFIRM
+Block one exact IPv4 or IPv6 address. Local loopback addresses cannot be banned.
+
+Details: One exact IPv4 or IPv6 address, without a port, hostname, wildcard or subnet mask.
+Duration: 1–525,600 minutes or permanent. Reason: 1–255 bytes. Loopback, unspecified and
+multicast addresses are rejected. Uses the actual remote connection address; no forwarded-
+header identity guessing. This is a game request policy, not a Windows firewall rule.
+Shared/NAT addresses can represent multiple people.
+Example: ip ban 203.0.113.50 60 "Repeated unauthorized requests"
+Example: ip ban 2001:db8::50 permanent "Blocked address"
+
+39. IP UNBAN
+Syntax: ip unban <address>
+Access: CHANGES WORLD
+Remove an exact IP address ban.
+
+Details: Removes a ban for the exact normalized IPv4 or IPv6 address. This does not remove an
+account ban or change a password.
+Example: ip unban 203.0.113.50
+
+40. IP LIST
+Syntax: ip list [page]
+Access: READ ONLY
+List current exact IP address bans, 30 per page.
+
+Details: Page 1–100,000, default 1; 30 current IP bans per page. Expired bans are excluded.
+Expiry timestamps are UTC.
+Example: ip list
+Example: ip list 2
+
+41. MAIL
+Syntax: mail <account> <title> <message>
+Access: CHANGES WORLD
+Deliver a system support notification. Quote title and message separately.
+
+Details: Title: 1–120 bytes. Message: 1–500 bytes. Quote each multi-word argument separately.
+Delivers an in-game system support notification; this is not external email.
+Example: mail DemoTamer "Support update" "Your replacement supplies have arrived."
+
+42. MAINTENANCE
+Syntax: maintenance
+Access: READ ONLY
+Show maintenance status and player-facing message.
+
+Details: Read-only. Shows the saved maintenance switch and player-facing message.
+Example: maintenance
+
+43. MAINTENANCE ON
+Syntax: maintenance on [message]
+Access: CHANGES WORLD • CONFIRM
+Block non-admin gameplay and new logins, and pause autonomous actions.
+
+Details: Optional message: 1–500 bytes. Blocks non-admin gameplay and player sign-in; human
+game administrators retain access. New autonomous actions pause; an action already executing
+may finish. Apache and MySQL keep running.
+Example: maintenance on "Short maintenance. Please try again shortly."
+
+44. MAINTENANCE OFF
+Syntax: maintenance off
+Access: CHANGES WORLD
+Reopen the game. A separate manual bots pause stays paused.
+
+Details: Restores ordinary player access. If bots were manually paused with bots pause, they
+stay paused until bots resume.
+Example: maintenance off
+
+45. BOTS STATUS
+Syntax: bots status
+Access: READ ONLY
+Show autonomous tamer counts, scheduler heartbeat and pause state.
+
+Details: Read-only. Shows saved autonomous-tamer totals, enabled/due counts, completed
+actions, wild wins/losses, last scheduler pulse and pause state.
+Example: bots status
+
+46. BOTS RUN
+Syntax: bots run [batch]
+Access: CHANGES WORLD
+Run one bounded scheduler pulse of 1–250 due bots; respects maintenance/pause and worker lock.
+
+Details: Batch 1–250, default 40. Runs one bounded pulse of due bots within its time budget;
+it does not promise exactly that many completed actions. Respects maintenance, manual pause
+and the scheduler lock shared with the background worker/browser. Does not install or replace
+the persistent worker.
+Example: bots run
+Example: bots run 100
+
+47. BOTS PAUSE
+Syntax: bots pause
+Access: CHANGES WORLD
+Pause new autonomous actions for console, browser and standalone workers.
+
+Details: Persists a manual pause for new autonomous actions across the background worker,
+browser fallback and console pulses. An action already running may finish.
+Example: bots pause
+
+48. BOTS RESUME
+Syntax: bots resume
+Access: CHANGES WORLD
+Resume autonomous actions; maintenance still takes precedence.
+
+Details: Clears the manual pause. Maintenance can still prevent actions. Normal due times and
+scheduler fairness remain in effect.
+Example: bots resume
+
+49. BOTS ENABLE
+Syntax: bots enable <account>
+Access: CHANGES WORLD
+Enable one AI tamer unless banned; preserves its history.
+
+Details: AI accounts only. Refuses a banned AI account; unban it first. Preserves the tamer’s
+team, progression and history.
+Example: bots enable NXT_Aster_0001
+
+50. BOTS DISABLE
+Syntax: bots disable <account>
+Access: CHANGES WORLD
+Disable one AI tamer; preserves its history.
+
+Details: AI accounts only. Disables autonomous scheduling for that tamer without deleting its
+account, team or history.
+Example: bots disable NXT_Aster_0001
+
+51. AUDIT
+Syntax: audit [limit] [account]
+Access: READ ONLY
+Read the last 1–100 redacted administrator command records.
+
+Details: Limit 1–100, default 20. Optional account filter accepts exact username or #ID;
+specify the limit before the account. Read-only results include operator, command, target,
+outcome and a redacted summary. Passwords are never included.
+Example: audit
+Example: audit 50 DemoTamer
+
+52. LOGS
+Syntax: logs [limit] [category]
+Access: READ ONLY
+Read the last 1–100 retained world journal events, optionally filtered by category.
+
+Details: Limit 1–100, default 30. Optional category: request, auth, game, bots, admin or
+system. Reads recent retained journal entries; this is bounded inspection, not an unlimited
+log export.
+Example: logs
+Example: logs 50 auth
+
+ALIASES
+ban     = account ban
+unban   = account unban
+kick    = account kick
+setlevel = digimon level
+Aliases use the same arguments, limits, protection and confirmation rules.
+
+ACTIVE BATTLES AND SAFE EDITS
+Granting/removing/changing Digimon, healing, party edits, item edits and scan
+edits refuse a supported active saved wild battle. Have the player finish the
+battle before retrying. Kicking or resetting a password revokes sessions but
+does not silently award, erase or complete that saved battle.
+
+An account ban, password change, role change or kick invalidates prior sessions.
+The player is refused on their next server request; a page already loaded in a
+browser cannot disappear instantly. Account unlock is separate from unban.
+
+PHYSICAL-LOCAL ACCESS
+The interactive host requires an elevated administrator in the active physical
+Windows console session. It is unavailable through a browser, network listener,
+Remote Desktop, SSH or redirected input. Keep tools outside the web root.
+Game admin/moderator roles do not grant operating-system console access.
+There are no raw SQL, shell execution or database-drop commands.
+
+Closing this window does not stop Apache, MySQL, your other MMOs or the separate
+persistent tamer worker. Keep the worker installed for zero-player bot activity.
+
+LOCAL CONSOLE COMMANDS — DISPLAY AND WINDOW CONTROLS
+These do not change player data. They are handled by the Windows host.
+
+console help
+  Show the local display commands and keyboard shortcuts.
+
+console status
+  Show the installed game path, PHP executable, journal path, Apache access-log
+  path, URL prefix, traffic mode, category filter, pause state and Apache switch.
+  Use status (without console) for database/world state.
+
+console traffic summary|full|off
+  summary: default; show useful activity and group repeats, polling and assets.
+  full: show more individual requests, capped at 8 traffic lines per second;
+        overflow is summarized. It never becomes an unlimited scrolling flood.
+  off: hide request traffic while keeping other selected activity visible.
+  Example: console traffic full
+
+console filter all|request|auth|game|bots|admin|system
+  Select one feed category or all. Default all. Administrator command results
+  remain visible regardless of this filter or a paused feed.
+  Example: console filter bots
+  Example: console filter all
+
+console apache on|off
+  Enable or disable reading this game's static/missing-route traffic from the
+  configured Apache access log. Successful PHP routes are skipped; failed PHP
+  requests can appear in both Apache and structured records. Optional; the structured game
+journal works without it.
+  Example: console apache off
+
+console pause
+  Pause the activity display. Administration results remain visible. The game,
+  background worker and journal continue. This is not a maintenance switch.
+
+console resume
+  Resume new activity display. Hidden events remain in the journal; pausing does
+  not create an unlimited in-memory replay queue.
+
+console clear
+  Clear the current terminal display. Does not erase logs, audit or player data.
+  Shortcut: Ctrl+L.
+
+exit
+quit
+  Close this console window. The web game, Apache, MySQL, other MMOs and the
+  separate background tamer task keep running.
+
+KEYBOARD
+Enter: submit the current command or answer the current prompt.
+Left/Right, Home/End, Backspace/Delete: edit the current input.
+Up/Down: browse up to 100 commands in memory; account create/password operations
+         are excluded. History is not saved to a disk history file.
+Tab: complete a supported command.
+Esc or Ctrl+C: clear input or cancel a pending password/confirmation prompt.
+Ctrl+L: clear the display.
+New feed lines preserve your partly typed command and current cursor position.
+
+FEED COVERAGE AND RETENTION
+Times are UTC. Dynamic PHP routes that load the game bootstrap produce method,
+script path, status and duration records with known account identity. Committed
+player/bot actions use auth/game/bots events. Background actions show a local
+source; guests and unknown identities are labelled explicitly.
+
+The optional Apache reader adds this game's static/missing-route traffic,
+filtered by NXT_URL_PATH. Static assets are marked unattributed: the console does
+not infer an account from the IP. When NXT_URL_PATH is /, use a dedicated game
+virtual-host access log so another MMO's requests are not included.
+
+Repeated requests, assets, bots and polling are summarized every 15 seconds.
+For each bot action type, the first event in a 15-second window can show its real
+tamer/IP, subject to the overall display limit. Remaining events use neutral
+AI tamers (grouped) labels; grouped counts exclude the displayed sample. Repeated
+authentication/game summaries also use neutral event labels. Administrator
+results remain visible. Startup attaches to new records without replaying the log.
+Use logs for recent retained entries. A skipped backlog or write failure produces
+an explicit warning rather than being reported as complete capture.
+
+Structured journal location: <installed game>/storage/world-console/events.php
+Rotation: 10 MiB per file, five rotated files plus the active file (~60 MiB).
+The console does not manage Apache's own access-log rotation or retention.
+No query values, request bodies, cookies, password values or credential headers
+are shown. Keep local journal/audit access restricted to server administrators.

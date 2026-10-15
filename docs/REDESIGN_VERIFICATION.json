@@ -1,0 +1,25 @@
+{
+  "release": "0.4.0",
+  "date": "2026-09-08",
+  "php_runtime": "PHP 8.5.10 via WASM CLI",
+  "php_lint_files": 64,
+  "public_page_renders": 10,
+  "authenticated_template_fixture_cases": 24,
+  "authenticated_routes": [
+    "digidex",
+    "digimon",
+    "digivolution",
+    "items",
+    "materialize",
+    "options",
+    "wildbattle",
+    "world_map"
+  ],
+  "fixture_failures": 0,
+  "fixture_php_errors": 0,
+  "missing_fixture_assets": 0,
+  "protected_baseline_files_identical": 1053,
+  "live_mysql_tested": false,
+  "browser_layout_tested": false,
+  "windows_xampp_tested": false
+}

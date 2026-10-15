@@ -1,0 +1,114 @@
+# NXT extension routes for supplied forms outside Cyber Sleuth, and available-asset alternatives.
+# These are gameplay branches; they are not claimed to be Cyber Sleuth's evolution tree.
+# A > B adds a forward evolution and its discovery-gated reverse. Names refer to asset identifiers.
+Bommon > Missimon
+Chibomon > DemiVeemon > Veemon
+Conomon > Kokomon > Lopmon
+Dodomon > Dorimon > Dorumon
+Jyarimon > Gigimon > Guilmon
+Pichimon > Bukamon > Crabmon
+Pusumon > Pusurimon > Herissmon > Filmon > Stefilmon
+Puttimon > Tokomon > Lucemon
+YukimiBotamon > Nyaromon > Salamon
+Yuramon > Tanemon > Aruraumon > Weedmon > Blossomon > Lotosmon
+Zerimon > Gummymon > Terriermon
+Pabumon > Budmon > Floramon > Kiwimon > Deramon > Gryphonmon
+Pichimon > Chicchimon > Penguinmon > Dolphmon > Divermon > Pukumon
+Botamon > Sunmon > Coronamon > Firamon > Flaremon > Apollomon
+Poyomon > Moonmon > Lunamon
+Pabumon > Minomon > Kunemon > Flymon > MegaKabuterimonBlue > HerculesKabuterimon
+Botamon > Kapurimon > Kokuwamon > Thundermon > BigMamemon > PrinceMamemon
+Koromon > DotAgumon > Tyrannomon > MasterTyrannomon > Spinomon
+Chicchimon > DotFalcomon > Diatrymon > Parrotmon > Eaglemon
+Wanyamon > Bearmon > Grizzlymon > GrapLeomon > Baihumon
+Pagumon > Candlemon > Flarerizamon > BlueMeramon > AncientVolcanomon
+Bukamon > Gizamon > Ebidramon > Scorpiomon > Plesiomon
+Minomon > Dokunemon > Dokugumon > Arukenimon > Parasimon
+Koromon > GumDramon > Arresterdramon > Cyberdramon
+Kapurimon > Jazamon > Jazardmon > MetalTyrannomon > Cannondramon
+Bukamon > Kamemon > Gawappamon > Shawjamon > JumboGamemon
+Yokomon > Muchomon > Akatorimon > Sinduramon > Zhuqiaomon
+Kapurimon > PawnChessmonBlack > KnightChessmonBlack > RookChessmonBlack > KingChessmon
+Kapurimon > PawnChessmonWhite > KnightChessmonWhite > BishopChessmonWhite > QueenChessmon
+Pagumon > ShadowToyAgumon > Omekamon > Monzaemon > Babamon
+Tsunomon > Shamanmon > Fugamon > Digitamamon > Devitamamon
+Koromon > SnowAgumon > Hyogamon > Mammothmon > SkullMammothmon
+Tsunomon > SnowGoblimon > Mojyamon > SkullBaluchimon > AncientMegatheriummon
+Tokomon > Tapirmon > Apemon > Vajramon > Zanbamon
+Tokomon > Tsukaimon > Devidramon > Kimeramon > Millenniummon > MoonMillenniummon > ZeedMillenniummon
+Koromon > Vorvomon > Lavorvomon > Vermilimon > AncientGreymon
+DemiDevimon > Vilemon > Ghoulmon > GhoulmonBlack
+Hawkmon > Buraimon > Butenmon > Tactimon
+Hagurumon > BomberNanimon > Giromon > HiAndromon
+Hagurumon > Mekanorimon > Tekkamon > Boltmon
+Monodramon > Dinohyumon > Kyukimon > SlashAngemon
+Goblimon > Minotarumon > Vajramon
+Goblimon > JungleMojyamon > Etemon > Jijimon
+Goblimon > NiseDrimogemon > MameTyramon > Spinomon
+Gabumon > Drimogemon > Brachiomon > Cannondramon
+Goblimon > Musyamon > Karatenmon > Zanbamon
+Falcomon > Ninjamon > Karatenmon
+Falcomon > Kogamon > Karatenmon
+Gotsumon > Centarumon > Andromon
+ToyAgumon > Deputymon > SuperStarmon
+Crabmon > Hookmon > Mermaimon > AncientMermaidmon
+Gomamon > Shellmon > Whamon > Aegisdramon
+Crabmon > MoriShellmon > Brachiomon
+Betamon > Gesomon > MarineDevimon > Gulfmon
+Syakomon > Octomon > Dragomon > Neptunemon
+Salamon > Seasarmon > Cerberumon > Anubismon
+Gabumon > Dorulumon > Cerberumon > AncientGarurumon
+Salamon > Meicoomon > Beastmon > AncientSphinxmon
+BlackAgumon > DarkTyrannomon > MetalTyrannomon > BlackWarGreymon
+BlackAgumon > DarkLizardmon > BlackWarGrowlmon > ChaosGallantmon
+BlackGabumon > MadLeomon > Beastmon
+Biyomon > Kokatorimon > Parrotmon
+Biyomon > Saberdramon > Crowmon > ChronomonHolyMode > ChronomonDM
+Tentomon > Yanmamon > MegaKabuterimonBlue
+Tentomon > SandYanmamon > MegaKabuterimonBlue
+Wormmon > Snimon > Okuwamon > AncientBeetlemon
+Kunemon > Roachmon > Garbagemon > MetalEtemon
+Armadillomon > Tortomon > Triceramon > Ebonwumon
+Palmon > RedVegiemon > Blossomon > AncientTroiamon
+Lopmon > Wendigomon > AntylamonGood > CherubimonEvil
+Gargomon > BlackRapidmon > BlackMegaGargomon
+Numemon > ExTyrannomon > Babamon
+Bakemon > Mummymon > Pharaohmon
+Myotismon > MaloMyotismon
+Seadramon > WaruSeadramon > GigaSeadramon
+Airdramon > MegaSeadramon > Azulongmon
+Woodmon > ArgomonUltimate > ArgomonMega
+Wizardmon > Wisemon > Lampmon
+Wisemon > AncientWisemon
+Silphymon > AncientKazemon
+Infermon > BeelzemonBlastMode
+Digitamamon > BelphemonRageMode
+MegaSeadramon > Examon
+WarGreymon > Susanoomon
+BlackWarGrowlmon > ImperialdramonDragonModeBlack
+ShineGreymon > ShineGreymonRuinMode
+ShineGreymon > DotShineGreymon
+MirageGaogamon > DotMirageGaogamon
+Daemon > DaemonMantled
+Baihumon > Fanglongmon
+BlackAgumon > Skullknightmon > AxeKnightmon > GreyKnightsmon
+Dracmon > Axemon > AxeKnightmon
+Hagurumon > Troopmon > Datamon > EXEraserAlpha > EXEraserBeta
+Hawkmon > Allomon
+Hawkmon > Aurumon
+Palmon > Kabukimon
+Armadillomon > Kenkimon
+Wormmon > Kongoumon
+Salamon > Lynxmon
+Salamon > Nefertimon
+Wormmon > Pipismon
+Patamon > Ponchomon
+Patamon > Prairiemon
+Armadillomon > Seahomon
+Wormmon > Shadramon
+Hawkmon > Shurimon
+Hawkmon > Toucanmon
+Salamon > Tylomon
+# Assets do not include Missimon or Stefilmon: explicit available-form branches replace them below.
+Bommon > Kapurimon
+Filmon > GrapLeomon

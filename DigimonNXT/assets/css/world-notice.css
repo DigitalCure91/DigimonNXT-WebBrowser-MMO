@@ -1,0 +1,4 @@
+.nxt-world-notice{display:flex;align-items:baseline;gap:16px;padding:16px 20px;margin:20px 0;border:1px solid #3b6c80;border-left:4px solid #d7f83e;border-radius:8px;background:#102435;color:#e7f2fa;line-height:1.6;overflow-wrap:anywhere}
+.nxt-world-notice[hidden]{display:none}
+.nxt-world-notice strong{flex-shrink:0;color:#d7f83e;font-size:.75rem;letter-spacing:.1em}
+@media(max-width:600px){.nxt-world-notice{align-items:flex-start;flex-direction:column;gap:6px;padding:14px 16px}}

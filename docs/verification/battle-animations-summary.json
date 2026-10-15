@@ -1,0 +1,19 @@
+{
+  "version": "0.7.2",
+  "database_password_default": "blank",
+  "schema_changed": false,
+  "combat_presentation_checks": 1580,
+  "baseline_parity_scenarios": 3084,
+  "browser_http_checks": 139,
+  "ranked_database_checks": 15,
+  "audio_lifecycle_checks": 17,
+  "audio_files_hash_verified": 228,
+  "all_passed": true,
+  "platform": "Linux PHP 8.3 / MariaDB 10.11 / Chromium",
+  "limits": [
+    "No physical audio listening",
+    "No native Windows or Android execution in this update",
+    "No-JS native form clicks unavailable in headless runtime; HTTP form/redirect and rendering verified"
+  ],
+  "additional_scroll_popup_checks": 21
+}

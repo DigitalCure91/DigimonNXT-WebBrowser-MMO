@@ -1,0 +1,3002 @@
+[
+  {
+    "slug": "paradox-bommon",
+    "variant_id": "paradox_bommon",
+    "source": "1 Fresh/Bommon/Paradox/Bommon_Paradox_Primary.png",
+    "base_slug": "bommon"
+  },
+  {
+    "slug": "paradox-botamon",
+    "variant_id": "paradox_botamon",
+    "source": "1 Fresh/Botamon/Paradox/Botamon_Paradox_Primary.png",
+    "base_slug": "botamon"
+  },
+  {
+    "slug": "paradox-chibomon",
+    "variant_id": "paradox_chibomon",
+    "source": "1 Fresh/Chibomon/Paradox/Chibomon_Paradox_Primary.png",
+    "base_slug": "chibomon"
+  },
+  {
+    "slug": "paradox-conomon",
+    "variant_id": "paradox_conomon",
+    "source": "1 Fresh/Conomon/Paradox/Conomon_Paradox_Primary.png",
+    "base_slug": "conomon"
+  },
+  {
+    "slug": "paradox-dodomon",
+    "variant_id": "paradox_dodomon",
+    "source": "1 Fresh/Dodomon/Paradox/Dodomon_Paradox_Primary.png",
+    "base_slug": "dodomon"
+  },
+  {
+    "slug": "paradox-jyarimon",
+    "variant_id": "paradox_jyarimon",
+    "source": "1 Fresh/Jyarimon/Paradox/Jyarimon_Paradox_Primary.png",
+    "base_slug": "jyarimon"
+  },
+  {
+    "slug": "paradox-kuramon",
+    "variant_id": "paradox_kuramon",
+    "source": "1 Fresh/Kuramon/Paradox/Kuramon_Paradox_Primary.png",
+    "base_slug": "kuramon"
+  },
+  {
+    "slug": "paradox-pabumon",
+    "variant_id": "paradox_pabumon",
+    "source": "1 Fresh/Pabumon/Paradox/Pabumon_Paradox_Primary.png",
+    "base_slug": "pabumon"
+  },
+  {
+    "slug": "paradox-pichimon",
+    "variant_id": "paradox_pichimon",
+    "source": "1 Fresh/Pichimon/Paradox/Pichimon_Paradox_Primary.png",
+    "base_slug": "pichimon"
+  },
+  {
+    "slug": "paradox-poyomon",
+    "variant_id": "paradox_poyomon",
+    "source": "1 Fresh/Poyomon/Paradox/Poyomon_Paradox_Primary.png",
+    "base_slug": "poyomon"
+  },
+  {
+    "slug": "paradox-punimon",
+    "variant_id": "paradox_punimon",
+    "source": "1 Fresh/Punimon/Paradox/Punimon_Paradox_Primary.png",
+    "base_slug": "punimon"
+  },
+  {
+    "slug": "paradox-pusumon",
+    "variant_id": "paradox_pusumon",
+    "source": "1 Fresh/Pusumon/Paradox/Pusumon_Paradox_Primary.png",
+    "base_slug": "pusumon"
+  },
+  {
+    "slug": "paradox-puttimon",
+    "variant_id": "paradox_puttimon",
+    "source": "1 Fresh/Puttimon/Paradox/Puttimon_Paradox_Primary.png",
+    "base_slug": "puttimon"
+  },
+  {
+    "slug": "paradox-yukimibotamon",
+    "variant_id": "paradox_yukimibotamon",
+    "source": "1 Fresh/YukimiBotamon/Paradox/YukimiBotamon_Paradox_Primary.png",
+    "base_slug": "yukimibotamon"
+  },
+  {
+    "slug": "paradox-yuramon",
+    "variant_id": "paradox_yuramon",
+    "source": "1 Fresh/Yuramon/Paradox/Yuramon_Paradox_Primary.png",
+    "base_slug": "yuramon"
+  },
+  {
+    "slug": "paradox-zerimon",
+    "variant_id": "paradox_zerimon",
+    "source": "1 Fresh/Zerimon/Paradox/Zerimon_Paradox_Primary.png",
+    "base_slug": "zerimon"
+  },
+  {
+    "slug": "paradox-arcadiamonintraining",
+    "variant_id": "paradox_arcadiamonintraining",
+    "source": "2 In Training/ArcadiamonInTraining/Paradox/ArcadiamonInTraining_Paradox_Primary.png",
+    "base_slug": "arcadiamonintraining"
+  },
+  {
+    "slug": "paradox-budmon",
+    "variant_id": "paradox_budmon",
+    "source": "2 In Training/Budmon/Paradox/Budmon_Paradox_Primary.png",
+    "base_slug": "budmon"
+  },
+  {
+    "slug": "paradox-bukamon",
+    "variant_id": "paradox_bukamon",
+    "source": "2 In Training/Bukamon/Paradox/Bukamon_Paradox_Primary.png",
+    "base_slug": "bukamon"
+  },
+  {
+    "slug": "paradox-chicchimon",
+    "variant_id": "paradox_chicchimon",
+    "source": "2 In Training/Chicchimon/Paradox/Chicchimon_Paradox_Primary.png",
+    "base_slug": "chicchimon"
+  },
+  {
+    "slug": "paradox-demiveemon",
+    "variant_id": "paradox_demiveemon",
+    "source": "2 In Training/DemiVeemon/Paradox/DemiVeemon_Paradox_Primary.png",
+    "base_slug": "demiveemon"
+  },
+  {
+    "slug": "paradox-dorimon",
+    "variant_id": "paradox_dorimon",
+    "source": "2 In Training/Dorimon/Paradox/Dorimon_Paradox_Primary.png",
+    "base_slug": "dorimon"
+  },
+  {
+    "slug": "paradox-gigimon",
+    "variant_id": "paradox_gigimon",
+    "source": "2 In Training/Gigimon/Paradox/Gigimon_Paradox_Primary.png",
+    "base_slug": "gigimon"
+  },
+  {
+    "slug": "paradox-gummymon",
+    "variant_id": "paradox_gummymon",
+    "source": "2 In Training/Gummymon/Paradox/Gummymon_Paradox_Primary.png",
+    "base_slug": "gummymon"
+  },
+  {
+    "slug": "paradox-kapurimon",
+    "variant_id": "paradox_kapurimon",
+    "source": "2 In Training/Kapurimon/Paradox/Kapurimon_Paradox_Primary.png",
+    "base_slug": "kapurimon"
+  },
+  {
+    "slug": "paradox-kokomon",
+    "variant_id": "paradox_kokomon",
+    "source": "2 In Training/Kokomon/Paradox/Kokomon_Paradox_Primary.png",
+    "base_slug": "kokomon"
+  },
+  {
+    "slug": "paradox-koromon",
+    "variant_id": "paradox_koromon",
+    "source": "2 In Training/Koromon/Paradox/Koromon_Paradox_Primary.png",
+    "base_slug": "koromon"
+  },
+  {
+    "slug": "paradox-minomon",
+    "variant_id": "paradox_minomon",
+    "source": "2 In Training/Minomon/Paradox/Minomon_Paradox_Primary.png",
+    "base_slug": "minomon"
+  },
+  {
+    "slug": "paradox-moonmon",
+    "variant_id": "paradox_moonmon",
+    "source": "2 In Training/Moonmon/Paradox/Moonmon_Paradox_Primary.png",
+    "base_slug": "moonmon"
+  },
+  {
+    "slug": "paradox-motimon",
+    "variant_id": "paradox_motimon",
+    "source": "2 In Training/Motimon/Paradox/Motimon_Paradox_Primary.png",
+    "base_slug": "motimon"
+  },
+  {
+    "slug": "paradox-nyaromon",
+    "variant_id": "paradox_nyaromon",
+    "source": "2 In Training/Nyaromon/Paradox/Nyaromon_Paradox_Primary.png",
+    "base_slug": "nyaromon"
+  },
+  {
+    "slug": "paradox-pagumon",
+    "variant_id": "paradox_pagumon",
+    "source": "2 In Training/Pagumon/Paradox/Pagumon_Paradox_Primary.png",
+    "base_slug": "pagumon"
+  },
+  {
+    "slug": "paradox-pusurimon",
+    "variant_id": "paradox_pusurimon",
+    "source": "2 In Training/Pusurimon/Paradox/Pusurimon_Paradox_Primary.png",
+    "base_slug": "pusurimon"
+  },
+  {
+    "slug": "paradox-sunmon",
+    "variant_id": "paradox_sunmon",
+    "source": "2 In Training/Sunmon/Paradox/Sunmon_Paradox_Primary.png",
+    "base_slug": "sunmon"
+  },
+  {
+    "slug": "paradox-tanemon",
+    "variant_id": "paradox_tanemon",
+    "source": "2 In Training/Tanemon/Paradox/Tanemon_Paradox_Primary.png",
+    "base_slug": "tanemon"
+  },
+  {
+    "slug": "paradox-tokomon",
+    "variant_id": "paradox_tokomon",
+    "source": "2 In Training/Tokomon/Paradox/Tokomon_Paradox_Primary.png",
+    "base_slug": "tokomon"
+  },
+  {
+    "slug": "paradox-tsumemon",
+    "variant_id": "paradox_tsumemon",
+    "source": "2 In Training/Tsumemon/Paradox/Tsumemon_Paradox_Primary.png",
+    "base_slug": "tsumemon"
+  },
+  {
+    "slug": "paradox-tsunomon",
+    "variant_id": "paradox_tsunomon",
+    "source": "2 In Training/Tsunomon/Paradox/Tsunomon_Paradox_Primary.png",
+    "base_slug": "tsunomon"
+  },
+  {
+    "slug": "paradox-wanyamon",
+    "variant_id": "paradox_wanyamon",
+    "source": "2 In Training/Wanyamon/Paradox/Wanyamon_Paradox_Primary.png",
+    "base_slug": "wanyamon"
+  },
+  {
+    "slug": "paradox-yokomon",
+    "variant_id": "paradox_yokomon",
+    "source": "2 In Training/Yokomon/Paradox/Yokomon_Paradox_Primary.png",
+    "base_slug": "yokomon"
+  },
+  {
+    "slug": "paradox-agumon",
+    "variant_id": "paradox_agumon",
+    "source": "3 Rookie/Agumon/Paradox/Agumon_Paradox_Primary.png",
+    "base_slug": "agumon"
+  },
+  {
+    "slug": "paradox-arcadiamonrookie",
+    "variant_id": "paradox_arcadiamonrookie",
+    "source": "3 Rookie/ArcadiamonRookie/Paradox/ArcadiamonRookie_Paradox_Primary.png",
+    "base_slug": "arcadiamonrookie"
+  },
+  {
+    "slug": "paradox-armadillomon",
+    "variant_id": "paradox_armadillomon",
+    "source": "3 Rookie/Armadillomon/Paradox/Armadillomon_Paradox_Primary.png",
+    "base_slug": "armadillomon"
+  },
+  {
+    "slug": "paradox-aruraumon",
+    "variant_id": "paradox_aruraumon",
+    "source": "3 Rookie/Aruraumon/Paradox/Aruraumon_Paradox_Primary.png",
+    "base_slug": "aruraumon"
+  },
+  {
+    "slug": "paradox-bearmon",
+    "variant_id": "paradox_bearmon",
+    "source": "3 Rookie/Bearmon/Paradox/Bearmon_Paradox_Primary.png",
+    "base_slug": "bearmon"
+  },
+  {
+    "slug": "paradox-betamon",
+    "variant_id": "paradox_betamon",
+    "source": "3 Rookie/Betamon/Paradox/Betamon_Paradox_Primary.png",
+    "base_slug": "betamon"
+  },
+  {
+    "slug": "paradox-biyomon",
+    "variant_id": "paradox_biyomon",
+    "source": "3 Rookie/Biyomon/Paradox/Biyomon_Paradox_Primary.png",
+    "base_slug": "biyomon"
+  },
+  {
+    "slug": "paradox-blackagumon",
+    "variant_id": "paradox_blackagumon",
+    "source": "3 Rookie/BlackAgumon/Paradox/BlackAgumon_Paradox_Primary.png",
+    "base_slug": "blackagumon"
+  },
+  {
+    "slug": "paradox-blackgabumon",
+    "variant_id": "paradox_blackgabumon",
+    "source": "3 Rookie/BlackGabumon/Paradox/BlackGabumon_Paradox_Primary.png",
+    "base_slug": "blackgabumon"
+  },
+  {
+    "slug": "paradox-candlemon",
+    "variant_id": "paradox_candlemon",
+    "source": "3 Rookie/Candlemon/Paradox/Candlemon_Paradox_Primary.png",
+    "base_slug": "candlemon"
+  },
+  {
+    "slug": "paradox-chuumon",
+    "variant_id": "paradox_chuumon",
+    "source": "3 Rookie/Chuumon/Paradox/Chuumon_Paradox_Primary.png",
+    "base_slug": "chuumon"
+  },
+  {
+    "slug": "paradox-coronamon",
+    "variant_id": "paradox_coronamon",
+    "source": "3 Rookie/Coronamon/Paradox/Coronamon_Paradox_Primary.png",
+    "base_slug": "coronamon"
+  },
+  {
+    "slug": "paradox-crabmon",
+    "variant_id": "paradox_crabmon",
+    "source": "3 Rookie/Crabmon/Paradox/Crabmon_Paradox_Primary.png",
+    "base_slug": "crabmon"
+  },
+  {
+    "slug": "paradox-demidevimon",
+    "variant_id": "paradox_demidevimon",
+    "source": "3 Rookie/DemiDevimon/Paradox/DemiDevimon_Paradox_Primary.png",
+    "base_slug": "demidevimon"
+  },
+  {
+    "slug": "paradox-dokunemon",
+    "variant_id": "paradox_dokunemon",
+    "source": "3 Rookie/Dokunemon/Paradox/Dokunemon_Paradox_Primary.png",
+    "base_slug": "dokunemon"
+  },
+  {
+    "slug": "paradox-dorumon",
+    "variant_id": "paradox_dorumon",
+    "source": "3 Rookie/Dorumon/Paradox/Dorumon_Paradox_Primary.png",
+    "base_slug": "dorumon"
+  },
+  {
+    "slug": "paradox-dotagumon",
+    "variant_id": "paradox_dotagumon",
+    "source": "3 Rookie/DotAgumon/Paradox/DotAgumon_Paradox_Primary.png",
+    "base_slug": "dotagumon"
+  },
+  {
+    "slug": "paradox-dotfalcomon",
+    "variant_id": "paradox_dotfalcomon",
+    "source": "3 Rookie/DotFalcomon/Paradox/DotFalcomon_Paradox_Primary.png",
+    "base_slug": "dotfalcomon"
+  },
+  {
+    "slug": "paradox-dracmon",
+    "variant_id": "paradox_dracmon",
+    "source": "3 Rookie/Dracmon/Paradox/Dracmon_Paradox_Primary.png",
+    "base_slug": "dracmon"
+  },
+  {
+    "slug": "paradox-dracomon",
+    "variant_id": "paradox_dracomon",
+    "source": "3 Rookie/Dracomon/Paradox/Dracomon_Paradox_Primary.png",
+    "base_slug": "dracomon"
+  },
+  {
+    "slug": "paradox-elecmon",
+    "variant_id": "paradox_elecmon",
+    "source": "3 Rookie/Elecmon/Paradox/Elecmon_Paradox_Primary.png",
+    "base_slug": "elecmon"
+  },
+  {
+    "slug": "paradox-falcomon",
+    "variant_id": "paradox_falcomon",
+    "source": "3 Rookie/Falcomon/Paradox/Falcomon_Paradox_Primary.png",
+    "base_slug": "falcomon"
+  },
+  {
+    "slug": "paradox-fanbeemon",
+    "variant_id": "paradox_fanbeemon",
+    "source": "3 Rookie/FanBeemon/Paradox/FanBeemon_Paradox_Primary.png",
+    "base_slug": "fanbeemon"
+  },
+  {
+    "slug": "paradox-floramon",
+    "variant_id": "paradox_floramon",
+    "source": "3 Rookie/Floramon/Paradox/Floramon_Paradox_Primary.png",
+    "base_slug": "floramon"
+  },
+  {
+    "slug": "paradox-gabumon",
+    "variant_id": "paradox_gabumon",
+    "source": "3 Rookie/Gabumon/Paradox/Gabumon_Paradox_Primary.png",
+    "base_slug": "gabumon"
+  },
+  {
+    "slug": "paradox-gaomon",
+    "variant_id": "paradox_gaomon",
+    "source": "3 Rookie/Gaomon/Paradox/Gaomon_Paradox_Primary.png",
+    "base_slug": "gaomon"
+  },
+  {
+    "slug": "paradox-gazimon",
+    "variant_id": "paradox_gazimon",
+    "source": "3 Rookie/Gazimon/Paradox/Gazimon_Paradox_Primary.png",
+    "base_slug": "gazimon"
+  },
+  {
+    "slug": "paradox-gizamon",
+    "variant_id": "paradox_gizamon",
+    "source": "3 Rookie/Gizamon/Paradox/Gizamon_Paradox_Primary.png",
+    "base_slug": "gizamon"
+  },
+  {
+    "slug": "paradox-goblimon",
+    "variant_id": "paradox_goblimon",
+    "source": "3 Rookie/Goblimon/Paradox/Goblimon_Paradox_Primary.png",
+    "base_slug": "goblimon"
+  },
+  {
+    "slug": "paradox-gomamon",
+    "variant_id": "paradox_gomamon",
+    "source": "3 Rookie/Gomamon/Paradox/Gomamon_Paradox_Primary.png",
+    "base_slug": "gomamon"
+  },
+  {
+    "slug": "paradox-gotsumon",
+    "variant_id": "paradox_gotsumon",
+    "source": "3 Rookie/Gotsumon/Paradox/Gotsumon_Paradox_Primary.png",
+    "base_slug": "gotsumon"
+  },
+  {
+    "slug": "paradox-guilmon",
+    "variant_id": "paradox_guilmon",
+    "source": "3 Rookie/Guilmon/Paradox/Guilmon_Paradox_Primary.png",
+    "base_slug": "guilmon"
+  },
+  {
+    "slug": "paradox-gumdramon",
+    "variant_id": "paradox_gumdramon",
+    "source": "3 Rookie/GumDramon/Paradox/GumDramon_Paradox_Primary.png",
+    "base_slug": "gumdramon"
+  },
+  {
+    "slug": "paradox-hackmon",
+    "variant_id": "paradox_hackmon",
+    "source": "3 Rookie/Hackmon/Paradox/Hackmon_Paradox_Primary.png",
+    "base_slug": "hackmon"
+  },
+  {
+    "slug": "paradox-hagurumon",
+    "variant_id": "paradox_hagurumon",
+    "source": "3 Rookie/Hagurumon/Paradox/Hagurumon_Paradox_Primary.png",
+    "base_slug": "hagurumon"
+  },
+  {
+    "slug": "paradox-hawkmon",
+    "variant_id": "paradox_hawkmon",
+    "source": "3 Rookie/Hawkmon/Paradox/Hawkmon_Paradox_Primary.png",
+    "base_slug": "hawkmon"
+  },
+  {
+    "slug": "paradox-herissmon",
+    "variant_id": "paradox_herissmon",
+    "source": "3 Rookie/Herissmon/Paradox/Herissmon_Paradox_Primary.png",
+    "base_slug": "herissmon"
+  },
+  {
+    "slug": "paradox-impmon",
+    "variant_id": "paradox_impmon",
+    "source": "3 Rookie/Impmon/Paradox/Impmon_Paradox_Primary.png",
+    "base_slug": "impmon"
+  },
+  {
+    "slug": "paradox-jazamon",
+    "variant_id": "paradox_jazamon",
+    "source": "3 Rookie/Jazamon/Paradox/Jazamon_Paradox_Primary.png",
+    "base_slug": "jazamon"
+  },
+  {
+    "slug": "paradox-kamemon",
+    "variant_id": "paradox_kamemon",
+    "source": "3 Rookie/Kamemon/Paradox/Kamemon_Paradox_Primary.png",
+    "base_slug": "kamemon"
+  },
+  {
+    "slug": "paradox-keramon",
+    "variant_id": "paradox_keramon",
+    "source": "3 Rookie/Keramon/Paradox/Keramon_Paradox_Primary.png",
+    "base_slug": "keramon"
+  },
+  {
+    "slug": "paradox-kokuwamon",
+    "variant_id": "paradox_kokuwamon",
+    "source": "3 Rookie/Kokuwamon/Paradox/Kokuwamon_Paradox_Primary.png",
+    "base_slug": "kokuwamon"
+  },
+  {
+    "slug": "paradox-kudamon",
+    "variant_id": "paradox_kudamon",
+    "source": "3 Rookie/Kudamon/Paradox/Kudamon_Paradox_Primary.png",
+    "base_slug": "kudamon"
+  },
+  {
+    "slug": "paradox-kunemon",
+    "variant_id": "paradox_kunemon",
+    "source": "3 Rookie/Kunemon/Paradox/Kunemon_Paradox_Primary.png",
+    "base_slug": "kunemon"
+  },
+  {
+    "slug": "paradox-lalamon",
+    "variant_id": "paradox_lalamon",
+    "source": "3 Rookie/Lalamon/Paradox/Lalamon_Paradox_Primary.png",
+    "base_slug": "lalamon"
+  },
+  {
+    "slug": "paradox-lopmon",
+    "variant_id": "paradox_lopmon",
+    "source": "3 Rookie/Lopmon/Paradox/Lopmon_Paradox_Primary.png",
+    "base_slug": "lopmon"
+  },
+  {
+    "slug": "paradox-lucemon",
+    "variant_id": "paradox_lucemon",
+    "source": "3 Rookie/Lucemon/Paradox/Lucemon_Paradox_Primary.png",
+    "base_slug": "lucemon"
+  },
+  {
+    "slug": "paradox-lunamon",
+    "variant_id": "paradox_lunamon",
+    "source": "3 Rookie/Lunamon/Paradox/Lunamon_Paradox_Primary.png",
+    "base_slug": "lunamon"
+  },
+  {
+    "slug": "paradox-monodramon",
+    "variant_id": "paradox_monodramon",
+    "source": "3 Rookie/Monodramon/Paradox/Monodramon_Paradox_Primary.png",
+    "base_slug": "monodramon"
+  },
+  {
+    "slug": "paradox-muchomon",
+    "variant_id": "paradox_muchomon",
+    "source": "3 Rookie/Muchomon/Paradox/Muchomon_Paradox_Primary.png",
+    "base_slug": "muchomon"
+  },
+  {
+    "slug": "paradox-mushroomon",
+    "variant_id": "paradox_mushroomon",
+    "source": "3 Rookie/Mushroomon/Paradox/Mushroomon_Paradox_Primary.png",
+    "base_slug": "mushroomon"
+  },
+  {
+    "slug": "paradox-otamamon",
+    "variant_id": "paradox_otamamon",
+    "source": "3 Rookie/Otamamon/Paradox/Otamamon_Paradox_Primary.png",
+    "base_slug": "otamamon"
+  },
+  {
+    "slug": "paradox-palmon",
+    "variant_id": "paradox_palmon",
+    "source": "3 Rookie/Palmon/Paradox/Palmon_Paradox_Primary.png",
+    "base_slug": "palmon"
+  },
+  {
+    "slug": "paradox-patamon",
+    "variant_id": "paradox_patamon",
+    "source": "3 Rookie/Patamon/Paradox/Patamon_Paradox_Primary.png",
+    "base_slug": "patamon"
+  },
+  {
+    "slug": "paradox-pawnchessmonblack",
+    "variant_id": "paradox_pawnchessmonblack",
+    "source": "3 Rookie/PawnChessmonBlack/Paradox/PawnChessmonBlack_Paradox_Primary.png",
+    "base_slug": "pawnchessmonblack"
+  },
+  {
+    "slug": "paradox-pawnchessmonwhite",
+    "variant_id": "paradox_pawnchessmonwhite",
+    "source": "3 Rookie/PawnChessmonWhite/Paradox/PawnChessmonWhite_Paradox_Primary.png",
+    "base_slug": "pawnchessmonwhite"
+  },
+  {
+    "slug": "paradox-penguinmon",
+    "variant_id": "paradox_penguinmon",
+    "source": "3 Rookie/Penguinmon/Paradox/Penguinmon_Paradox_Primary.png",
+    "base_slug": "penguinmon"
+  },
+  {
+    "slug": "paradox-renamon",
+    "variant_id": "paradox_renamon",
+    "source": "3 Rookie/Renamon/Paradox/Renamon_Paradox_Primary.png",
+    "base_slug": "renamon"
+  },
+  {
+    "slug": "paradox-ryudamon",
+    "variant_id": "paradox_ryudamon",
+    "source": "3 Rookie/Ryudamon/Paradox/Ryudamon_Paradox_Primary.png",
+    "base_slug": "ryudamon"
+  },
+  {
+    "slug": "paradox-salamon",
+    "variant_id": "paradox_salamon",
+    "source": "3 Rookie/Salamon/Paradox/Salamon_Paradox_Primary.png",
+    "base_slug": "salamon"
+  },
+  {
+    "slug": "paradox-shadowtoyagumon",
+    "variant_id": "paradox_shadowtoyagumon",
+    "source": "3 Rookie/ShadowToyAgumon/Paradox/ShadowToyAgumon_Paradox_Primary.png",
+    "base_slug": "shadowtoyagumon"
+  },
+  {
+    "slug": "paradox-shamanmon",
+    "variant_id": "paradox_shamanmon",
+    "source": "3 Rookie/Shamanmon/Paradox/Shamanmon_Paradox_Primary.png",
+    "base_slug": "shamanmon"
+  },
+  {
+    "slug": "paradox-shoutmon",
+    "variant_id": "paradox_shoutmon",
+    "source": "3 Rookie/Shoutmon/Paradox/Shoutmon_Paradox_Primary.png",
+    "base_slug": "shoutmon"
+  },
+  {
+    "slug": "paradox-sistermonblanc",
+    "variant_id": "paradox_sistermonblanc",
+    "source": "3 Rookie/SistermonBlanc/Paradox/SistermonBlanc_Paradox_Primary.png",
+    "base_slug": "sistermonblanc"
+  },
+  {
+    "slug": "paradox-sistermonblancawakened",
+    "variant_id": "paradox_sistermonblancawakened",
+    "source": "3 Rookie/SistermonBlancAwakened/Paradox/SistermonBlancAwakened_Paradox_Primary.png",
+    "base_slug": "sistermonblancawakened"
+  },
+  {
+    "slug": "paradox-snowagumon",
+    "variant_id": "paradox_snowagumon",
+    "source": "3 Rookie/SnowAgumon/Paradox/SnowAgumon_Paradox_Primary.png",
+    "base_slug": "snowagumon"
+  },
+  {
+    "slug": "paradox-snowgoblimon",
+    "variant_id": "paradox_snowgoblimon",
+    "source": "3 Rookie/SnowGoblimon/Paradox/SnowGoblimon_Paradox_Primary.png",
+    "base_slug": "snowgoblimon"
+  },
+  {
+    "slug": "paradox-solarmon",
+    "variant_id": "paradox_solarmon",
+    "source": "3 Rookie/Solarmon/Paradox/Solarmon_Paradox_Primary.png",
+    "base_slug": "solarmon"
+  },
+  {
+    "slug": "paradox-syakomon",
+    "variant_id": "paradox_syakomon",
+    "source": "3 Rookie/Syakomon/Paradox/Syakomon_Paradox_Primary.png",
+    "base_slug": "syakomon"
+  },
+  {
+    "slug": "paradox-tapirmon",
+    "variant_id": "paradox_tapirmon",
+    "source": "3 Rookie/Tapirmon/Paradox/Tapirmon_Paradox_Primary.png",
+    "base_slug": "tapirmon"
+  },
+  {
+    "slug": "paradox-tentomon",
+    "variant_id": "paradox_tentomon",
+    "source": "3 Rookie/Tentomon/Paradox/Tentomon_Paradox_Primary.png",
+    "base_slug": "tentomon"
+  },
+  {
+    "slug": "paradox-terriermon",
+    "variant_id": "paradox_terriermon",
+    "source": "3 Rookie/Terriermon/Paradox/Terriermon_Paradox_Primary.png",
+    "base_slug": "terriermon"
+  },
+  {
+    "slug": "paradox-toyagumon",
+    "variant_id": "paradox_toyagumon",
+    "source": "3 Rookie/ToyAgumon/Paradox/ToyAgumon_Paradox_Primary.png",
+    "base_slug": "toyagumon"
+  },
+  {
+    "slug": "paradox-tsukaimon",
+    "variant_id": "paradox_tsukaimon",
+    "source": "3 Rookie/Tsukaimon/Paradox/Tsukaimon_Paradox_Primary.png",
+    "base_slug": "tsukaimon"
+  },
+  {
+    "slug": "paradox-veemon",
+    "variant_id": "paradox_veemon",
+    "source": "3 Rookie/Veemon/Paradox/Veemon_Paradox_Primary.png",
+    "base_slug": "veemon"
+  },
+  {
+    "slug": "paradox-vorvomon",
+    "variant_id": "paradox_vorvomon",
+    "source": "3 Rookie/Vorvomon/Paradox/Vorvomon_Paradox_Primary.png",
+    "base_slug": "vorvomon"
+  },
+  {
+    "slug": "paradox-wormmon",
+    "variant_id": "paradox_wormmon",
+    "source": "3 Rookie/Wormmon/Paradox/Wormmon_Paradox_Primary.png",
+    "base_slug": "wormmon"
+  },
+  {
+    "slug": "paradox-zubamon",
+    "variant_id": "paradox_zubamon",
+    "source": "3 Rookie/Zubamon/Paradox/Zubamon_Paradox_Primary.png",
+    "base_slug": "zubamon"
+  },
+  {
+    "slug": "paradox-agunimon",
+    "variant_id": "paradox_agunimon",
+    "source": "4 Champion/Agunimon/Paradox/Agunimon_Paradox_Primary.png",
+    "base_slug": "agunimon"
+  },
+  {
+    "slug": "paradox-airdramon",
+    "variant_id": "paradox_airdramon",
+    "source": "4 Champion/Airdramon/Paradox/Airdramon_Paradox_Primary.png",
+    "base_slug": "airdramon"
+  },
+  {
+    "slug": "paradox-akatorimon",
+    "variant_id": "paradox_akatorimon",
+    "source": "4 Champion/Akatorimon/Paradox/Akatorimon_Paradox_Primary.png",
+    "base_slug": "akatorimon"
+  },
+  {
+    "slug": "paradox-angemon",
+    "variant_id": "paradox_angemon",
+    "source": "4 Champion/Angemon/Paradox/Angemon_Paradox_Primary.png",
+    "base_slug": "angemon"
+  },
+  {
+    "slug": "paradox-ankylomon",
+    "variant_id": "paradox_ankylomon",
+    "source": "4 Champion/Ankylomon/Paradox/Ankylomon_Paradox_Primary.png",
+    "base_slug": "ankylomon"
+  },
+  {
+    "slug": "paradox-apemon",
+    "variant_id": "paradox_apemon",
+    "source": "4 Champion/Apemon/Paradox/Apemon_Paradox_Primary.png",
+    "base_slug": "apemon"
+  },
+  {
+    "slug": "paradox-aquilamon",
+    "variant_id": "paradox_aquilamon",
+    "source": "4 Champion/Aquilamon/Paradox/Aquilamon_Paradox_Primary.png",
+    "base_slug": "aquilamon"
+  },
+  {
+    "slug": "paradox-arcadiamonchampion",
+    "variant_id": "paradox_arcadiamonchampion",
+    "source": "4 Champion/ArcadiamonChampion/Paradox/ArcadiamonChampion_Paradox_Primary.png",
+    "base_slug": "arcadiamonchampion"
+  },
+  {
+    "slug": "paradox-arresterdramon",
+    "variant_id": "paradox_arresterdramon",
+    "source": "4 Champion/Arresterdramon/Paradox/Arresterdramon_Paradox_Primary.png",
+    "base_slug": "arresterdramon"
+  },
+  {
+    "slug": "paradox-axemon",
+    "variant_id": "paradox_axemon",
+    "source": "4 Champion/Axemon/Paradox/Axemon_Paradox_Primary.png",
+    "base_slug": "axemon"
+  },
+  {
+    "slug": "paradox-bakemon",
+    "variant_id": "paradox_bakemon",
+    "source": "4 Champion/Bakemon/Paradox/Bakemon_Paradox_Primary.png",
+    "base_slug": "bakemon"
+  },
+  {
+    "slug": "paradox-baohuckmon",
+    "variant_id": "paradox_baohuckmon",
+    "source": "4 Champion/BaoHuckmon/Paradox/BaoHuckmon_Paradox_Primary.png",
+    "base_slug": "baohuckmon"
+  },
+  {
+    "slug": "paradox-birdramon",
+    "variant_id": "paradox_birdramon",
+    "source": "4 Champion/Birdramon/Paradox/Birdramon_Paradox_Primary.png",
+    "base_slug": "birdramon"
+  },
+  {
+    "slug": "paradox-bombernanimon",
+    "variant_id": "paradox_bombernanimon",
+    "source": "4 Champion/BomberNanimon/Paradox/BomberNanimon_Paradox_Primary.png",
+    "base_slug": "bombernanimon"
+  },
+  {
+    "slug": "paradox-buraimon",
+    "variant_id": "paradox_buraimon",
+    "source": "4 Champion/Buraimon/Paradox/Buraimon_Paradox_Primary.png",
+    "base_slug": "buraimon"
+  },
+  {
+    "slug": "paradox-centarumon",
+    "variant_id": "paradox_centarumon",
+    "source": "4 Champion/Centarumon/Paradox/Centarumon_Paradox_Primary.png",
+    "base_slug": "centarumon"
+  },
+  {
+    "slug": "paradox-chrysalimon",
+    "variant_id": "paradox_chrysalimon",
+    "source": "4 Champion/Chrysalimon/Paradox/Chrysalimon_Paradox_Primary.png",
+    "base_slug": "chrysalimon"
+  },
+  {
+    "slug": "paradox-clockmon",
+    "variant_id": "paradox_clockmon",
+    "source": "4 Champion/Clockmon/Paradox/Clockmon_Paradox_Primary.png",
+    "base_slug": "clockmon"
+  },
+  {
+    "slug": "paradox-coelamon",
+    "variant_id": "paradox_coelamon",
+    "source": "4 Champion/Coelamon/Paradox/Coelamon_Paradox_Primary.png",
+    "base_slug": "coelamon"
+  },
+  {
+    "slug": "paradox-coredramonblue",
+    "variant_id": "paradox_coredramonblue",
+    "source": "4 Champion/CoredramonBlue/Paradox/CoredramonBlue_Paradox_Primary.png",
+    "base_slug": "coredramonblue"
+  },
+  {
+    "slug": "paradox-coredramongreen",
+    "variant_id": "paradox_coredramongreen",
+    "source": "4 Champion/CoredramonGreen/Paradox/CoredramonGreen_Paradox_Primary.png",
+    "base_slug": "coredramongreen"
+  },
+  {
+    "slug": "paradox-cyclonemon",
+    "variant_id": "paradox_cyclonemon",
+    "source": "4 Champion/Cyclonemon/Paradox/Cyclonemon_Paradox_Primary.png",
+    "base_slug": "cyclonemon"
+  },
+  {
+    "slug": "paradox-darklizardmon",
+    "variant_id": "paradox_darklizardmon",
+    "source": "4 Champion/DarkLizardmon/Paradox/DarkLizardmon_Paradox_Primary.png",
+    "base_slug": "darklizardmon"
+  },
+  {
+    "slug": "paradox-darktyrannomon",
+    "variant_id": "paradox_darktyrannomon",
+    "source": "4 Champion/DarkTyrannomon/Paradox/DarkTyrannomon_Paradox_Primary.png",
+    "base_slug": "darktyrannomon"
+  },
+  {
+    "slug": "paradox-deputymon",
+    "variant_id": "paradox_deputymon",
+    "source": "4 Champion/Deputymon/Paradox/Deputymon_Paradox_Primary.png",
+    "base_slug": "deputymon"
+  },
+  {
+    "slug": "paradox-devidramon",
+    "variant_id": "paradox_devidramon",
+    "source": "4 Champion/Devidramon/Paradox/Devidramon_Paradox_Primary.png",
+    "base_slug": "devidramon"
+  },
+  {
+    "slug": "paradox-devimon",
+    "variant_id": "paradox_devimonicedevimon",
+    "source": "4 Champion/DevimonIceDevimon/Paradox/DevimonIceDevimon_Paradox_Primary.png",
+    "base_slug": "devimon"
+  },
+  {
+    "slug": "paradox-diatrymon",
+    "variant_id": "paradox_diatrymon",
+    "source": "4 Champion/Diatrymon/Paradox/Diatrymon_Paradox_Primary.png",
+    "base_slug": "diatrymon"
+  },
+  {
+    "slug": "paradox-dinohyumon",
+    "variant_id": "paradox_dinohyumon",
+    "source": "4 Champion/Dinohyumon/Paradox/Dinohyumon_Paradox_Primary.png",
+    "base_slug": "dinohyumon"
+  },
+  {
+    "slug": "paradox-dokugumon",
+    "variant_id": "paradox_dokugumon",
+    "source": "4 Champion/Dokugumon/Paradox/Dokugumon_Paradox_Primary.png",
+    "base_slug": "dokugumon"
+  },
+  {
+    "slug": "paradox-dolphmon",
+    "variant_id": "paradox_dolphmon",
+    "source": "4 Champion/Dolphmon/Paradox/Dolphmon_Paradox_Primary.png",
+    "base_slug": "dolphmon"
+  },
+  {
+    "slug": "paradox-dorugamon",
+    "variant_id": "paradox_dorugamon",
+    "source": "4 Champion/Dorugamon/Paradox/Dorugamon_Paradox_Primary.png",
+    "base_slug": "dorugamon"
+  },
+  {
+    "slug": "paradox-dorulumon",
+    "variant_id": "paradox_dorulumon",
+    "source": "4 Champion/Dorulumon/Paradox/Dorulumon_Paradox_Primary.png",
+    "base_slug": "dorulumon"
+  },
+  {
+    "slug": "paradox-drimogemon",
+    "variant_id": "paradox_drimogemon",
+    "source": "4 Champion/Drimogemon/Paradox/Drimogemon_Paradox_Primary.png",
+    "base_slug": "drimogemon"
+  },
+  {
+    "slug": "paradox-ebidramon",
+    "variant_id": "paradox_ebidramon",
+    "source": "4 Champion/Ebidramon/Paradox/Ebidramon_Paradox_Primary.png",
+    "base_slug": "ebidramon"
+  },
+  {
+    "slug": "paradox-exveemon",
+    "variant_id": "paradox_exveemon",
+    "source": "4 Champion/ExVeemon/Paradox/ExVeemon_Paradox_Primary.png",
+    "base_slug": "exveemon"
+  },
+  {
+    "slug": "paradox-filmon",
+    "variant_id": "paradox_filmon",
+    "source": "4 Champion/Filmon/Paradox/Filmon_Paradox_Primary.png",
+    "base_slug": "filmon"
+  },
+  {
+    "slug": "paradox-firamon",
+    "variant_id": "paradox_firamon",
+    "source": "4 Champion/Firamon/Paradox/Firamon_Paradox_Primary.png",
+    "base_slug": "firamon"
+  },
+  {
+    "slug": "paradox-flarerizamon",
+    "variant_id": "paradox_flarerizamon",
+    "source": "4 Champion/Flarerizamon/Paradox/Flarerizamon_Paradox_Primary.png",
+    "base_slug": "flarerizamon"
+  },
+  {
+    "slug": "paradox-flymon",
+    "variant_id": "paradox_flymon",
+    "source": "4 Champion/Flymon/Paradox/Flymon_Paradox_Primary.png",
+    "base_slug": "flymon"
+  },
+  {
+    "slug": "paradox-frigimon",
+    "variant_id": "paradox_frigimon",
+    "source": "4 Champion/Frigimon/Paradox/Frigimon_Paradox_Primary.png",
+    "base_slug": "frigimon"
+  },
+  {
+    "slug": "paradox-fugamon",
+    "variant_id": "paradox_fugamon",
+    "source": "4 Champion/Fugamon/Paradox/Fugamon_Paradox_Primary.png",
+    "base_slug": "fugamon"
+  },
+  {
+    "slug": "paradox-gaogamon",
+    "variant_id": "paradox_gaogamon",
+    "source": "4 Champion/Gaogamon/Paradox/Gaogamon_Paradox_Primary.png",
+    "base_slug": "gaogamon"
+  },
+  {
+    "slug": "paradox-gargomon",
+    "variant_id": "paradox_gargomon",
+    "source": "4 Champion/Gargomon/Paradox/Gargomon_Paradox_Primary.png",
+    "base_slug": "gargomon"
+  },
+  {
+    "slug": "paradox-garurumon",
+    "variant_id": "paradox_garurumon",
+    "source": "4 Champion/Garurumon/Paradox/Garurumon_Paradox_Primary.png",
+    "base_slug": "garurumon"
+  },
+  {
+    "slug": "paradox-gatomon",
+    "variant_id": "paradox_gatomonblackgatomon",
+    "source": "4 Champion/GatomonBlackGatomon/Paradox/GatomonBlackGatomon_Paradox_Primary.png",
+    "base_slug": "gatomon"
+  },
+  {
+    "slug": "paradox-gawappamon",
+    "variant_id": "paradox_gawappamon",
+    "source": "4 Champion/Gawappamon/Paradox/Gawappamon_Paradox_Primary.png",
+    "base_slug": "gawappamon"
+  },
+  {
+    "slug": "paradox-gekomon",
+    "variant_id": "paradox_gekomon",
+    "source": "4 Champion/Gekomon/Paradox/Gekomon_Paradox_Primary.png",
+    "base_slug": "gekomon"
+  },
+  {
+    "slug": "paradox-geogreymon",
+    "variant_id": "paradox_geogreymon",
+    "source": "4 Champion/GeoGreymon/Paradox/GeoGreymon_Paradox_Primary.png",
+    "base_slug": "geogreymon"
+  },
+  {
+    "slug": "paradox-geremon",
+    "variant_id": "paradox_geremon",
+    "source": "4 Champion/Geremon/Paradox/Geremon_Paradox_Primary.png",
+    "base_slug": "geremon"
+  },
+  {
+    "slug": "paradox-gesomon",
+    "variant_id": "paradox_gesomon",
+    "source": "4 Champion/Gesomon/Paradox/Gesomon_Paradox_Primary.png",
+    "base_slug": "gesomon"
+  },
+  {
+    "slug": "paradox-ginryumon",
+    "variant_id": "paradox_ginryumon",
+    "source": "4 Champion/Ginryumon/Paradox/Ginryumon_Paradox_Primary.png",
+    "base_slug": "ginryumon"
+  },
+  {
+    "slug": "paradox-goldnumemon",
+    "variant_id": "paradox_goldnumemon",
+    "source": "4 Champion/GoldNumemon/Paradox/GoldNumemon_Paradox_Primary.png",
+    "base_slug": "goldnumemon"
+  },
+  {
+    "slug": "paradox-golemon",
+    "variant_id": "paradox_golemon",
+    "source": "4 Champion/Golemon/Paradox/Golemon_Paradox_Primary.png",
+    "base_slug": "golemon"
+  },
+  {
+    "slug": "paradox-greymon",
+    "variant_id": "paradox_greymon",
+    "source": "4 Champion/Greymon/Paradox/Greymon_Paradox_Primary.png",
+    "base_slug": "greymon"
+  },
+  {
+    "slug": "paradox-greymonblue",
+    "variant_id": "paradox_greymonblue",
+    "source": "4 Champion/GreymonBlue/Paradox/GreymonBlue_Paradox_Primary.png",
+    "base_slug": "greymonblue"
+  },
+  {
+    "slug": "paradox-grizzlymon",
+    "variant_id": "paradox_grizzlymon",
+    "source": "4 Champion/Grizzlymon/Paradox/Grizzlymon_Paradox_Primary.png",
+    "base_slug": "grizzlymon"
+  },
+  {
+    "slug": "paradox-growlmon",
+    "variant_id": "paradox_growlmon",
+    "source": "4 Champion/Growlmon/Paradox/Growlmon_Paradox_Primary.png",
+    "base_slug": "growlmon"
+  },
+  {
+    "slug": "paradox-guardromon",
+    "variant_id": "paradox_guardromon",
+    "source": "4 Champion/Guardromon/Paradox/Guardromon_Paradox_Primary.png",
+    "base_slug": "guardromon"
+  },
+  {
+    "slug": "paradox-hookmon",
+    "variant_id": "paradox_hookmon",
+    "source": "4 Champion/Hookmon/Paradox/Hookmon_Paradox_Primary.png",
+    "base_slug": "hookmon"
+  },
+  {
+    "slug": "paradox-hyogamon",
+    "variant_id": "paradox_hyogamon",
+    "source": "4 Champion/Hyogamon/Paradox/Hyogamon_Paradox_Primary.png",
+    "base_slug": "hyogamon"
+  },
+  {
+    "slug": "paradox-icedevimon",
+    "variant_id": "paradox_icedevimon",
+    "source": "4 Champion/IceDevimon/Paradox/IceDevimon_Paradox_Primary.png",
+    "base_slug": "icedevimon"
+  },
+  {
+    "slug": "paradox-icemon",
+    "variant_id": "paradox_icemon",
+    "source": "4 Champion/Icemon/Paradox/Icemon_Paradox_Primary.png",
+    "base_slug": "icemon"
+  },
+  {
+    "slug": "paradox-ikkakumon",
+    "variant_id": "paradox_ikkakumon",
+    "source": "4 Champion/Ikkakumon/Paradox/Ikkakumon_Paradox_Primary.png",
+    "base_slug": "ikkakumon"
+  },
+  {
+    "slug": "paradox-jazardmon",
+    "variant_id": "paradox_jazardmon",
+    "source": "4 Champion/Jazardmon/Paradox/Jazardmon_Paradox_Primary.png",
+    "base_slug": "jazardmon"
+  },
+  {
+    "slug": "paradox-junglemojyamon",
+    "variant_id": "paradox_junglemojyamon",
+    "source": "4 Champion/JungleMojyamon/Paradox/JungleMojyamon_Paradox_Primary.png",
+    "base_slug": "junglemojyamon"
+  },
+  {
+    "slug": "paradox-kabuterimon",
+    "variant_id": "paradox_kabuterimon",
+    "source": "4 Champion/Kabuterimon/Paradox/Kabuterimon_Paradox_Primary.png",
+    "base_slug": "kabuterimon"
+  },
+  {
+    "slug": "paradox-karatsukinumemon",
+    "variant_id": "paradox_karatsukinumemon",
+    "source": "4 Champion/KaratsukiNumemon/Paradox/KaratsukiNumemon_Paradox_Primary.png",
+    "base_slug": "karatsukinumemon"
+  },
+  {
+    "slug": "paradox-kiwimon",
+    "variant_id": "paradox_kiwimon",
+    "source": "4 Champion/Kiwimon/Paradox/Kiwimon_Paradox_Primary.png",
+    "base_slug": "kiwimon"
+  },
+  {
+    "slug": "paradox-knightchessmonblack",
+    "variant_id": "paradox_knightchessmonblack",
+    "source": "4 Champion/KnightChessmonBlack/Paradox/KnightChessmonBlack_Paradox_Primary.png",
+    "base_slug": "knightchessmonblack"
+  },
+  {
+    "slug": "paradox-knightchessmonwhite",
+    "variant_id": "paradox_knightchessmonwhite",
+    "source": "4 Champion/KnightChessmonWhite/Paradox/KnightChessmonWhite_Paradox_Primary.png",
+    "base_slug": "knightchessmonwhite"
+  },
+  {
+    "slug": "paradox-kogamon",
+    "variant_id": "paradox_kogamon",
+    "source": "4 Champion/Kogamon/Paradox/Kogamon_Paradox_Primary.png",
+    "base_slug": "kogamon"
+  },
+  {
+    "slug": "paradox-kokatorimon",
+    "variant_id": "paradox_kokatorimon",
+    "source": "4 Champion/Kokatorimon/Paradox/Kokatorimon_Paradox_Primary.png",
+    "base_slug": "kokatorimon"
+  },
+  {
+    "slug": "paradox-kuwagamon",
+    "variant_id": "paradox_kuwagamon",
+    "source": "4 Champion/Kuwagamon/Paradox/Kuwagamon_Paradox_Primary.png",
+    "base_slug": "kuwagamon"
+  },
+  {
+    "slug": "paradox-kyubimon",
+    "variant_id": "paradox_kyubimon",
+    "source": "4 Champion/Kyubimon/Paradox/Kyubimon_Paradox_Primary.png",
+    "base_slug": "kyubimon"
+  },
+  {
+    "slug": "paradox-lavorvomon",
+    "variant_id": "paradox_lavorvomon",
+    "source": "4 Champion/Lavorvomon/Paradox/Lavorvomon_Paradox_Primary.png",
+    "base_slug": "lavorvomon"
+  },
+  {
+    "slug": "paradox-lekismon",
+    "variant_id": "paradox_lekismon",
+    "source": "4 Champion/Lekismon/Paradox/Lekismon_Paradox_Primary.png",
+    "base_slug": "lekismon"
+  },
+  {
+    "slug": "paradox-leomon",
+    "variant_id": "paradox_leomon",
+    "source": "4 Champion/Leomon/Paradox/Leomon_Paradox_Primary.png",
+    "base_slug": "leomon"
+  },
+  {
+    "slug": "paradox-lobomon",
+    "variant_id": "paradox_lobomon",
+    "source": "4 Champion/Lobomon/Paradox/Lobomon_Paradox_Primary.png",
+    "base_slug": "lobomon"
+  },
+  {
+    "slug": "paradox-madleomon",
+    "variant_id": "paradox_madleomon",
+    "source": "4 Champion/MadLeomon/Paradox/MadLeomon_Paradox_Primary.png",
+    "base_slug": "madleomon"
+  },
+  {
+    "slug": "paradox-meicoomon",
+    "variant_id": "paradox_meicoomon",
+    "source": "4 Champion/Meicoomon/Paradox/Meicoomon_Paradox_Primary.png",
+    "base_slug": "meicoomon"
+  },
+  {
+    "slug": "paradox-mekanorimon",
+    "variant_id": "paradox_mekanorimon",
+    "source": "4 Champion/Mekanorimon/Paradox/Mekanorimon_Paradox_Primary.png",
+    "base_slug": "mekanorimon"
+  },
+  {
+    "slug": "paradox-meramon",
+    "variant_id": "paradox_meramon",
+    "source": "4 Champion/Meramon/Paradox/Meramon_Paradox_Primary.png",
+    "base_slug": "meramon"
+  },
+  {
+    "slug": "paradox-minotarumon",
+    "variant_id": "paradox_minotarumon",
+    "source": "4 Champion/Minotarumon/Paradox/Minotarumon_Paradox_Primary.png",
+    "base_slug": "minotarumon"
+  },
+  {
+    "slug": "paradox-mojyamon",
+    "variant_id": "paradox_mojyamon",
+    "source": "4 Champion/Mojyamon/Paradox/Mojyamon_Paradox_Primary.png",
+    "base_slug": "mojyamon"
+  },
+  {
+    "slug": "paradox-monochromon",
+    "variant_id": "paradox_monochromon",
+    "source": "4 Champion/Monochromon/Paradox/Monochromon_Paradox_Primary.png",
+    "base_slug": "monochromon"
+  },
+  {
+    "slug": "paradox-morishellmon",
+    "variant_id": "paradox_morishellmon",
+    "source": "4 Champion/MoriShellmon/Paradox/MoriShellmon_Paradox_Primary.png",
+    "base_slug": "morishellmon"
+  },
+  {
+    "slug": "paradox-mudfrigimon",
+    "variant_id": "paradox_mudfrigimon",
+    "source": "4 Champion/MudFrigimon/Paradox/MudFrigimon_Paradox_Primary.png",
+    "base_slug": "mudfrigimon"
+  },
+  {
+    "slug": "paradox-musyamon",
+    "variant_id": "paradox_musyamon",
+    "source": "4 Champion/Musyamon/Paradox/Musyamon_Paradox_Primary.png",
+    "base_slug": "musyamon"
+  },
+  {
+    "slug": "paradox-nanimon",
+    "variant_id": "paradox_nanimon",
+    "source": "4 Champion/Nanimon/Paradox/Nanimon_Paradox_Primary.png",
+    "base_slug": "nanimon"
+  },
+  {
+    "slug": "paradox-ninjamon",
+    "variant_id": "paradox_ninjamon",
+    "source": "4 Champion/Ninjamon/Paradox/Ninjamon_Paradox_Primary.png",
+    "base_slug": "ninjamon"
+  },
+  {
+    "slug": "paradox-nisedrimogemon",
+    "variant_id": "paradox_nisedrimogemon",
+    "source": "4 Champion/NiseDrimogemon/Paradox/NiseDrimogemon_Paradox_Primary.png",
+    "base_slug": "nisedrimogemon"
+  },
+  {
+    "slug": "paradox-numemon",
+    "variant_id": "paradox_numemon",
+    "source": "4 Champion/Numemon/Paradox/Numemon_Paradox_Primary.png",
+    "base_slug": "numemon"
+  },
+  {
+    "slug": "paradox-octomon",
+    "variant_id": "paradox_octomon",
+    "source": "4 Champion/Octomon/Paradox/Octomon_Paradox_Primary.png",
+    "base_slug": "octomon"
+  },
+  {
+    "slug": "paradox-ogremon",
+    "variant_id": "paradox_ogremon",
+    "source": "4 Champion/Ogremon/Paradox/Ogremon_Paradox_Primary.png",
+    "base_slug": "ogremon"
+  },
+  {
+    "slug": "paradox-omekamon",
+    "variant_id": "paradox_omekamon",
+    "source": "4 Champion/Omekamon/Paradox/Omekamon_Paradox_Primary.png",
+    "base_slug": "omekamon"
+  },
+  {
+    "slug": "paradox-peckmon",
+    "variant_id": "paradox_peckmon",
+    "source": "4 Champion/Peckmon/Paradox/Peckmon_Paradox_Primary.png",
+    "base_slug": "peckmon"
+  },
+  {
+    "slug": "paradox-platinumsukamon",
+    "variant_id": "paradox_platinumsukamon",
+    "source": "4 Champion/PlatinumSukamon/Paradox/PlatinumSukamon_Paradox_Primary.png",
+    "base_slug": "platinumsukamon"
+  },
+  {
+    "slug": "paradox-raremon",
+    "variant_id": "paradox_raremon",
+    "source": "4 Champion/Raremon/Paradox/Raremon_Paradox_Primary.png",
+    "base_slug": "raremon"
+  },
+  {
+    "slug": "paradox-redvegiemon",
+    "variant_id": "paradox_redvegiemon",
+    "source": "4 Champion/RedVegiemon/Paradox/RedVegiemon_Paradox_Primary.png",
+    "base_slug": "redvegiemon"
+  },
+  {
+    "slug": "paradox-reppamon",
+    "variant_id": "paradox_reppamon",
+    "source": "4 Champion/Reppamon/Paradox/Reppamon_Paradox_Primary.png",
+    "base_slug": "reppamon"
+  },
+  {
+    "slug": "paradox-reptiledramon",
+    "variant_id": "paradox_reptiledramon",
+    "source": "4 Champion/Reptiledramon/Paradox/Reptiledramon_Paradox_Primary.png",
+    "base_slug": "reptiledramon"
+  },
+  {
+    "slug": "paradox-roachmon",
+    "variant_id": "paradox_roachmon",
+    "source": "4 Champion/Roachmon/Paradox/Roachmon_Paradox_Primary.png",
+    "base_slug": "roachmon"
+  },
+  {
+    "slug": "paradox-saberdramon",
+    "variant_id": "paradox_saberdramon",
+    "source": "4 Champion/Saberdramon/Paradox/Saberdramon_Paradox_Primary.png",
+    "base_slug": "saberdramon"
+  },
+  {
+    "slug": "paradox-sandyanmamon",
+    "variant_id": "paradox_sandyanmamon",
+    "source": "4 Champion/SandYanmamon/Paradox/SandYanmamon_Paradox_Primary.png",
+    "base_slug": "sandyanmamon"
+  },
+  {
+    "slug": "paradox-sangloupmon",
+    "variant_id": "paradox_sangloupmon",
+    "source": "4 Champion/Sangloupmon/Paradox/Sangloupmon_Paradox_Primary.png",
+    "base_slug": "sangloupmon"
+  },
+  {
+    "slug": "paradox-seadramon",
+    "variant_id": "paradox_seadramon",
+    "source": "4 Champion/Seadramon/Paradox/Seadramon_Paradox_Primary.png",
+    "base_slug": "seadramon"
+  },
+  {
+    "slug": "paradox-seasarmon",
+    "variant_id": "paradox_seasarmon",
+    "source": "4 Champion/Seasarmon/Paradox/Seasarmon_Paradox_Primary.png",
+    "base_slug": "seasarmon"
+  },
+  {
+    "slug": "paradox-shellmon",
+    "variant_id": "paradox_shellmon",
+    "source": "4 Champion/Shellmon/Paradox/Shellmon_Paradox_Primary.png",
+    "base_slug": "shellmon"
+  },
+  {
+    "slug": "paradox-snimon",
+    "variant_id": "paradox_snimon",
+    "source": "4 Champion/Snimon/Paradox/Snimon_Paradox_Primary.png",
+    "base_slug": "snimon"
+  },
+  {
+    "slug": "paradox-sorcermon",
+    "variant_id": "paradox_sorcermon",
+    "source": "4 Champion/Sorcermon/Paradox/Sorcermon_Paradox_Primary.png",
+    "base_slug": "sorcermon"
+  },
+  {
+    "slug": "paradox-starmon",
+    "variant_id": "paradox_starmon",
+    "source": "4 Champion/Starmon/Paradox/Starmon_Paradox_Primary.png",
+    "base_slug": "starmon"
+  },
+  {
+    "slug": "paradox-stingmon",
+    "variant_id": "paradox_stingmon",
+    "source": "4 Champion/Stingmon/Paradox/Stingmon_Paradox_Primary.png",
+    "base_slug": "stingmon"
+  },
+  {
+    "slug": "paradox-strikedramon",
+    "variant_id": "paradox_strikedramon",
+    "source": "4 Champion/Strikedramon/Paradox/Strikedramon_Paradox_Primary.png",
+    "base_slug": "strikedramon"
+  },
+  {
+    "slug": "paradox-sukamon",
+    "variant_id": "paradox_sukamon",
+    "source": "4 Champion/Sukamon/Paradox/Sukamon_Paradox_Primary.png",
+    "base_slug": "sukamon"
+  },
+  {
+    "slug": "paradox-sunflowmon",
+    "variant_id": "paradox_sunflowmon",
+    "source": "4 Champion/Sunflowmon/Paradox/Sunflowmon_Paradox_Primary.png",
+    "base_slug": "sunflowmon"
+  },
+  {
+    "slug": "paradox-tankmon",
+    "variant_id": "paradox_tankmon",
+    "source": "4 Champion/Tankmon/Paradox/Tankmon_Paradox_Primary.png",
+    "base_slug": "tankmon"
+  },
+  {
+    "slug": "paradox-togemon",
+    "variant_id": "paradox_togemon",
+    "source": "4 Champion/Togemon/Paradox/Togemon_Paradox_Primary.png",
+    "base_slug": "togemon"
+  },
+  {
+    "slug": "paradox-tortomon",
+    "variant_id": "paradox_tortomon",
+    "source": "4 Champion/Tortomon/Paradox/Tortomon_Paradox_Primary.png",
+    "base_slug": "tortomon"
+  },
+  {
+    "slug": "paradox-troopmon",
+    "variant_id": "paradox_troopmon",
+    "source": "4 Champion/Troopmon/Paradox/Troopmon_Paradox_Primary.png",
+    "base_slug": "troopmon"
+  },
+  {
+    "slug": "paradox-tyrannomon",
+    "variant_id": "paradox_tyrannomon",
+    "source": "4 Champion/Tyrannomon/Paradox/Tyrannomon_Paradox_Primary.png",
+    "base_slug": "tyrannomon"
+  },
+  {
+    "slug": "paradox-unimon",
+    "variant_id": "paradox_unimon",
+    "source": "4 Champion/Unimon/Paradox/Unimon_Paradox_Primary.png",
+    "base_slug": "unimon"
+  },
+  {
+    "slug": "paradox-veedramon",
+    "variant_id": "paradox_veedramon",
+    "source": "4 Champion/Veedramon/Paradox/Veedramon_Paradox_Primary.png",
+    "base_slug": "veedramon"
+  },
+  {
+    "slug": "paradox-vegiemon",
+    "variant_id": "paradox_vegiemon",
+    "source": "4 Champion/Vegiemon/Paradox/Vegiemon_Paradox_Primary.png",
+    "base_slug": "vegiemon"
+  },
+  {
+    "slug": "paradox-vilemon",
+    "variant_id": "paradox_vilemon",
+    "source": "4 Champion/Vilemon/Paradox/Vilemon_Paradox_Primary.png",
+    "base_slug": "vilemon"
+  },
+  {
+    "slug": "paradox-weedmon",
+    "variant_id": "paradox_weedmon",
+    "source": "4 Champion/Weedmon/Paradox/Weedmon_Paradox_Primary.png",
+    "base_slug": "weedmon"
+  },
+  {
+    "slug": "paradox-wendigomon",
+    "variant_id": "paradox_wendigomon",
+    "source": "4 Champion/Wendigomon/Paradox/Wendigomon_Paradox_Primary.png",
+    "base_slug": "wendigomon"
+  },
+  {
+    "slug": "paradox-wizardmon",
+    "variant_id": "paradox_wizardmon",
+    "source": "4 Champion/Wizardmon/Paradox/Wizardmon_Paradox_Primary.png",
+    "base_slug": "wizardmon"
+  },
+  {
+    "slug": "paradox-woodmon",
+    "variant_id": "paradox_woodmon",
+    "source": "4 Champion/Woodmon/Paradox/Woodmon_Paradox_Primary.png",
+    "base_slug": "woodmon"
+  },
+  {
+    "slug": "paradox-yanmamon",
+    "variant_id": "paradox_yanmamon",
+    "source": "4 Champion/Yanmamon/Paradox/Yanmamon_Paradox_Primary.png",
+    "base_slug": "yanmamon"
+  },
+  {
+    "slug": "paradox-aeroveedramon",
+    "variant_id": "paradox_aeroveedramon",
+    "source": "5 Ultimate/AeroVeedramon/Paradox/AeroVeedramon_Paradox_Primary.png",
+    "base_slug": "aeroveedramon"
+  },
+  {
+    "slug": "paradox-andromon",
+    "variant_id": "paradox_andromon",
+    "source": "5 Ultimate/Andromon/Paradox/Andromon_Paradox_Primary.png",
+    "base_slug": "andromon"
+  },
+  {
+    "slug": "paradox-angewomon",
+    "variant_id": "paradox_angewomon",
+    "source": "5 Ultimate/Angewomon/Paradox/Angewomon_Paradox_Primary.png",
+    "base_slug": "angewomon"
+  },
+  {
+    "slug": "paradox-antylamongood",
+    "variant_id": "paradox_antylamongood",
+    "source": "5 Ultimate/AntylamonGood/Paradox/AntylamonGood_Paradox_Primary.png",
+    "base_slug": "antylamongood"
+  },
+  {
+    "slug": "paradox-argomonultimate",
+    "variant_id": "paradox_argomonultimate",
+    "source": "5 Ultimate/ArgomonUltimate/Paradox/ArgomonUltimate_Paradox_Primary.png",
+    "base_slug": "argomonultimate"
+  },
+  {
+    "slug": "paradox-arukenimon",
+    "variant_id": "paradox_arukenimon",
+    "source": "5 Ultimate/Arukenimon/Paradox/Arukenimon_Paradox_Primary.png",
+    "base_slug": "arukenimon"
+  },
+  {
+    "slug": "paradox-axeknightmon",
+    "variant_id": "paradox_axeknightmon",
+    "source": "5 Ultimate/AxeKnightmon/Paradox/AxeKnightmon_Paradox_Primary.png",
+    "base_slug": "axeknightmon"
+  },
+  {
+    "slug": "paradox-beastmon",
+    "variant_id": "paradox_beastmon",
+    "source": "5 Ultimate/Beastmon/Paradox/Beastmon_Paradox_Primary.png",
+    "base_slug": "beastmon"
+  },
+  {
+    "slug": "paradox-bigmamemon",
+    "variant_id": "paradox_bigmamemon",
+    "source": "5 Ultimate/BigMamemon/Paradox/BigMamemon_Paradox_Primary.png",
+    "base_slug": "bigmamemon"
+  },
+  {
+    "slug": "paradox-bishopchessmonwhite",
+    "variant_id": "paradox_bishopchessmonwhite",
+    "source": "5 Ultimate/BishopChessmonWhite/Paradox/BishopChessmonWhite_Paradox_Primary.png",
+    "base_slug": "bishopchessmonwhite"
+  },
+  {
+    "slug": "paradox-blackrapidmon",
+    "variant_id": "paradox_blackrapidmon",
+    "source": "5 Ultimate/BlackRapidmon/Paradox/BlackRapidmon_Paradox_Primary.png",
+    "base_slug": "blackrapidmon"
+  },
+  {
+    "slug": "paradox-blackwargrowlmon",
+    "variant_id": "paradox_blackwargrowlmon",
+    "source": "5 Ultimate/BlackWarGrowlmon/Paradox/BlackWarGrowlmon_Paradox_Primary.png",
+    "base_slug": "blackwargrowlmon"
+  },
+  {
+    "slug": "paradox-blossomon",
+    "variant_id": "paradox_blossomon",
+    "source": "5 Ultimate/Blossomon/Paradox/Blossomon_Paradox_Primary.png",
+    "base_slug": "blossomon"
+  },
+  {
+    "slug": "paradox-bluemeramon",
+    "variant_id": "paradox_bluemeramon",
+    "source": "5 Ultimate/BlueMeramon/Paradox/BlueMeramon_Paradox_Primary.png",
+    "base_slug": "bluemeramon"
+  },
+  {
+    "slug": "paradox-brachiomon",
+    "variant_id": "paradox_brachiomon",
+    "source": "5 Ultimate/Brachiomon/Paradox/Brachiomon_Paradox_Primary.png",
+    "base_slug": "brachiomon"
+  },
+  {
+    "slug": "paradox-butenmon",
+    "variant_id": "paradox_butenmon",
+    "source": "5 Ultimate/Butenmon/Paradox/Butenmon_Paradox_Primary.png",
+    "base_slug": "butenmon"
+  },
+  {
+    "slug": "paradox-cerberumon",
+    "variant_id": "paradox_cerberumon",
+    "source": "5 Ultimate/Cerberumon/Paradox/Cerberumon_Paradox_Primary.png",
+    "base_slug": "cerberumon"
+  },
+  {
+    "slug": "paradox-cherrymon",
+    "variant_id": "paradox_cherrymon",
+    "source": "5 Ultimate/Cherrymon/Paradox/Cherrymon_Paradox_Primary.png",
+    "base_slug": "cherrymon"
+  },
+  {
+    "slug": "paradox-chirinmon",
+    "variant_id": "paradox_chirinmon",
+    "source": "5 Ultimate/Chirinmon/Paradox/Chirinmon_Paradox_Primary.png",
+    "base_slug": "chirinmon"
+  },
+  {
+    "slug": "paradox-crescemon",
+    "variant_id": "paradox_crescemon",
+    "source": "5 Ultimate/Crescemon/Paradox/Crescemon_Paradox_Primary.png",
+    "base_slug": "crescemon"
+  },
+  {
+    "slug": "paradox-crowmon",
+    "variant_id": "paradox_crowmon",
+    "source": "5 Ultimate/Crowmon/Paradox/Crowmon_Paradox_Primary.png",
+    "base_slug": "crowmon"
+  },
+  {
+    "slug": "paradox-cyberdramon",
+    "variant_id": "paradox_cyberdramon",
+    "source": "5 Ultimate/Cyberdramon/Paradox/Cyberdramon_Paradox_Primary.png",
+    "base_slug": "cyberdramon"
+  },
+  {
+    "slug": "paradox-datamon",
+    "variant_id": "paradox_datamon",
+    "source": "5 Ultimate/Datamon/Paradox/Datamon_Paradox_Primary.png",
+    "base_slug": "datamon"
+  },
+  {
+    "slug": "paradox-deramon",
+    "variant_id": "paradox_deramon",
+    "source": "5 Ultimate/Deramon/Paradox/Deramon_Paradox_Primary.png",
+    "base_slug": "deramon"
+  },
+  {
+    "slug": "paradox-digitamamon",
+    "variant_id": "paradox_digitamamon",
+    "source": "5 Ultimate/Digitamamon/Paradox/Digitamamon_Paradox_Primary.png",
+    "base_slug": "digitamamon"
+  },
+  {
+    "slug": "paradox-dinobeemon",
+    "variant_id": "paradox_dinobeemon",
+    "source": "5 Ultimate/DinoBeemon/Paradox/DinoBeemon_Paradox_Primary.png",
+    "base_slug": "dinobeemon"
+  },
+  {
+    "slug": "paradox-divermon",
+    "variant_id": "paradox_divermon",
+    "source": "5 Ultimate/Divermon/Paradox/Divermon_Paradox_Primary.png",
+    "base_slug": "divermon"
+  },
+  {
+    "slug": "paradox-dorugreymon",
+    "variant_id": "paradox_dorugreymon",
+    "source": "5 Ultimate/DoruGreymon/Paradox/DoruGreymon_Paradox_Primary.png",
+    "base_slug": "dorugreymon"
+  },
+  {
+    "slug": "paradox-dragomon",
+    "variant_id": "paradox_dragomon",
+    "source": "5 Ultimate/Dragomon/Paradox/Dragomon_Paradox_Primary.png",
+    "base_slug": "dragomon"
+  },
+  {
+    "slug": "paradox-etemon",
+    "variant_id": "paradox_etemon",
+    "source": "5 Ultimate/Etemon/Paradox/Etemon_Paradox_Primary.png",
+    "base_slug": "etemon"
+  },
+  {
+    "slug": "paradox-extyrannomon",
+    "variant_id": "paradox_extyrannomon",
+    "source": "5 Ultimate/ExTyrannomon/Paradox/ExTyrannomon_Paradox_Primary.png",
+    "base_slug": "extyrannomon"
+  },
+  {
+    "slug": "paradox-flaremon",
+    "variant_id": "paradox_flaremon",
+    "source": "5 Ultimate/Flaremon/Paradox/Flaremon_Paradox_Primary.png",
+    "base_slug": "flaremon"
+  },
+  {
+    "slug": "paradox-garbagemon",
+    "variant_id": "paradox_garbagemon",
+    "source": "5 Ultimate/Garbagemon/Paradox/Garbagemon_Paradox_Primary.png",
+    "base_slug": "garbagemon"
+  },
+  {
+    "slug": "paradox-garudamon",
+    "variant_id": "paradox_garudamon",
+    "source": "5 Ultimate/Garudamon/Paradox/Garudamon_Paradox_Primary.png",
+    "base_slug": "garudamon"
+  },
+  {
+    "slug": "paradox-gigadramon",
+    "variant_id": "paradox_gigadramon",
+    "source": "5 Ultimate/Gigadramon/Paradox/Gigadramon_Paradox_Primary.png",
+    "base_slug": "gigadramon"
+  },
+  {
+    "slug": "paradox-giromon",
+    "variant_id": "paradox_giromon",
+    "source": "5 Ultimate/Giromon/Paradox/Giromon_Paradox_Primary.png",
+    "base_slug": "giromon"
+  },
+  {
+    "slug": "paradox-grademon",
+    "variant_id": "paradox_grademon",
+    "source": "5 Ultimate/Grademon/Paradox/Grademon_Paradox_Primary.png",
+    "base_slug": "grademon"
+  },
+  {
+    "slug": "paradox-grapleomon",
+    "variant_id": "paradox_grapleomon",
+    "source": "5 Ultimate/GrapLeomon/Paradox/GrapLeomon_Paradox_Primary.png",
+    "base_slug": "grapleomon"
+  },
+  {
+    "slug": "paradox-infermon",
+    "variant_id": "paradox_infermon",
+    "source": "5 Ultimate/Infermon/Paradox/Infermon_Paradox_Primary.png",
+    "base_slug": "infermon"
+  },
+  {
+    "slug": "paradox-karatenmon",
+    "variant_id": "paradox_karatenmon",
+    "source": "5 Ultimate/Karatenmon/Paradox/Karatenmon_Paradox_Primary.png",
+    "base_slug": "karatenmon"
+  },
+  {
+    "slug": "paradox-kimeramon",
+    "variant_id": "paradox_kimeramon",
+    "source": "5 Ultimate/Kimeramon/Paradox/Kimeramon_Paradox_Primary.png",
+    "base_slug": "kimeramon"
+  },
+  {
+    "slug": "paradox-knightmon",
+    "variant_id": "paradox_knightmon",
+    "source": "5 Ultimate/Knightmon/Paradox/Knightmon_Paradox_Primary.png",
+    "base_slug": "knightmon"
+  },
+  {
+    "slug": "paradox-kyukimon",
+    "variant_id": "paradox_kyukimon",
+    "source": "5 Ultimate/Kyukimon/Paradox/Kyukimon_Paradox_Primary.png",
+    "base_slug": "kyukimon"
+  },
+  {
+    "slug": "paradox-ladydevimon",
+    "variant_id": "paradox_ladydevimon",
+    "source": "5 Ultimate/LadyDevimon/Paradox/LadyDevimon_Paradox_Primary.png",
+    "base_slug": "ladydevimon"
+  },
+  {
+    "slug": "paradox-lilamon",
+    "variant_id": "paradox_lilamon",
+    "source": "5 Ultimate/Lilamon/Paradox/Lilamon_Paradox_Primary.png",
+    "base_slug": "lilamon"
+  },
+  {
+    "slug": "paradox-lillymon",
+    "variant_id": "paradox_lillymon",
+    "source": "5 Ultimate/Lillymon/Paradox/Lillymon_Paradox_Primary.png",
+    "base_slug": "lillymon"
+  },
+  {
+    "slug": "paradox-lucemonchaosmode",
+    "variant_id": "paradox_lucemonchaosmode",
+    "source": "5 Ultimate/LucemonChaosMode/Paradox/LucemonChaosMode_Paradox_Primary.png",
+    "base_slug": "lucemonchaosmode"
+  },
+  {
+    "slug": "paradox-machgaogamon",
+    "variant_id": "paradox_machgaogamon",
+    "source": "5 Ultimate/MachGaogamon/Paradox/MachGaogamon_Paradox_Primary.png",
+    "base_slug": "machgaogamon"
+  },
+  {
+    "slug": "paradox-magnaangemon",
+    "variant_id": "paradox_magnaangemon",
+    "source": "5 Ultimate/MagnaAngemon/Paradox/MagnaAngemon_Paradox_Primary.png",
+    "base_slug": "magnaangemon"
+  },
+  {
+    "slug": "paradox-mametyramon",
+    "variant_id": "paradox_mametyramon",
+    "source": "5 Ultimate/MameTyramon/Paradox/MameTyramon_Paradox_Primary.png",
+    "base_slug": "mametyramon"
+  },
+  {
+    "slug": "paradox-mamemon",
+    "variant_id": "paradox_mamemon",
+    "source": "5 Ultimate/Mamemon/Paradox/Mamemon_Paradox_Primary.png",
+    "base_slug": "mamemon"
+  },
+  {
+    "slug": "paradox-mammothmon",
+    "variant_id": "paradox_mammothmon",
+    "source": "5 Ultimate/Mammothmon/Paradox/Mammothmon_Paradox_Primary.png",
+    "base_slug": "mammothmon"
+  },
+  {
+    "slug": "paradox-marinedevimon",
+    "variant_id": "paradox_marinedevimon",
+    "source": "5 Ultimate/MarineDevimon/Paradox/MarineDevimon_Paradox_Primary.png",
+    "base_slug": "marinedevimon"
+  },
+  {
+    "slug": "paradox-mastertyrannomon",
+    "variant_id": "paradox_mastertyrannomon",
+    "source": "5 Ultimate/MasterTyrannomon/Paradox/MasterTyrannomon_Paradox_Primary.png",
+    "base_slug": "mastertyrannomon"
+  },
+  {
+    "slug": "paradox-matadormon",
+    "variant_id": "paradox_matadormon",
+    "source": "5 Ultimate/Matadormon/Paradox/Matadormon_Paradox_Primary.png",
+    "base_slug": "matadormon"
+  },
+  {
+    "slug": "paradox-megakabuterimonblue",
+    "variant_id": "paradox_megakabuterimonblue",
+    "source": "5 Ultimate/MegaKabuterimonBlue/Paradox/MegaKabuterimonBlue_Paradox_Primary.png",
+    "base_slug": "megakabuterimonblue"
+  },
+  {
+    "slug": "paradox-megakabuterimon",
+    "variant_id": "paradox_megakabuterimonred",
+    "source": "5 Ultimate/MegaKabuterimonRed/Paradox/MegaKabuterimonRed_Paradox_Primary.png",
+    "base_slug": "megakabuterimon"
+  },
+  {
+    "slug": "paradox-megaseadramon",
+    "variant_id": "paradox_megaseadramon",
+    "source": "5 Ultimate/MegaSeadramon/Paradox/MegaSeadramon_Paradox_Primary.png",
+    "base_slug": "megaseadramon"
+  },
+  {
+    "slug": "paradox-megadramon",
+    "variant_id": "paradox_megadramon",
+    "source": "5 Ultimate/Megadramon/Paradox/Megadramon_Paradox_Primary.png",
+    "base_slug": "megadramon"
+  },
+  {
+    "slug": "paradox-mermaimon",
+    "variant_id": "paradox_mermaimon",
+    "source": "5 Ultimate/Mermaimon/Paradox/Mermaimon_Paradox_Primary.png",
+    "base_slug": "mermaimon"
+  },
+  {
+    "slug": "paradox-metalgreymon",
+    "variant_id": "paradox_metalgreymon",
+    "source": "5 Ultimate/MetalGreymon/Paradox/MetalGreymon_Paradox_Primary.png",
+    "base_slug": "metalgreymon"
+  },
+  {
+    "slug": "paradox-metalmamemon",
+    "variant_id": "paradox_metalmamemon",
+    "source": "5 Ultimate/MetalMamemon/Paradox/MetalMamemon_Paradox_Primary.png",
+    "base_slug": "metalmamemon"
+  },
+  {
+    "slug": "paradox-metaltyrannomon",
+    "variant_id": "paradox_metaltyrannomon",
+    "source": "5 Ultimate/MetalTyrannomon/Paradox/MetalTyrannomon_Paradox_Primary.png",
+    "base_slug": "metaltyrannomon"
+  },
+  {
+    "slug": "paradox-meteormon",
+    "variant_id": "paradox_meteormon",
+    "source": "5 Ultimate/Meteormon/Paradox/Meteormon_Paradox_Primary.png",
+    "base_slug": "meteormon"
+  },
+  {
+    "slug": "paradox-monzaemon",
+    "variant_id": "paradox_monzaemon",
+    "source": "5 Ultimate/Monzaemon/Paradox/Monzaemon_Paradox_Primary.png",
+    "base_slug": "monzaemon"
+  },
+  {
+    "slug": "paradox-mummymon",
+    "variant_id": "paradox_mummymon",
+    "source": "5 Ultimate/Mummymon/Paradox/Mummymon_Paradox_Primary.png",
+    "base_slug": "mummymon"
+  },
+  {
+    "slug": "paradox-myotismon",
+    "variant_id": "paradox_myotismon",
+    "source": "5 Ultimate/Myotismon/Paradox/Myotismon_Paradox_Primary.png",
+    "base_slug": "myotismon"
+  },
+  {
+    "slug": "paradox-okuwamon",
+    "variant_id": "paradox_okuwamon",
+    "source": "5 Ultimate/Okuwamon/Paradox/Okuwamon_Paradox_Primary.png",
+    "base_slug": "okuwamon"
+  },
+  {
+    "slug": "paradox-paildramon",
+    "variant_id": "paradox_paildramon",
+    "source": "5 Ultimate/Paildramon/Paradox/Paildramon_Paradox_Primary.png",
+    "base_slug": "paildramon"
+  },
+  {
+    "slug": "paradox-pandamon",
+    "variant_id": "paradox_pandamon",
+    "source": "5 Ultimate/Pandamon/Paradox/Pandamon_Paradox_Primary.png",
+    "base_slug": "pandamon"
+  },
+  {
+    "slug": "paradox-parrotmon",
+    "variant_id": "paradox_parrotmon",
+    "source": "5 Ultimate/Parrotmon/Paradox/Parrotmon_Paradox_Primary.png",
+    "base_slug": "parrotmon"
+  },
+  {
+    "slug": "paradox-phantomon",
+    "variant_id": "paradox_phantomon",
+    "source": "5 Ultimate/Phantomon/Paradox/Phantomon_Paradox_Primary.png",
+    "base_slug": "phantomon"
+  },
+  {
+    "slug": "paradox-piximon",
+    "variant_id": "paradox_piximon",
+    "source": "5 Ultimate/Piximon/Paradox/Piximon_Paradox_Primary.png",
+    "base_slug": "piximon"
+  },
+  {
+    "slug": "paradox-rapidmon",
+    "variant_id": "paradox_rapidmon",
+    "source": "5 Ultimate/Rapidmon/Paradox/Rapidmon_Paradox_Primary.png",
+    "base_slug": "rapidmon"
+  },
+  {
+    "slug": "paradox-rizegreymon",
+    "variant_id": "paradox_rizegreymon",
+    "source": "5 Ultimate/RizeGreymon/Paradox/RizeGreymon_Paradox_Primary.png",
+    "base_slug": "rizegreymon"
+  },
+  {
+    "slug": "paradox-rookchessmonblack",
+    "variant_id": "paradox_rookchessmonblack",
+    "source": "5 Ultimate/RookChessmonBlack/Paradox/RookChessmonBlack_Paradox_Primary.png",
+    "base_slug": "rookchessmonblack"
+  },
+  {
+    "slug": "paradox-scorpiomon",
+    "variant_id": "paradox_scorpiomon",
+    "source": "5 Ultimate/Scorpiomon/Paradox/Scorpiomon_Paradox_Primary.png",
+    "base_slug": "scorpiomon"
+  },
+  {
+    "slug": "paradox-shadowweregarurumon",
+    "variant_id": "paradox_shadowweregarurumon",
+    "source": "5 Ultimate/ShadowWereGarurumon/Paradox/ShadowWereGarurumon_Paradox_Primary.png",
+    "base_slug": "shadowweregarurumon"
+  },
+  {
+    "slug": "paradox-shakkoumon",
+    "variant_id": "paradox_shakkoumon",
+    "source": "5 Ultimate/Shakkoumon/Paradox/Shakkoumon_Paradox_Primary.png",
+    "base_slug": "shakkoumon"
+  },
+  {
+    "slug": "paradox-shawjamon",
+    "variant_id": "paradox_shawjamon",
+    "source": "5 Ultimate/Shawjamon/Paradox/Shawjamon_Paradox_Primary.png",
+    "base_slug": "shawjamon"
+  },
+  {
+    "slug": "paradox-shogungekomon",
+    "variant_id": "paradox_shogungekomon",
+    "source": "5 Ultimate/ShogunGekomon/Paradox/ShogunGekomon_Paradox_Primary.png",
+    "base_slug": "shogungekomon"
+  },
+  {
+    "slug": "paradox-silphymon",
+    "variant_id": "paradox_silphymon",
+    "source": "5 Ultimate/Silphymon/Paradox/Silphymon_Paradox_Primary.png",
+    "base_slug": "silphymon"
+  },
+  {
+    "slug": "paradox-sinduramon",
+    "variant_id": "paradox_sinduramon",
+    "source": "5 Ultimate/Sinduramon/Paradox/Sinduramon_Paradox_Primary.png",
+    "base_slug": "sinduramon"
+  },
+  {
+    "slug": "paradox-skullbaluchimon",
+    "variant_id": "paradox_skullbaluchimon",
+    "source": "5 Ultimate/SkullBaluchimon/Paradox/SkullBaluchimon_Paradox_Primary.png",
+    "base_slug": "skullbaluchimon"
+  },
+  {
+    "slug": "paradox-skullgreymon",
+    "variant_id": "paradox_skullgreymon",
+    "source": "5 Ultimate/SkullGreymon/Paradox/SkullGreymon_Paradox_Primary.png",
+    "base_slug": "skullgreymon"
+  },
+  {
+    "slug": "paradox-superstarmon",
+    "variant_id": "paradox_superstarmon",
+    "source": "5 Ultimate/SuperStarmon/Paradox/SuperStarmon_Paradox_Primary.png",
+    "base_slug": "superstarmon"
+  },
+  {
+    "slug": "paradox-taomon",
+    "variant_id": "paradox_taomon",
+    "source": "5 Ultimate/Taomon/Paradox/Taomon_Paradox_Primary.png",
+    "base_slug": "taomon"
+  },
+  {
+    "slug": "paradox-tekkamon",
+    "variant_id": "paradox_tekkamon",
+    "source": "5 Ultimate/Tekkamon/Paradox/Tekkamon_Paradox_Primary.png",
+    "base_slug": "tekkamon"
+  },
+  {
+    "slug": "paradox-triceramon",
+    "variant_id": "paradox_triceramon",
+    "source": "5 Ultimate/Triceramon/Paradox/Triceramon_Paradox_Primary.png",
+    "base_slug": "triceramon"
+  },
+  {
+    "slug": "paradox-vademon",
+    "variant_id": "paradox_vademon",
+    "source": "5 Ultimate/Vademon/Paradox/Vademon_Paradox_Primary.png",
+    "base_slug": "vademon"
+  },
+  {
+    "slug": "paradox-vajramon",
+    "variant_id": "paradox_vajramon",
+    "source": "5 Ultimate/Vajramon/Paradox/Vajramon_Paradox_Primary.png",
+    "base_slug": "vajramon"
+  },
+  {
+    "slug": "paradox-vermilimon",
+    "variant_id": "paradox_vermilimon",
+    "source": "5 Ultimate/Vermilimon/Paradox/Vermilimon_Paradox_Primary.png",
+    "base_slug": "vermilimon"
+  },
+  {
+    "slug": "paradox-volcamon",
+    "variant_id": "paradox_volcamon",
+    "source": "5 Ultimate/Volcamon/Paradox/Volcamon_Paradox_Primary.png",
+    "base_slug": "volcamon"
+  },
+  {
+    "slug": "paradox-wargrowlmon",
+    "variant_id": "paradox_wargrowlmon",
+    "source": "5 Ultimate/WarGrowlmon/Paradox/WarGrowlmon_Paradox_Primary.png",
+    "base_slug": "wargrowlmon"
+  },
+  {
+    "slug": "paradox-waruseadramon",
+    "variant_id": "paradox_waruseadramon",
+    "source": "5 Ultimate/WaruSeadramon/Paradox/WaruSeadramon_Paradox_Primary.png",
+    "base_slug": "waruseadramon"
+  },
+  {
+    "slug": "paradox-weregarurumon",
+    "variant_id": "paradox_weregarurumon",
+    "source": "5 Ultimate/WereGarurumon/Paradox/WereGarurumon_Paradox_Primary.png",
+    "base_slug": "weregarurumon"
+  },
+  {
+    "slug": "paradox-whamon",
+    "variant_id": "paradox_whamon",
+    "source": "5 Ultimate/Whamon/Paradox/Whamon_Paradox_Primary.png",
+    "base_slug": "whamon"
+  },
+  {
+    "slug": "paradox-wisemon",
+    "variant_id": "paradox_wisemon",
+    "source": "5 Ultimate/Wisemon/Paradox/Wisemon_Paradox_Primary.png",
+    "base_slug": "wisemon"
+  },
+  {
+    "slug": "paradox-zudomon",
+    "variant_id": "paradox_zudomon",
+    "source": "5 Ultimate/Zudomon/Paradox/Zudomon_Paradox_Primary.png",
+    "base_slug": "zudomon"
+  },
+  {
+    "slug": "paradox-allomon",
+    "variant_id": "paradox_allomon",
+    "source": "6 Armor/Allomon/Paradox/Allomon_Paradox_Primary.png",
+    "base_slug": "allomon"
+  },
+  {
+    "slug": "paradox-aurumon",
+    "variant_id": "paradox_aurumon",
+    "source": "6 Armor/Aurumon/Paradox/Aurumon_Paradox_Primary.png",
+    "base_slug": "aurumon"
+  },
+  {
+    "slug": "paradox-flamedramon",
+    "variant_id": "paradox_flamedramon",
+    "source": "6 Armor/Flamedramon/Paradox/Flamedramon_Paradox_Primary.png",
+    "base_slug": "flamedramon"
+  },
+  {
+    "slug": "paradox-kabukimon",
+    "variant_id": "paradox_kabukimon",
+    "source": "6 Armor/Kabukimon/Paradox/Kabukimon_Paradox_Primary.png",
+    "base_slug": "kabukimon"
+  },
+  {
+    "slug": "paradox-kenkimon",
+    "variant_id": "paradox_kenkimon",
+    "source": "6 Armor/Kenkimon/Paradox/Kenkimon_Paradox_Primary.png",
+    "base_slug": "kenkimon"
+  },
+  {
+    "slug": "paradox-kongoumon",
+    "variant_id": "paradox_kongoumon",
+    "source": "6 Armor/Kongoumon/Paradox/Kongoumon_Paradox_Primary.png",
+    "base_slug": "kongoumon"
+  },
+  {
+    "slug": "paradox-lynxmon",
+    "variant_id": "paradox_lynxmon",
+    "source": "6 Armor/Lynxmon/Paradox/Lynxmon_Paradox_Primary.png",
+    "base_slug": "lynxmon"
+  },
+  {
+    "slug": "paradox-magnamon",
+    "variant_id": "paradox_magnamon",
+    "source": "6 Armor/Magnamon/Paradox/Magnamon_Paradox_Primary.png",
+    "base_slug": "magnamon"
+  },
+  {
+    "slug": "paradox-nefertimon",
+    "variant_id": "paradox_nefertimon",
+    "source": "6 Armor/Nefertimon/Paradox/Nefertimon_Paradox_Primary.png",
+    "base_slug": "nefertimon"
+  },
+  {
+    "slug": "paradox-pipismon",
+    "variant_id": "paradox_pipismon",
+    "source": "6 Armor/Pipismon/Paradox/Pipismon_Paradox_Primary.png",
+    "base_slug": "pipismon"
+  },
+  {
+    "slug": "paradox-ponchomon",
+    "variant_id": "paradox_ponchomon",
+    "source": "6 Armor/Ponchomon/Paradox/Ponchomon_Paradox_Primary.png",
+    "base_slug": "ponchomon"
+  },
+  {
+    "slug": "paradox-prairiemon",
+    "variant_id": "paradox_prairiemon",
+    "source": "6 Armor/Prairiemon/Paradox/Prairiemon_Paradox_Primary.png",
+    "base_slug": "prairiemon"
+  },
+  {
+    "slug": "paradox-seahomon",
+    "variant_id": "paradox_seahomon",
+    "source": "6 Armor/Seahomon/Paradox/Seahomon_Paradox_Primary.png",
+    "base_slug": "seahomon"
+  },
+  {
+    "slug": "paradox-shadramon",
+    "variant_id": "paradox_shadramon",
+    "source": "6 Armor/Shadramon/Paradox/Shadramon_Paradox_Primary.png",
+    "base_slug": "shadramon"
+  },
+  {
+    "slug": "paradox-shurimon",
+    "variant_id": "paradox_shurimon",
+    "source": "6 Armor/Shurimon/Paradox/Shurimon_Paradox_Primary.png",
+    "base_slug": "shurimon"
+  },
+  {
+    "slug": "paradox-toucanmon",
+    "variant_id": "paradox_toucanmon",
+    "source": "6 Armor/Toucanmon/Paradox/Toucanmon_Paradox_Primary.png",
+    "base_slug": "toucanmon"
+  },
+  {
+    "slug": "paradox-tylomon",
+    "variant_id": "paradox_tylomon",
+    "source": "6 Armor/Tylomon/Paradox/Tylomon_Paradox_Primary.png",
+    "base_slug": "tylomon"
+  },
+  {
+    "slug": "paradox-aegisdramon",
+    "variant_id": "paradox_aegisdramon",
+    "source": "7 Mega/Aegisdramon/Paradox/Aegisdramon_Paradox_Primary.png",
+    "base_slug": "aegisdramon"
+  },
+  {
+    "slug": "paradox-alforceveedramon",
+    "variant_id": "paradox_alforceveedramon",
+    "source": "7 Mega/AlforceVeedramon/Paradox/AlforceVeedramon_Paradox_Primary.png",
+    "base_slug": "alforceveedramon"
+  },
+  {
+    "slug": "paradox-alphamon",
+    "variant_id": "paradox_alphamon",
+    "source": "7 Mega/Alphamon/Paradox/Alphamon_Paradox_Primary.png",
+    "base_slug": "alphamon"
+  },
+  {
+    "slug": "paradox-ancientbeetlemon",
+    "variant_id": "paradox_ancientbeetlemon",
+    "source": "7 Mega/AncientBeetlemon/Paradox/AncientBeetlemon_Paradox_Primary.png",
+    "base_slug": "ancientbeetlemon"
+  },
+  {
+    "slug": "paradox-ancientgarurumon",
+    "variant_id": "paradox_ancientgarurumon",
+    "source": "7 Mega/AncientGarurumon/Paradox/AncientGarurumon_Paradox_Primary.png",
+    "base_slug": "ancientgarurumon"
+  },
+  {
+    "slug": "paradox-ancientgreymon",
+    "variant_id": "paradox_ancientgreymon",
+    "source": "7 Mega/AncientGreymon/Paradox/AncientGreymon_Paradox_Primary.png",
+    "base_slug": "ancientgreymon"
+  },
+  {
+    "slug": "paradox-ancientkazemon",
+    "variant_id": "paradox_ancientkazemon",
+    "source": "7 Mega/AncientKazemon/Paradox/AncientKazemon_Paradox_Primary.png",
+    "base_slug": "ancientkazemon"
+  },
+  {
+    "slug": "paradox-ancientmegatheriummon",
+    "variant_id": "paradox_ancientmegatheriummon",
+    "source": "7 Mega/AncientMegatheriummon/Paradox/AncientMegatheriummon_Paradox_Primary.png",
+    "base_slug": "ancientmegatheriummon"
+  },
+  {
+    "slug": "paradox-ancientmermaidmon",
+    "variant_id": "paradox_ancientmermaidmon",
+    "source": "7 Mega/AncientMermaidmon/Paradox/AncientMermaidmon_Paradox_Primary.png",
+    "base_slug": "ancientmermaidmon"
+  },
+  {
+    "slug": "paradox-ancientsphinxmon",
+    "variant_id": "paradox_ancientsphinxmon",
+    "source": "7 Mega/AncientSphinxmon/Paradox/AncientSphinxmon_Paradox_Primary.png",
+    "base_slug": "ancientsphinxmon"
+  },
+  {
+    "slug": "paradox-ancienttroiamon",
+    "variant_id": "paradox_ancienttroiamon",
+    "source": "7 Mega/AncientTroiamon/Paradox/AncientTroiamon_Paradox_Primary.png",
+    "base_slug": "ancienttroiamon"
+  },
+  {
+    "slug": "paradox-ancientvolcanomon",
+    "variant_id": "paradox_ancientvolcanomon",
+    "source": "7 Mega/AncientVolcanomon/Paradox/AncientVolcanomon_Paradox_Primary.png",
+    "base_slug": "ancientvolcanomon"
+  },
+  {
+    "slug": "paradox-ancientwisemon",
+    "variant_id": "paradox_ancientwisemon",
+    "source": "7 Mega/AncientWisemon/Paradox/AncientWisemon_Paradox_Primary.png",
+    "base_slug": "ancientwisemon"
+  },
+  {
+    "slug": "paradox-anubismon",
+    "variant_id": "paradox_anubismon",
+    "source": "7 Mega/Anubismon/Paradox/Anubismon_Paradox_Primary.png",
+    "base_slug": "anubismon"
+  },
+  {
+    "slug": "paradox-apocalymon",
+    "variant_id": "paradox_apocalymon",
+    "source": "7 Mega/Apocalymon/Paradox/Apocalymon_Paradox_Primary.png",
+    "base_slug": "apocalymon"
+  },
+  {
+    "slug": "paradox-apollomon",
+    "variant_id": "paradox_apollomon",
+    "source": "7 Mega/Apollomon/Paradox/Apollomon_Paradox_Primary.png",
+    "base_slug": "apollomon"
+  },
+  {
+    "slug": "paradox-argomonmega",
+    "variant_id": "paradox_argomonmega",
+    "source": "7 Mega/ArgomonMega/Paradox/ArgomonMega_Paradox_Primary.png",
+    "base_slug": "argomonmega"
+  },
+  {
+    "slug": "paradox-armagemon",
+    "variant_id": "paradox_armagemon",
+    "source": "7 Mega/Armagemon/Paradox/Armagemon_Paradox_Primary.png",
+    "base_slug": "armagemon"
+  },
+  {
+    "slug": "paradox-azulongmon",
+    "variant_id": "paradox_azulongmon",
+    "source": "7 Mega/Azulongmon/Paradox/Azulongmon_Paradox_Primary.png",
+    "base_slug": "azulongmon"
+  },
+  {
+    "slug": "paradox-babamon",
+    "variant_id": "paradox_babamon",
+    "source": "7 Mega/Babamon/Paradox/Babamon_Paradox_Primary.png",
+    "base_slug": "babamon"
+  },
+  {
+    "slug": "paradox-baihumon",
+    "variant_id": "paradox_baihumon",
+    "source": "7 Mega/Baihumon/Paradox/Baihumon_Paradox_Primary.png",
+    "base_slug": "baihumon"
+  },
+  {
+    "slug": "paradox-bancholeomon",
+    "variant_id": "paradox_bancholeomon",
+    "source": "7 Mega/BanchoLeomon/Paradox/BanchoLeomon_Paradox_Primary.png",
+    "base_slug": "bancholeomon"
+  },
+  {
+    "slug": "paradox-barbamon",
+    "variant_id": "paradox_barbamon",
+    "source": "7 Mega/Barbamon/Paradox/Barbamon_Paradox_Primary.png",
+    "base_slug": "barbamon"
+  },
+  {
+    "slug": "paradox-blackmegagargomon",
+    "variant_id": "paradox_blackmegagargomon",
+    "source": "7 Mega/BlackMegaGargomon/Paradox/BlackMegaGargomon_Paradox_Primary.png",
+    "base_slug": "blackmegagargomon"
+  },
+  {
+    "slug": "paradox-blackwargreymon",
+    "variant_id": "paradox_blackwargreymon",
+    "source": "7 Mega/BlackWarGreymon/Paradox/BlackWarGreymon_Paradox_Primary.png",
+    "base_slug": "blackwargreymon"
+  },
+  {
+    "slug": "paradox-boltmon",
+    "variant_id": "paradox_boltmon",
+    "source": "7 Mega/Boltmon/Paradox/Boltmon_Paradox_Primary.png",
+    "base_slug": "boltmon"
+  },
+  {
+    "slug": "paradox-cannondramon",
+    "variant_id": "paradox_cannondramon",
+    "source": "7 Mega/Cannondramon/Paradox/Cannondramon_Paradox_Primary.png",
+    "base_slug": "cannondramon"
+  },
+  {
+    "slug": "paradox-chaosgallantmon",
+    "variant_id": "paradox_chaosgallantmon",
+    "source": "7 Mega/ChaosGallantmon/Paradox/ChaosGallantmon_Paradox_Primary.png",
+    "base_slug": "chaosgallantmon"
+  },
+  {
+    "slug": "paradox-chaosmon",
+    "variant_id": "paradox_chaosmon",
+    "source": "7 Mega/Chaosmon/Paradox/Chaosmon_Paradox_Primary.png",
+    "base_slug": "chaosmon"
+  },
+  {
+    "slug": "paradox-cherubimonevil",
+    "variant_id": "paradox_cherubimonevil",
+    "source": "7 Mega/CherubimonEvil/Paradox/CherubimonEvil_Paradox_Primary.png",
+    "base_slug": "cherubimonevil"
+  },
+  {
+    "slug": "paradox-cherubimongood",
+    "variant_id": "paradox_cherubimongood",
+    "source": "7 Mega/CherubimonGood/Paradox/CherubimonGood_Paradox_Primary.png",
+    "base_slug": "cherubimongood"
+  },
+  {
+    "slug": "paradox-craniamon",
+    "variant_id": "paradox_craniamon",
+    "source": "7 Mega/Craniamon/Paradox/Craniamon_Paradox_Primary.png",
+    "base_slug": "craniamon"
+  },
+  {
+    "slug": "paradox-crusadermon",
+    "variant_id": "paradox_crusadermon",
+    "source": "7 Mega/Crusadermon/Paradox/Crusadermon_Paradox_Primary.png",
+    "base_slug": "crusadermon"
+  },
+  {
+    "slug": "paradox-daemon",
+    "variant_id": "paradox_daemon",
+    "source": "7 Mega/Daemon/Paradox/Daemon_Paradox_Primary.png",
+    "base_slug": "daemon"
+  },
+  {
+    "slug": "paradox-daemonmantled",
+    "variant_id": "paradox_daemonmantled",
+    "source": "7 Mega/DaemonMantled/Paradox/DaemonMantled_Paradox_Primary.png",
+    "base_slug": "daemonmantled"
+  },
+  {
+    "slug": "paradox-darkdramon",
+    "variant_id": "paradox_darkdramon",
+    "source": "7 Mega/Darkdramon/Paradox/Darkdramon_Paradox_Primary.png",
+    "base_slug": "darkdramon"
+  },
+  {
+    "slug": "paradox-devitamamon",
+    "variant_id": "paradox_devitamamon",
+    "source": "7 Mega/Devitamamon/Paradox/Devitamamon_Paradox_Primary.png",
+    "base_slug": "devitamamon"
+  },
+  {
+    "slug": "paradox-diaboromon",
+    "variant_id": "paradox_diaboromon",
+    "source": "7 Mega/Diaboromon/Paradox/Diaboromon_Paradox_Primary.png",
+    "base_slug": "diaboromon"
+  },
+  {
+    "slug": "paradox-dianamon",
+    "variant_id": "paradox_dianamon",
+    "source": "7 Mega/Dianamon/Paradox/Dianamon_Paradox_Primary.png",
+    "base_slug": "dianamon"
+  },
+  {
+    "slug": "paradox-dorugoramon",
+    "variant_id": "paradox_dorugoramon",
+    "source": "7 Mega/Dorugoramon/Paradox/Dorugoramon_Paradox_Primary.png",
+    "base_slug": "dorugoramon"
+  },
+  {
+    "slug": "paradox-dotmiragegaogamon",
+    "variant_id": "paradox_dotmiragegaogamon",
+    "source": "7 Mega/DotMirageGaogamon/Paradox/DotMirageGaogamon_Paradox_Primary.png",
+    "base_slug": "dotmiragegaogamon"
+  },
+  {
+    "slug": "paradox-dotshinegreymon",
+    "variant_id": "paradox_dotshinegreymon",
+    "source": "7 Mega/DotShineGreymon/Paradox/DotShineGreymon_Paradox_Primary.png",
+    "base_slug": "dotshinegreymon"
+  },
+  {
+    "slug": "paradox-dynasmon",
+    "variant_id": "paradox_dynasmon",
+    "source": "7 Mega/Dynasmon/Paradox/Dynasmon_Paradox_Primary.png",
+    "base_slug": "dynasmon"
+  },
+  {
+    "slug": "paradox-exeraseralpha",
+    "variant_id": "paradox_exeraseralpha",
+    "source": "7 Mega/EXEraserAlpha/Paradox/EXEraserAlpha_Paradox_Primary.png",
+    "base_slug": "exeraseralpha"
+  },
+  {
+    "slug": "paradox-exeraserbeta",
+    "variant_id": "paradox_exeraserbeta",
+    "source": "7 Mega/EXEraserBeta/Paradox/EXEraserBeta_Paradox_Primary.png",
+    "base_slug": "exeraserbeta"
+  },
+  {
+    "slug": "paradox-eaglemon",
+    "variant_id": "paradox_eaglemon",
+    "source": "7 Mega/Eaglemon/Paradox/Eaglemon_Paradox_Primary.png",
+    "base_slug": "eaglemon"
+  },
+  {
+    "slug": "paradox-ebemon",
+    "variant_id": "paradox_ebemon",
+    "source": "7 Mega/Ebemon/Paradox/Ebemon_Paradox_Primary.png",
+    "base_slug": "ebemon"
+  },
+  {
+    "slug": "paradox-ebonwumon",
+    "variant_id": "paradox_ebonwumon",
+    "source": "7 Mega/Ebonwumon/Paradox/Ebonwumon_Paradox_Primary.png",
+    "base_slug": "ebonwumon"
+  },
+  {
+    "slug": "paradox-fanglongmon",
+    "variant_id": "paradox_fanglongmon",
+    "source": "7 Mega/Fanglongmon/Paradox/Fanglongmon_Paradox_Primary.png",
+    "base_slug": "fanglongmon"
+  },
+  {
+    "slug": "paradox-gaiomon",
+    "variant_id": "paradox_gaiomon",
+    "source": "7 Mega/Gaiomon/Paradox/Gaiomon_Paradox_Primary.png",
+    "base_slug": "gaiomon"
+  },
+  {
+    "slug": "paradox-gallantmon",
+    "variant_id": "paradox_gallantmon",
+    "source": "7 Mega/Gallantmon/Paradox/Gallantmon_Paradox_Primary.png",
+    "base_slug": "gallantmon"
+  },
+  {
+    "slug": "paradox-gallantmoncrimsonmode",
+    "variant_id": "paradox_gallantmoncrimsonmode",
+    "source": "7 Mega/GallantmonCrimsonMode/Paradox/GallantmonCrimsonMode_Paradox_Primary.png",
+    "base_slug": "gallantmoncrimsonmode"
+  },
+  {
+    "slug": "paradox-ghoulmon",
+    "variant_id": "paradox_ghoulmon",
+    "source": "7 Mega/Ghoulmon/Paradox/Ghoulmon_Paradox_Primary.png",
+    "base_slug": "ghoulmon"
+  },
+  {
+    "slug": "paradox-ghoulmonblack",
+    "variant_id": "paradox_ghoulmonblack",
+    "source": "7 Mega/GhoulmonBlack/Paradox/GhoulmonBlack_Paradox_Primary.png",
+    "base_slug": "ghoulmonblack"
+  },
+  {
+    "slug": "paradox-gigaseadramon",
+    "variant_id": "paradox_gigaseadramon",
+    "source": "7 Mega/GigaSeadramon/Paradox/GigaSeadramon_Paradox_Primary.png",
+    "base_slug": "gigaseadramon"
+  },
+  {
+    "slug": "paradox-goldramon",
+    "variant_id": "paradox_goldramon",
+    "source": "7 Mega/Goldramon/Paradox/Goldramon_Paradox_Primary.png",
+    "base_slug": "goldramon"
+  },
+  {
+    "slug": "paradox-grandracmon",
+    "variant_id": "paradox_grandracmon",
+    "source": "7 Mega/GranDracmon/Paradox/GranDracmon_Paradox_Primary.png",
+    "base_slug": "grandracmon"
+  },
+  {
+    "slug": "paradox-grankuwagamon",
+    "variant_id": "paradox_grankuwagamon",
+    "source": "7 Mega/GranKuwagamon/Paradox/GranKuwagamon_Paradox_Primary.png",
+    "base_slug": "grankuwagamon"
+  },
+  {
+    "slug": "paradox-granlocomon",
+    "variant_id": "paradox_granlocomon",
+    "source": "7 Mega/GranLocomon/Paradox/GranLocomon_Paradox_Primary.png",
+    "base_slug": "granlocomon"
+  },
+  {
+    "slug": "paradox-greyknightsmon",
+    "variant_id": "paradox_greyknightsmon",
+    "source": "7 Mega/GreyKnightsmon/Paradox/GreyKnightsmon_Paradox_Primary.png",
+    "base_slug": "greyknightsmon"
+  },
+  {
+    "slug": "paradox-gryphonmon",
+    "variant_id": "paradox_gryphonmon",
+    "source": "7 Mega/Gryphonmon/Paradox/Gryphonmon_Paradox_Primary.png",
+    "base_slug": "gryphonmon"
+  },
+  {
+    "slug": "paradox-gulfmon",
+    "variant_id": "paradox_gulfmon",
+    "source": "7 Mega/Gulfmon/Paradox/Gulfmon_Paradox_Primary.png",
+    "base_slug": "gulfmon"
+  },
+  {
+    "slug": "paradox-herculeskabuterimon",
+    "variant_id": "paradox_herculeskabuterimon",
+    "source": "7 Mega/HerculesKabuterimon/Paradox/HerculesKabuterimon_Paradox_Primary.png",
+    "base_slug": "herculeskabuterimon"
+  },
+  {
+    "slug": "paradox-hiandromon",
+    "variant_id": "paradox_hiandromon",
+    "source": "7 Mega/HiAndromon/Paradox/HiAndromon_Paradox_Primary.png",
+    "base_slug": "hiandromon"
+  },
+  {
+    "slug": "paradox-hououmon",
+    "variant_id": "paradox_hououmon",
+    "source": "7 Mega/Hououmon/Paradox/Hououmon_Paradox_Primary.png",
+    "base_slug": "hououmon"
+  },
+  {
+    "slug": "paradox-imperialdramondragonmode",
+    "variant_id": "paradox_imperialdramondragonmode",
+    "source": "7 Mega/ImperialdramonDragonMode/Paradox/ImperialdramonDragonMode_Paradox_Primary.png",
+    "base_slug": "imperialdramondragonmode"
+  },
+  {
+    "slug": "paradox-imperialdramondragonmodeblack",
+    "variant_id": "paradox_imperialdramondragonmodeblack",
+    "source": "7 Mega/ImperialdramonDragonModeBlack/Paradox/ImperialdramonDragonModeBlack_Paradox_Primary.png",
+    "base_slug": "imperialdramondragonmodeblack"
+  },
+  {
+    "slug": "paradox-imperialdramon-fighter",
+    "variant_id": "paradox_imperialdramonfightermode",
+    "source": "7 Mega/ImperialdramonFighterMode/Paradox/ImperialdramonFighterMode_Paradox_Primary.png",
+    "base_slug": "imperialdramon-fighter"
+  },
+  {
+    "slug": "paradox-imperialdramonpaladinmode",
+    "variant_id": "paradox_imperialdramonpaladinmode",
+    "source": "7 Mega/ImperialdramonPaladinMode/Paradox/ImperialdramonPaladinMode_Paradox_Primary.png",
+    "base_slug": "imperialdramonpaladinmode"
+  },
+  {
+    "slug": "paradox-jijimon",
+    "variant_id": "paradox_jijimon",
+    "source": "7 Mega/Jijimon/Paradox/Jijimon_Paradox_Primary.png",
+    "base_slug": "jijimon"
+  },
+  {
+    "slug": "paradox-jumbogamemon",
+    "variant_id": "paradox_jumbogamemon",
+    "source": "7 Mega/JumboGamemon/Paradox/JumboGamemon_Paradox_Primary.png",
+    "base_slug": "jumbogamemon"
+  },
+  {
+    "slug": "paradox-justimonblitz-arm",
+    "variant_id": "paradox_justimonblitz_arm",
+    "source": "7 Mega/JustimonBlitz_Arm/Paradox/JustimonBlitz_Arm_Paradox_Primary.png",
+    "base_slug": "justimonblitz-arm"
+  },
+  {
+    "slug": "paradox-kingchessmon",
+    "variant_id": "paradox_kingchessmon",
+    "source": "7 Mega/KingChessmon/Paradox/KingChessmon_Paradox_Primary.png",
+    "base_slug": "kingchessmon"
+  },
+  {
+    "slug": "paradox-kuzuhamon",
+    "variant_id": "paradox_kuzuhamon",
+    "source": "7 Mega/Kuzuhamon/Paradox/Kuzuhamon_Paradox_Primary.png",
+    "base_slug": "kuzuhamon"
+  },
+  {
+    "slug": "paradox-lampmon",
+    "variant_id": "paradox_lampmon",
+    "source": "7 Mega/Lampmon/Paradox/Lampmon_Paradox_Primary.png",
+    "base_slug": "lampmon"
+  },
+  {
+    "slug": "paradox-leopardmon",
+    "variant_id": "paradox_leopardmon",
+    "source": "7 Mega/Leopardmon/Paradox/Leopardmon_Paradox_Primary.png",
+    "base_slug": "leopardmon"
+  },
+  {
+    "slug": "paradox-leviamon",
+    "variant_id": "paradox_leviamon",
+    "source": "7 Mega/Leviamon/Paradox/Leviamon_Paradox_Primary.png",
+    "base_slug": "leviamon"
+  },
+  {
+    "slug": "paradox-lilithmon",
+    "variant_id": "paradox_lilithmon",
+    "source": "7 Mega/Lilithmon/Paradox/Lilithmon_Paradox_Primary.png",
+    "base_slug": "lilithmon"
+  },
+  {
+    "slug": "paradox-lotosmon",
+    "variant_id": "paradox_lotosmon",
+    "source": "7 Mega/Lotosmon/Paradox/Lotosmon_Paradox_Primary.png",
+    "base_slug": "lotosmon"
+  },
+  {
+    "slug": "paradox-machinedramon",
+    "variant_id": "paradox_machinedramon",
+    "source": "7 Mega/Machinedramon/Paradox/Machinedramon_Paradox_Primary.png",
+    "base_slug": "machinedramon"
+  },
+  {
+    "slug": "paradox-magnadramon",
+    "variant_id": "paradox_magnadramon",
+    "source": "7 Mega/Magnadramon/Paradox/Magnadramon_Paradox_Primary.png",
+    "base_slug": "magnadramon"
+  },
+  {
+    "slug": "paradox-malomyotismon",
+    "variant_id": "paradox_malomyotismon",
+    "source": "7 Mega/MaloMyotismon/Paradox/MaloMyotismon_Paradox_Primary.png",
+    "base_slug": "malomyotismon"
+  },
+  {
+    "slug": "paradox-marineangemon",
+    "variant_id": "paradox_marineangemon",
+    "source": "7 Mega/MarineAngemon/Paradox/MarineAngemon_Paradox_Primary.png",
+    "base_slug": "marineangemon"
+  },
+  {
+    "slug": "paradox-megagargomon",
+    "variant_id": "paradox_megagargomon",
+    "source": "7 Mega/MegaGargomon/Paradox/MegaGargomon_Paradox_Primary.png",
+    "base_slug": "megagargomon"
+  },
+  {
+    "slug": "paradox-megidramon",
+    "variant_id": "paradox_megidramon",
+    "source": "7 Mega/Megidramon/Paradox/Megidramon_Paradox_Primary.png",
+    "base_slug": "megidramon"
+  },
+  {
+    "slug": "paradox-merukimon",
+    "variant_id": "paradox_merukimon",
+    "source": "7 Mega/Merukimon/Paradox/Merukimon_Paradox_Primary.png",
+    "base_slug": "merukimon"
+  },
+  {
+    "slug": "paradox-metaletemon",
+    "variant_id": "paradox_metaletemon",
+    "source": "7 Mega/MetalEtemon/Paradox/MetalEtemon_Paradox_Primary.png",
+    "base_slug": "metaletemon"
+  },
+  {
+    "slug": "paradox-metalgarurumon",
+    "variant_id": "paradox_metalgarurumon",
+    "source": "7 Mega/MetalGarurumon/Paradox/MetalGarurumon_Paradox_Primary.png",
+    "base_slug": "metalgarurumon"
+  },
+  {
+    "slug": "paradox-metalseadramon",
+    "variant_id": "paradox_metalseadramon",
+    "source": "7 Mega/MetalSeadramon/Paradox/MetalSeadramon_Paradox_Primary.png",
+    "base_slug": "metalseadramon"
+  },
+  {
+    "slug": "paradox-millenniummon",
+    "variant_id": "paradox_millenniummon",
+    "source": "7 Mega/Millenniummon/Paradox/Millenniummon_Paradox_Primary.png",
+    "base_slug": "millenniummon"
+  },
+  {
+    "slug": "paradox-minervamon",
+    "variant_id": "paradox_minervamon",
+    "source": "7 Mega/Minervamon/Paradox/Minervamon_Paradox_Primary.png",
+    "base_slug": "minervamon"
+  },
+  {
+    "slug": "paradox-miragegaogamon",
+    "variant_id": "paradox_miragegaogamon",
+    "source": "7 Mega/MirageGaogamon/Paradox/MirageGaogamon_Paradox_Primary.png",
+    "base_slug": "miragegaogamon"
+  },
+  {
+    "slug": "paradox-moonmillenniummon",
+    "variant_id": "paradox_moonmillenniummon",
+    "source": "7 Mega/MoonMillenniummon/Paradox/MoonMillenniummon_Paradox_Primary.png",
+    "base_slug": "moonmillenniummon"
+  },
+  {
+    "slug": "paradox-neptunemon",
+    "variant_id": "paradox_neptunemon",
+    "source": "7 Mega/Neptunemon/Paradox/Neptunemon_Paradox_Primary.png",
+    "base_slug": "neptunemon"
+  },
+  {
+    "slug": "paradox-omnimon",
+    "variant_id": "paradox_omnimon",
+    "source": "7 Mega/Omnimon/Paradox/Omnimon_Paradox_Primary.png",
+    "base_slug": "omnimon"
+  },
+  {
+    "slug": "paradox-ophanimon",
+    "variant_id": "paradox_ophanimon",
+    "source": "7 Mega/Ophanimon/Paradox/Ophanimon_Paradox_Primary.png",
+    "base_slug": "ophanimon"
+  },
+  {
+    "slug": "paradox-parasimon",
+    "variant_id": "paradox_parasimon",
+    "source": "7 Mega/Parasimon/Paradox/Parasimon_Paradox_Primary.png",
+    "base_slug": "parasimon"
+  },
+  {
+    "slug": "paradox-pharaohmon",
+    "variant_id": "paradox_pharaohmon",
+    "source": "7 Mega/Pharaohmon/Paradox/Pharaohmon_Paradox_Primary.png",
+    "base_slug": "pharaohmon"
+  },
+  {
+    "slug": "paradox-piedmon",
+    "variant_id": "paradox_piedmon",
+    "source": "7 Mega/Piedmon/Paradox/Piedmon_Paradox_Primary.png",
+    "base_slug": "piedmon"
+  },
+  {
+    "slug": "paradox-plesiomon",
+    "variant_id": "paradox_plesiomon",
+    "source": "7 Mega/Plesiomon/Paradox/Plesiomon_Paradox_Primary.png",
+    "base_slug": "plesiomon"
+  },
+  {
+    "slug": "paradox-princemamemon",
+    "variant_id": "paradox_princemamemon",
+    "source": "7 Mega/PrinceMamemon/Paradox/PrinceMamemon_Paradox_Primary.png",
+    "base_slug": "princemamemon"
+  },
+  {
+    "slug": "paradox-pukumon",
+    "variant_id": "paradox_pukumon",
+    "source": "7 Mega/Pukumon/Paradox/Pukumon_Paradox_Primary.png",
+    "base_slug": "pukumon"
+  },
+  {
+    "slug": "paradox-puppetmon",
+    "variant_id": "paradox_puppetmon",
+    "source": "7 Mega/Puppetmon/Paradox/Puppetmon_Paradox_Primary.png",
+    "base_slug": "puppetmon"
+  },
+  {
+    "slug": "paradox-queenchessmon",
+    "variant_id": "paradox_queenchessmon",
+    "source": "7 Mega/QueenChessmon/Paradox/QueenChessmon_Paradox_Primary.png",
+    "base_slug": "queenchessmon"
+  },
+  {
+    "slug": "paradox-ravemon",
+    "variant_id": "paradox_ravemon",
+    "source": "7 Mega/Ravemon/Paradox/Ravemon_Paradox_Primary.png",
+    "base_slug": "ravemon"
+  },
+  {
+    "slug": "paradox-rosemon",
+    "variant_id": "paradox_rosemon",
+    "source": "7 Mega/Rosemon/Paradox/Rosemon_Paradox_Primary.png",
+    "base_slug": "rosemon"
+  },
+  {
+    "slug": "paradox-saberleomon",
+    "variant_id": "paradox_saberleomon",
+    "source": "7 Mega/SaberLeomon/Paradox/SaberLeomon_Paradox_Primary.png",
+    "base_slug": "saberleomon"
+  },
+  {
+    "slug": "paradox-sakuyamon",
+    "variant_id": "paradox_sakuyamon",
+    "source": "7 Mega/Sakuyamon/Paradox/Sakuyamon_Paradox_Primary.png",
+    "base_slug": "sakuyamon"
+  },
+  {
+    "slug": "paradox-seraphimon",
+    "variant_id": "paradox_seraphimon",
+    "source": "7 Mega/Seraphimon/Paradox/Seraphimon_Paradox_Primary.png",
+    "base_slug": "seraphimon"
+  },
+  {
+    "slug": "paradox-shinegreymon",
+    "variant_id": "paradox_shinegreymon",
+    "source": "7 Mega/ShineGreymon/Paradox/ShineGreymon_Paradox_Primary.png",
+    "base_slug": "shinegreymon"
+  },
+  {
+    "slug": "paradox-shinegreymonruinmode",
+    "variant_id": "paradox_shinegreymonruinmode",
+    "source": "7 Mega/ShineGreymonRuinMode/Paradox/ShineGreymonRuinMode_Paradox_Primary.png",
+    "base_slug": "shinegreymonruinmode"
+  },
+  {
+    "slug": "paradox-skullmammothmon",
+    "variant_id": "paradox_skullmammothmon",
+    "source": "7 Mega/SkullMammothmon/Paradox/SkullMammothmon_Paradox_Primary.png",
+    "base_slug": "skullmammothmon"
+  },
+  {
+    "slug": "paradox-skullknightmon",
+    "variant_id": "paradox_skullknightmon",
+    "source": "7 Mega/Skullknightmon/Paradox/Skullknightmon_Paradox_Primary.png",
+    "base_slug": "skullknightmon"
+  },
+  {
+    "slug": "paradox-slashangemon",
+    "variant_id": "paradox_slashangemon",
+    "source": "7 Mega/SlashAngemon/Paradox/SlashAngemon_Paradox_Primary.png",
+    "base_slug": "slashangemon"
+  },
+  {
+    "slug": "paradox-spinomon",
+    "variant_id": "paradox_spinomon",
+    "source": "7 Mega/Spinomon/Paradox/Spinomon_Paradox_Primary.png",
+    "base_slug": "spinomon"
+  },
+  {
+    "slug": "paradox-susanoomon",
+    "variant_id": "paradox_susanoomon",
+    "source": "7 Mega/Susanoomon/Paradox/Susanoomon_Paradox_Primary.png",
+    "base_slug": "susanoomon"
+  },
+  {
+    "slug": "paradox-tactimon",
+    "variant_id": "paradox_tactimon",
+    "source": "7 Mega/Tactimon/Paradox/Tactimon_Paradox_Primary.png",
+    "base_slug": "tactimon"
+  },
+  {
+    "slug": "paradox-tigervespamon",
+    "variant_id": "paradox_tigervespamon",
+    "source": "7 Mega/TigerVespamon/Paradox/TigerVespamon_Paradox_Primary.png",
+    "base_slug": "tigervespamon"
+  },
+  {
+    "slug": "paradox-valkyrimon",
+    "variant_id": "paradox_valkyrimon",
+    "source": "7 Mega/Valkyrimon/Paradox/Valkyrimon_Paradox_Primary.png",
+    "base_slug": "valkyrimon"
+  },
+  {
+    "slug": "paradox-varodurumon",
+    "variant_id": "paradox_varodurumon",
+    "source": "7 Mega/Varodurumon/Paradox/Varodurumon_Paradox_Primary.png",
+    "base_slug": "varodurumon"
+  },
+  {
+    "slug": "paradox-venommyotismon",
+    "variant_id": "paradox_venommyotismon",
+    "source": "7 Mega/VenomMyotismon/Paradox/VenomMyotismon_Paradox_Primary.png",
+    "base_slug": "venommyotismon"
+  },
+  {
+    "slug": "paradox-vikemon",
+    "variant_id": "paradox_vikemon",
+    "source": "7 Mega/Vikemon/Paradox/Vikemon_Paradox_Primary.png",
+    "base_slug": "vikemon"
+  },
+  {
+    "slug": "paradox-wargreymon",
+    "variant_id": "paradox_wargreymon",
+    "source": "7 Mega/WarGreymon/Paradox/WarGreymon_Paradox_Primary.png",
+    "base_slug": "wargreymon"
+  },
+  {
+    "slug": "paradox-zanbamon",
+    "variant_id": "paradox_zanbamon",
+    "source": "7 Mega/Zanbamon/Paradox/Zanbamon_Paradox_Primary.png",
+    "base_slug": "zanbamon"
+  },
+  {
+    "slug": "paradox-zeedmillenniummon",
+    "variant_id": "paradox_zeedmillenniummon",
+    "source": "7 Mega/ZeedMillenniummon/Paradox/ZeedMillenniummon_Paradox_Primary.png",
+    "base_slug": "zeedmillenniummon"
+  },
+  {
+    "slug": "paradox-zhuqiaomon",
+    "variant_id": "paradox_zhuqiaomon",
+    "source": "7 Mega/Zhuqiaomon/Paradox/Zhuqiaomon_Paradox_Primary.png",
+    "base_slug": "zhuqiaomon"
+  },
+  {
+    "slug": "paradox-beelzemonblastmode",
+    "variant_id": "paradox_beelzemonblastmode",
+    "source": "8 Ultra/BeelzemonBlastMode/Paradox/BeelzemonBlastMode_Paradox_Primary.png",
+    "base_slug": "beelzemonblastmode"
+  },
+  {
+    "slug": "paradox-belphemonragemode",
+    "variant_id": "paradox_belphemonragemode",
+    "source": "8 Ultra/BelphemonRageMode/Paradox/BelphemonRageMode_Paradox_Primary.png",
+    "base_slug": "belphemonragemode"
+  },
+  {
+    "slug": "paradox-chaosdramon",
+    "variant_id": "paradox_chaosdramon",
+    "source": "8 Ultra/Chaosdramon/Paradox/Chaosdramon_Paradox_Primary.png",
+    "base_slug": "chaosdramon"
+  },
+  {
+    "slug": "paradox-chronomondm",
+    "variant_id": "paradox_chronomondm",
+    "source": "8 Ultra/ChronomonDM/Paradox/ChronomonDM_Paradox_Primary.png",
+    "base_slug": "chronomondm"
+  },
+  {
+    "slug": "paradox-chronomonholymode",
+    "variant_id": "paradox_chronomonholymode",
+    "source": "8 Ultra/ChronomonHolyMode/Paradox/ChronomonHolyMode_Paradox_Primary.png",
+    "base_slug": "chronomonholymode"
+  },
+  {
+    "slug": "paradox-examon",
+    "variant_id": "paradox_examon",
+    "source": "8 Ultra/Examon/Paradox/Examon_Paradox_Primary.png",
+    "base_slug": "examon"
+  },
+  {
+    "slug": "paradox-miragegaogamonburstmode",
+    "variant_id": "paradox_miragegaogamonburstmode",
+    "source": "8 Ultra/MirageGaogamonBurstMode/Paradox/MirageGaogamonBurstMode_Paradox_Primary.png",
+    "base_slug": "miragegaogamonburstmode"
+  },
+  {
+    "slug": "paradox-ravemonburstmode",
+    "variant_id": "paradox_ravemonburstmode",
+    "source": "8 Ultra/RavemonBurstMode/Paradox/RavemonBurstMode_Paradox_Primary.png",
+    "base_slug": "ravemonburstmode"
+  },
+  {
+    "slug": "paradox-rosemonburstmode",
+    "variant_id": "paradox_rosemonburstmode",
+    "source": "8 Ultra/RosemonBurstMode/Paradox/RosemonBurstMode_Paradox_Primary.png",
+    "base_slug": "rosemonburstmode"
+  },
+  {
+    "slug": "paradox-shinegreymonburstmode",
+    "variant_id": "paradox_shinegreymonburstmode",
+    "source": "8 Ultra/ShineGreymonBurstMode/Paradox/ShineGreymonBurstMode_Paradox_Primary.png",
+    "base_slug": "shinegreymonburstmode"
+  }
+]

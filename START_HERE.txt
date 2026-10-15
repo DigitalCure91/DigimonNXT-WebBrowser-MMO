@@ -1,0 +1,110 @@
+BATTLE ANIMATIONS UPDATE - v0.7.2
+For an existing blank-password v0.7.1 install, copy the CONTENTS of the
+small update ZIP's public_html into C:\xampp\htdocs\DigimonNXT.
+Your config\app.php and database are preserved. No repair/reset is needed.
+Restart the tamer task after copying PHP updates; reload the browser or use
+Reload in the Windows client. The client downloads changed assets as needed.
+
+Attack movement, damage/effectiveness text and Dawn sounds now follow the
+actual battle. Speed defaults to 1.5x; use Speed or Skip animation at any time.
+Enable sound once if requested. Music and effects volumes remain separate.
+The local console launcher is tools\start_world_server_windows.bat.
+See docs\BATTLE_PRESENTATION.md for battle and replay controls.
+
+DIGIMON NXT v0.7.2 — DAWN WORLD
+Blank-password edition | Schema 8 | 264 Dawn maps | 1,000 persistent rivals
+
+UPGRADE AN EXISTING GAME — KEEP YOUR SAVES
+1. Back up the installed game files and digimon_nxt database.
+2. Keep this extracted source folder outside the public web directory.
+   Copy public_html contents over C:\xampp\htdocs\DigimonNXT.
+   PRESERVE your installed config\app.php: database name, host, port and path.
+   Copy the new config\version.php and every other updated application file.
+3. Start Apache and MySQL in XAMPP. On the server PC, open:
+   http://localhost/DigimonNXT/_setup.php
+4. Choose CREATE / REPAIR SCHEMA. Schema 8 remains current; the repair preserves
+   players, collections, parties, progression and existing AI rival accounts.
+   DO NOT choose Fresh Rebuild for saved accounts: it deletes the game database.
+5. Restart the existing tamer background task to load the updated PHP code:
+   tools\stop_tamer_service_windows.bat
+   tools\start_tamer_service_windows.bat
+6. Open Dawn World. Old Cyberspace bookmarks route to safe Dawn destinations;
+   saved positions are checked when players revisit maps. No save reset is needed.
+
+FRESH INSTALL — BLANK DATABASE PASSWORD
+1. Start Apache and MySQL in XAMPP.
+2. Copy everything inside public_html to C:\xampp\htdocs\DigimonNXT.
+3. The supplied config\app.php uses host 127.0.0.1, port 3306,
+   database digimon_nxt, user root, and a blank password.
+   Edit these settings if your existing MySQL account or game path differs.
+   Installation does not change the MySQL account password itself.
+4. Open http://localhost/DigimonNXT/_setup.php on the server PC.
+   Choose Create / Repair Schema and wait for completion.
+5. Open _health.php: expect ok:true, version 0.7.2, schema 8,
+   43 tables, 1,000 species and 1,000 bots.
+6. Install the persistent tamer task below, then create your player account.
+
+EXPLORE ALL 264 DAWN MAPS
+- Open Dawn World. Search by name or area number; filter environment and
+  Wild Digimon / Rest areas. The atlas shows 24 destinations per page.
+- Choose a destination card to travel. The map keeps the uploaded image's
+  natural size; the camera scrolls with your tamer.
+- Use WASD, arrows, numpad or the movement pad. Walls and edges block movement.
+- Choose Area landings to reach separate paths and platforms in the same map.
+- Follow marked gates or use Travel connections to visit neighbouring areas.
+- Select a visible Digimon, or press E for the nearest signal. Approach along
+  clear ground until it is in range, then choose Battle.
+- Three active partners fight, with up to three party reserves. Scan arrives
+  when a valid encounter begins. Materialize partners at 100% scan or more.
+- Victory, defeat and disconnect restore your entire party to full HP and SP.
+- Area 001 is a rest area; the other 263 areas support wild encounters.
+- Click Enable sound once to allow Dawn music and sound in your browser.
+
+KEEP TAMERS ACTIVE WITH NO PLAYERS — WINDOWS / XAMPP
+1. Keep the server computer awake and MySQL running.
+2. For a fresh installation, run tools\install_tamer_service_windows.bat once.
+   Its default installed game folder is C:\xampp\htdocs\DigimonNXT.
+   For another folder, set NXT_GAME_DIR and NXT_PHP in the launcher first.
+3. Accept administrator elevation. The installer registers and starts the
+   background startup task using the installed game's database settings.
+4. Browsers and the world console can close. The task runs with no Windows
+   user signed in and resumes after Windows starts. If MySQL stops, it retries.
+5. tools\tamer_service_status_windows.bat checks the task. Tamer Activity
+   shows the worker's connection status while its heartbeat is live.
+
+Bots share one fair schedule. They take turns; all 1,000 do not act at once.
+Browser tabs provide bounded fallback activity without multiplying bot speed.
+Stopping/removing this game's task leaves the database and other MMOs intact.
+See tools\README_TAMER_SERVICE.txt for custom paths and task management.
+
+WORLD CONSOLE — PHYSICAL SERVER PC ONLY
+Run tools\start_world_server_windows.bat and accept administrator elevation.
+Requires Windows PowerShell 5.1 and XAMPP PHP 8.1+ with mysqli/mysqlnd.
+Type help, then status. The same window shows live activity while you type.
+All 52 existing administrator commands remain available.
+Password changes use a masked prompt; do not paste passwords into commands.
+Browser, Remote Desktop and SSH command-console access are not supported.
+Closing the console leaves Apache, MySQL and the background tamer task running.
+Read docs\WORLD_SERVER_CONSOLE.md and WORLD_SERVER_COMMANDS.txt.
+
+UPDATED WINDOWS x64 CLIENT v1.1.0
+Extract its complete ZIP into a new folder and run DigimonNXT.exe.
+The new Dawn maps, thumbnails, sprites and music are bundled locally.
+Preferences and login profiles remain in the existing Windows application data.
+Default server: http://127.0.0.1/DigimonNXT/
+Use server settings for another IP, domain, subdomain, port or game folder.
+The client retains 200% default game zoom and Windows DPI support.
+The server asset manifest is now included: no separate server add-on is needed.
+Only matching verified assets are used locally; changed assets load as needed.
+No Android rebuild is included in this map release.
+
+OPTIONAL CLEANUP AFTER AN OVERWRITE UPGRADE
+The old maps are no longer referenced. An ordinary copy may leave old files
+on disk. After backing up, these exact retired public_html-relative folders
+can be removed if they remain in your installed copy:
+  html\static\images\worlds\cyberspace
+  assets\ui\sectors
+Do not remove the new images\worlds\dawn folder or your config\app.php.
+
+README.md explains the release. docs\DAWN_WORLD.md is the exploration guide.
+docs\DAWN_WORLD_MAPS.md lists every map. TESTING.md records actual validation.

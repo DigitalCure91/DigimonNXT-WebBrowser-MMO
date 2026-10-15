@@ -1,0 +1,190 @@
+{
+  "checks": [
+    {
+      "ok": true,
+      "label": "390 stage initially outside viewport"
+    },
+    {
+      "ok": true,
+      "label": "390 accepted attack brings full compact stage into view",
+      "detail": {
+        "top": 0.40625,
+        "bottom": 689.375,
+        "height": 688.96875,
+        "viewport": 844,
+        "targetTop": 223.28125,
+        "targetBottom": 289.28125,
+        "scrollY": 497
+      }
+    },
+    {
+      "ok": true,
+      "label": "390 first enemy hit target visible"
+    },
+    {
+      "ok": true,
+      "label": "390 attack sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "390 committed next token is installed"
+    },
+    {
+      "ok": true,
+      "label": "390 controls unlock after scrolling playback"
+    },
+    {
+      "ok": true,
+      "label": "390 completion keeps battlefield scroll position",
+      "detail": {
+        "during": 497,
+        "after": 497
+      }
+    },
+    {
+      "ok": true,
+      "label": "390 already-visible stage does not jump"
+    },
+    {
+      "ok": true,
+      "label": "1440 stage initially outside viewport"
+    },
+    {
+      "ok": true,
+      "label": "1440 accepted attack brings full compact stage into view",
+      "detail": {
+        "top": -0.265625,
+        "bottom": 652.015625,
+        "height": 652.28125,
+        "viewport": 1000,
+        "targetTop": 158.15625,
+        "targetBottom": 250.15625,
+        "scrollY": 359
+      }
+    },
+    {
+      "ok": true,
+      "label": "1440 first enemy hit target visible"
+    },
+    {
+      "ok": true,
+      "label": "1440 attack sends one POST"
+    },
+    {
+      "ok": true,
+      "label": "1440 committed next token is installed"
+    },
+    {
+      "ok": true,
+      "label": "1440 controls unlock after scrolling playback"
+    },
+    {
+      "ok": true,
+      "label": "1440 completion keeps battlefield scroll position",
+      "detail": {
+        "during": 359,
+        "after": 359
+      }
+    },
+    {
+      "ok": true,
+      "label": "1440 already-visible stage does not jump"
+    },
+    {
+      "ok": true,
+      "label": "Three-hit fixture emits actual three contact events"
+    },
+    {
+      "ok": true,
+      "label": "Every hit still creates its own damage value",
+      "detail": {
+        "counts": [
+          1,
+          1,
+          1
+        ],
+        "values": [
+          "−40Hit 1/3",
+          "−40Hit 2/3",
+          "−40Hit 3/3"
+        ]
+      }
+    },
+    {
+      "ok": true,
+      "label": "Previous popup cancels so one value remains per target",
+      "detail": {
+        "counts": [
+          1,
+          1,
+          1
+        ],
+        "values": [
+          "−40Hit 1/3",
+          "−40Hit 2/3",
+          "−40Hit 3/3"
+        ]
+      }
+    },
+    {
+      "ok": true,
+      "label": "Popup layer clears after final hit"
+    },
+    {
+      "ok": true,
+      "label": "No browser errors during focused checks",
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "metrics": [
+    {
+      "width": 390,
+      "before": {
+        "top": -571.59375,
+        "bottom": 117.375,
+        "height": 844
+      },
+      "during": {
+        "top": 0.40625,
+        "bottom": 689.375,
+        "height": 688.96875,
+        "viewport": 844,
+        "targetTop": 223.28125,
+        "targetBottom": 289.28125,
+        "scrollY": 497
+      }
+    },
+    {
+      "width": 1440,
+      "before": {
+        "top": -434.265625,
+        "bottom": 218.015625,
+        "height": 1000
+      },
+      "during": {
+        "top": -0.265625,
+        "bottom": 652.015625,
+        "height": 652.28125,
+        "viewport": 1000,
+        "targetTop": 158.15625,
+        "targetBottom": 250.15625,
+        "scrollY": 359
+      }
+    },
+    {
+      "multi": {
+        "counts": [
+          1,
+          1,
+          1
+        ],
+        "values": [
+          "−40Hit 1/3",
+          "−40Hit 2/3",
+          "−40Hit 3/3"
+        ]
+      }
+    }
+  ]
+}

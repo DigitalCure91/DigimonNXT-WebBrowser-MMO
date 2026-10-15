@@ -1,0 +1,248 @@
+{
+  "scope": "Chromium fixture with intercepted successful movement replies, actual corrected world-map.js and original shipped CSS/PNG. No live server/database exercised.",
+  "checks": [
+    {
+      "name": "LEFT ←",
+      "direction": 3,
+      "before": {
+        "x": 15,
+        "y": 15
+      },
+      "after": {
+        "x": 14,
+        "y": 15
+      },
+      "row": 66.6667,
+      "idleColumn": 0
+    },
+    {
+      "name": "RIGHT →",
+      "direction": 4,
+      "before": {
+        "x": 14,
+        "y": 15
+      },
+      "after": {
+        "x": 15,
+        "y": 15
+      },
+      "row": 33.3333,
+      "idleColumn": 0
+    },
+    {
+      "name": "A left",
+      "direction": 3,
+      "before": {
+        "x": 15,
+        "y": 15
+      },
+      "after": {
+        "x": 14,
+        "y": 15
+      },
+      "row": 66.6667,
+      "idleColumn": 0
+    },
+    {
+      "name": "D right",
+      "direction": 4,
+      "before": {
+        "x": 14,
+        "y": 15
+      },
+      "after": {
+        "x": 15,
+        "y": 15
+      },
+      "row": 33.3333,
+      "idleColumn": 0
+    },
+    {
+      "name": "D-pad left",
+      "direction": 3,
+      "before": {
+        "x": 15,
+        "y": 15
+      },
+      "after": {
+        "x": 14,
+        "y": 15
+      },
+      "row": 66.6667,
+      "idleColumn": 0
+    },
+    {
+      "name": "D-pad right",
+      "direction": 4,
+      "before": {
+        "x": 14,
+        "y": 15
+      },
+      "after": {
+        "x": 15,
+        "y": 15
+      },
+      "row": 33.3333,
+      "idleColumn": 0
+    },
+    {
+      "name": "Up unchanged",
+      "direction": 1,
+      "before": {
+        "x": 15,
+        "y": 15
+      },
+      "after": {
+        "x": 15,
+        "y": 14
+      },
+      "row": 100,
+      "idleColumn": 0
+    },
+    {
+      "name": "Down unchanged",
+      "direction": 2,
+      "before": {
+        "x": 15,
+        "y": 14
+      },
+      "after": {
+        "x": 15,
+        "y": 15
+      },
+      "row": 0,
+      "idleColumn": 0
+    },
+    {
+      "name": "Reduced motion left",
+      "direction": 3,
+      "before": {
+        "x": 15,
+        "y": 15
+      },
+      "after": {
+        "x": 14,
+        "y": 15
+      },
+      "row": 66.6667,
+      "idleColumn": 0
+    },
+    {
+      "name": "Reduced motion right",
+      "direction": 4,
+      "before": {
+        "x": 14,
+        "y": 15
+      },
+      "after": {
+        "x": 15,
+        "y": 15
+      },
+      "row": 33.3333,
+      "idleColumn": 0
+    },
+    {
+      "name": "Paused animation left",
+      "direction": 3,
+      "before": {
+        "x": 15,
+        "y": 15
+      },
+      "after": {
+        "x": 14,
+        "y": 15
+      },
+      "row": 66.6667,
+      "idleColumn": 0
+    },
+    {
+      "name": "Paused animation right",
+      "direction": 4,
+      "before": {
+        "x": 14,
+        "y": 15
+      },
+      "after": {
+        "x": 15,
+        "y": 15
+      },
+      "row": 33.3333,
+      "idleColumn": 0
+    }
+  ],
+  "requests": [
+    {
+      "direction": 3,
+      "steps": 1,
+      "x": 14,
+      "y": 15
+    },
+    {
+      "direction": 4,
+      "steps": 1,
+      "x": 15,
+      "y": 15
+    },
+    {
+      "direction": 3,
+      "steps": 1,
+      "x": 14,
+      "y": 15
+    },
+    {
+      "direction": 4,
+      "steps": 1,
+      "x": 15,
+      "y": 15
+    },
+    {
+      "direction": 3,
+      "steps": 1,
+      "x": 14,
+      "y": 15
+    },
+    {
+      "direction": 4,
+      "steps": 1,
+      "x": 15,
+      "y": 15
+    },
+    {
+      "direction": 1,
+      "steps": 1,
+      "x": 15,
+      "y": 14
+    },
+    {
+      "direction": 2,
+      "steps": 1,
+      "x": 15,
+      "y": 15
+    },
+    {
+      "direction": 3,
+      "steps": 1,
+      "x": 14,
+      "y": 15
+    },
+    {
+      "direction": 4,
+      "steps": 1,
+      "x": 15,
+      "y": 15
+    },
+    {
+      "direction": 3,
+      "steps": 1,
+      "x": 14,
+      "y": 15
+    },
+    {
+      "direction": 4,
+      "steps": 1,
+      "x": 15,
+      "y": 15
+    }
+  ],
+  "browserErrors": []
+}

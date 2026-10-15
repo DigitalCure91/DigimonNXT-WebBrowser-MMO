@@ -1,0 +1,900 @@
+{
+  "checks": [
+    {
+      "ok": true,
+      "name": "login.php HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "login.php renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "map_select.php HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "map_select.php renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Atlas paginates 24 areas"
+    },
+    {
+      "ok": true,
+      "name": "Atlas requests thumbnails without full map assets"
+    },
+    {
+      "ok": true,
+      "name": "Atlas uses separate lazy thumbnails"
+    },
+    {
+      "ok": true,
+      "name": "Desktop atlas has no page overflow"
+    },
+    {
+      "ok": true,
+      "name": "Atlas search selects one area by ID"
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-088",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "Landing form travels to validated disconnected platform",
+      "detail": "dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "Landing selector identifies current path"
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-131 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-131 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-131",
+      "detail": {
+        "native": [
+          1536,
+          768
+        ],
+        "display": [
+          1536,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-131",
+      "detail": {
+        "native": [
+          1536,
+          768
+        ],
+        "display": [
+          1536,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-131"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-131"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-131",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-011 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-011 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-011",
+      "detail": {
+        "native": [
+          1024,
+          1152
+        ],
+        "display": [
+          1024,
+          1152
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-011",
+      "detail": {
+        "native": [
+          1024,
+          1152
+        ],
+        "display": [
+          1024,
+          1152
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-011"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-011"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-011",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-002 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-002 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-002",
+      "detail": {
+        "native": [
+          1536,
+          768
+        ],
+        "display": [
+          1536,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-002",
+      "detail": {
+        "native": [
+          1536,
+          768
+        ],
+        "display": [
+          1536,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-002"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-002"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-002",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "Arrow tap makes one precise validated step"
+    },
+    {
+      "ok": true,
+      "name": "Arrow tap does not skip a narrow turn"
+    },
+    {
+      "ok": true,
+      "name": "Names toggle hides map labels"
+    },
+    {
+      "ok": true,
+      "name": "Approach wild squad along legal collision cells"
+    },
+    {
+      "ok": true,
+      "name": "Visible roaming Digimon can be selected and challenged"
+    },
+    {
+      "ok": true,
+      "name": "New map opens a three-opponent battle"
+    },
+    {
+      "ok": true,
+      "name": "New map keeps three party members"
+    },
+    {
+      "ok": true,
+      "name": "Wild battle completes"
+    },
+    {
+      "ok": true,
+      "name": "All partners restore HP and SP after Dawn encounter"
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-088",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "Gate has a connected floor path"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Gate approach traverses legal cells"
+    },
+    {
+      "ok": true,
+      "name": "Walking onto gate enters connected Dawn area"
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-088",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "Nearby collision wall found"
+    },
+    {
+      "ok": true,
+      "name": "Wall collision rejects illegal movement"
+    },
+    {
+      "ok": true,
+      "name": "map_select.php HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "map_select.php renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Mobile atlas has no horizontal overflow"
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 HTTP 200",
+      "detail": 200
+    },
+    {
+      "ok": true,
+      "name": "world_map.php?area=dawn-088 renders without PHP errors"
+    },
+    {
+      "ok": true,
+      "name": "Correct supplied map dimensions dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "True native size dawn-088",
+      "detail": {
+        "native": [
+          1504,
+          768
+        ],
+        "display": [
+          1504,
+          768
+        ],
+        "render": "pixelated"
+      }
+    },
+    {
+      "ok": true,
+      "name": "Crisp integer zoom dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "No page horizontal overflow dawn-088"
+    },
+    {
+      "ok": true,
+      "name": "Independent 32px tamer sprite dawn-088",
+      "detail": {
+        "width": 32,
+        "height": 64
+      }
+    },
+    {
+      "ok": true,
+      "name": "Mobile map scrolls internally at native size"
+    },
+    {
+      "ok": true,
+      "name": "No browser, JavaScript or failed HTTP responses",
+      "detail": {
+        "pageErrors": [],
+        "consoleErrors": [],
+        "badResponses": []
+      }
+    }
+  ],
+  "screens": [
+    "dawn-atlas-desktop",
+    "dawn-area-088-desktop",
+    "dawn-area-131-b-only-desktop",
+    "dawn-tall-area-desktop",
+    "dawn-wild-battle",
+    "dawn-atlas-mobile",
+    "dawn-area-088-mobile"
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "badResponses": [],
+  "battleCommands": 34,
+  "success": true
+}

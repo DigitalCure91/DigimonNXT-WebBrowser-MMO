@@ -1,0 +1,31 @@
+PASS PowerShell syntax parses
+PASS Terminal controls and bidi formatting stripped
+PASS Terminal output length bounded
+PASS Password operation redacted: account password Admin
+PASS Password operation redacted: .account password Admin
+PASS Password operation redacted: 'account' 'password' Admin
+PASS Password operation redacted: acc'ount' pass'word' Admin
+PASS Password operation redacted: ACCOUNT CREATE Admin admin@example.test
+PASS Password operation redacted: acc\ount pass\word Admin
+PASS Read-only account command can remain in history
+PASS JSON stdin preserves Unicode command and secret bytes
+PASS Missing initial journal is harmless
+PASS Journal created after attachment includes first event and skips PHP guard
+PASS Incomplete final record is retained
+PASS Partial record completed once
+PASS UTF-8 character split across writes survives
+PASS Rotation drains old file before new records with no loss
+PASS Repeated failed logins are summarized
+PASS Bot flood bounded in display and memory
+PASS First bot event keeps identity; remaining grouped count excludes sample
+PASS Full traffic mode bounded even with unique requests
+PASS Background polling never spams individual lines
+PASS Admin results bypass display pause and category filter
+PASS Request query values are never displayed
+PASS Journal failure count warns once per increase
+PASS Growing journal failure counts cannot flood warnings
+PASS Journal losses and unreadable records receive bounded interval diagnostics
+PASS Apache isolation and successful dynamic duplicate suppression
+PASS Static IP never inferred as account; query removed; 404 retained
+PASS Summary lists at most four busiest groups and clears window counts
+PASS: 30 console component checks. Native Windows UI and OS session guard remain unexecuted on non-Windows hosts.

@@ -1,0 +1,8 @@
+{
+  "hp-capsule-s": {"field":"hp","amount":250},
+  "hp-capsule-m": {"field":"hp","amount":500},
+  "hp-capsule-l": {"field":"hp","amount":1000},
+  "sp-capsule-s": {"field":"sp","amount":50},
+  "sp-capsule-m": {"field":"sp","amount":100},
+  "sp-capsule-l": {"field":"sp","amount":250}
+}

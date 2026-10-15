@@ -1,0 +1,69 @@
+{
+  "checks": [
+    {
+      "ok": true,
+      "name": "Map labels start quiet"
+    },
+    {
+      "ok": true,
+      "name": "Your own tamer remains clearly marked"
+    },
+    {
+      "ok": true,
+      "name": "Map name preference persists after reload"
+    },
+    {
+      "ok": true,
+      "name": "Selected Digimon name appears with quiet labels"
+    },
+    {
+      "ok": true,
+      "name": "Mobile movement pad stays beside the map"
+    },
+    {
+      "ok": true,
+      "name": "Duplicate desktop compass stays hidden on mobile"
+    },
+    {
+      "ok": true,
+      "name": "Touch pad supports a precise tap followed by held walking",
+      "detail": [
+        {
+          "steps": 1,
+          "moved": true
+        },
+        {
+          "steps": 4,
+          "moved": true
+        },
+        {
+          "steps": 4,
+          "moved": true
+        },
+        {
+          "steps": 2,
+          "moved": true
+        }
+      ]
+    },
+    {
+      "ok": true,
+      "name": "Held movement stops when released"
+    },
+    {
+      "ok": true,
+      "name": "Mobile overlay introduces no page overflow"
+    },
+    {
+      "ok": true,
+      "name": "No runtime or HTTP errors after final polish",
+      "detail": {
+        "errors": [],
+        "responses": []
+      }
+    }
+  ],
+  "pageErrors": [],
+  "badResponses": [],
+  "success": true
+}

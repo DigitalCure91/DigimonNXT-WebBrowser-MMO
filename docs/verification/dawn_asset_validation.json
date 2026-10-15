@@ -1,0 +1,11 @@
+{
+  "result": "passed",
+  "source_layer_hashes": 351,
+  "composite_pixels": 87,
+  "native_maps": 264,
+  "thumbnails": 264,
+  "connected_maps": 264,
+  "gate_count": 528,
+  "landings": 481,
+  "regions": 30
+}

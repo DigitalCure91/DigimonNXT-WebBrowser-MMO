@@ -1,0 +1,9 @@
+PASS  species + normalized sprites (1000 species)
+PASS  Dawn native maps / original layers / ROM collision / travel / encounters (264 areas)
+PASS  1000 learnsets / 768 moves / 1902 evolution routes / recovery effects
+PASS  complete standalone database + installer
+PASS  full MMO runtime surface + native tracked camera
+PASS  legacy franchise content exclusion
+PASS  available syntax checks (see any SKIP above)
+
+Digimon NXT static release validation: PASS

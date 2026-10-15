@@ -1,0 +1,2800 @@
+[
+  {
+    "from": "chibomon",
+    "to": "demiveemon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "demiveemon",
+    "to": "veemon",
+    "level": 9,
+    "abi": 0,
+    "cam": 10,
+    "bits": 0,
+    "stats": {
+      "atk": 20,
+      "spd": 20
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "conomon",
+    "to": "kokomon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kokomon",
+    "to": "lopmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {
+      "atk": 15,
+      "int": 20
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dodomon",
+    "to": "dorimon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dorimon",
+    "to": "dorumon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {
+      "atk": 20,
+      "spd": 30
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "jyarimon",
+    "to": "gigimon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gigimon",
+    "to": "guilmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {
+      "atk": 30,
+      "spd": 20
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pichimon",
+    "to": "bukamon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {
+      "int": 15
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bukamon",
+    "to": "crabmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pusumon",
+    "to": "pusurimon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pusurimon",
+    "to": "herissmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "herissmon",
+    "to": "filmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "puttimon",
+    "to": "tokomon",
+    "level": 5,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "yukimibotamon",
+    "to": "nyaromon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {
+      "int": 10
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "yuramon",
+    "to": "tanemon",
+    "level": 5,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tanemon",
+    "to": "aruraumon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "aruraumon",
+    "to": "weedmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "weedmon",
+    "to": "blossomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blossomon",
+    "to": "lotosmon",
+    "level": 55,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "int": 170,
+      "spd": 130
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "zerimon",
+    "to": "gummymon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gummymon",
+    "to": "terriermon",
+    "level": 9,
+    "abi": 0,
+    "cam": 10,
+    "bits": 0,
+    "stats": {
+      "spd": 30
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pabumon",
+    "to": "budmon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "budmon",
+    "to": "floramon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "floramon",
+    "to": "kiwimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kiwimon",
+    "to": "deramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "deramon",
+    "to": "gryphonmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 110,
+      "int": 140
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pichimon",
+    "to": "chicchimon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "chicchimon",
+    "to": "penguinmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "penguinmon",
+    "to": "dolphmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dolphmon",
+    "to": "divermon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "divermon",
+    "to": "pukumon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "botamon",
+    "to": "sunmon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "sunmon",
+    "to": "coronamon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "coronamon",
+    "to": "firamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "firamon",
+    "to": "flaremon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "flaremon",
+    "to": "apollomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "poyomon",
+    "to": "moonmon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "moonmon",
+    "to": "lunamon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {
+      "sp": 30,
+      "int": 20
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pabumon",
+    "to": "minomon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "minomon",
+    "to": "kunemon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kunemon",
+    "to": "flymon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "flymon",
+    "to": "megakabuterimonblue",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "megakabuterimonblue",
+    "to": "herculeskabuterimon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 1100,
+      "def": 150,
+      "int": 120
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "botamon",
+    "to": "kapurimon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kapurimon",
+    "to": "kokuwamon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kokuwamon",
+    "to": "thundermon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "thundermon",
+    "to": "bigmamemon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bigmamemon",
+    "to": "princemamemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "def": 150
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "koromon",
+    "to": "dotagumon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dotagumon",
+    "to": "tyrannomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 150,
+      "atk": 40
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tyrannomon",
+    "to": "mastertyrannomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mastertyrannomon",
+    "to": "spinomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "chicchimon",
+    "to": "dotfalcomon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dotfalcomon",
+    "to": "diatrymon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "diatrymon",
+    "to": "parrotmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "parrotmon",
+    "to": "eaglemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wanyamon",
+    "to": "bearmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bearmon",
+    "to": "grizzlymon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "grizzlymon",
+    "to": "grapleomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 400,
+      "atk": 95
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "grapleomon",
+    "to": "baihumon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pagumon",
+    "to": "candlemon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "candlemon",
+    "to": "flarerizamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "flarerizamon",
+    "to": "bluemeramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 400,
+      "atk": 80,
+      "int": 70
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bluemeramon",
+    "to": "ancientvolcanomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bukamon",
+    "to": "gizamon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gizamon",
+    "to": "ebidramon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "ebidramon",
+    "to": "scorpiomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "scorpiomon",
+    "to": "plesiomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 100,
+      "def": 120,
+      "int": 145
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "minomon",
+    "to": "dokunemon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dokunemon",
+    "to": "dokugumon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dokugumon",
+    "to": "arukenimon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "arukenimon",
+    "to": "parasimon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "koromon",
+    "to": "gumdramon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gumdramon",
+    "to": "arresterdramon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "arresterdramon",
+    "to": "cyberdramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 400,
+      "atk": 75,
+      "spd": 75
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kapurimon",
+    "to": "jazamon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "jazamon",
+    "to": "jazardmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "jazardmon",
+    "to": "metaltyrannomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 75,
+      "def": 95
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "metaltyrannomon",
+    "to": "cannondramon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bukamon",
+    "to": "kamemon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kamemon",
+    "to": "gawappamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gawappamon",
+    "to": "shawjamon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "shawjamon",
+    "to": "jumbogamemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "yokomon",
+    "to": "muchomon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "muchomon",
+    "to": "akatorimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "akatorimon",
+    "to": "sinduramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "sinduramon",
+    "to": "zhuqiaomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kapurimon",
+    "to": "pawnchessmonblack",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pawnchessmonblack",
+    "to": "knightchessmonblack",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "knightchessmonblack",
+    "to": "rookchessmonblack",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "rookchessmonblack",
+    "to": "kingchessmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kapurimon",
+    "to": "pawnchessmonwhite",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pawnchessmonwhite",
+    "to": "knightchessmonwhite",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "knightchessmonwhite",
+    "to": "bishopchessmonwhite",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bishopchessmonwhite",
+    "to": "queenchessmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "pagumon",
+    "to": "shadowtoyagumon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "shadowtoyagumon",
+    "to": "omekamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "omekamon",
+    "to": "monzaemon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 600,
+      "atk": 60
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "monzaemon",
+    "to": "babamon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tsunomon",
+    "to": "shamanmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "shamanmon",
+    "to": "fugamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "fugamon",
+    "to": "digitamamon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 700,
+      "def": 75
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "digitamamon",
+    "to": "devitamamon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "koromon",
+    "to": "snowagumon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "snowagumon",
+    "to": "hyogamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hyogamon",
+    "to": "mammothmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mammothmon",
+    "to": "skullmammothmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tsunomon",
+    "to": "snowgoblimon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "snowgoblimon",
+    "to": "mojyamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mojyamon",
+    "to": "skullbaluchimon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "skullbaluchimon",
+    "to": "ancientmegatheriummon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tokomon",
+    "to": "tapirmon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tapirmon",
+    "to": "apemon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "apemon",
+    "to": "vajramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "vajramon",
+    "to": "zanbamon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tokomon",
+    "to": "tsukaimon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tsukaimon",
+    "to": "devidramon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "devidramon",
+    "to": "kimeramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kimeramon",
+    "to": "millenniummon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "millenniummon",
+    "to": "moonmillenniummon",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "moonmillenniummon",
+    "to": "zeedmillenniummon",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "koromon",
+    "to": "vorvomon",
+    "level": 9,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "vorvomon",
+    "to": "lavorvomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "lavorvomon",
+    "to": "vermilimon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "vermilimon",
+    "to": "ancientgreymon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "demidevimon",
+    "to": "vilemon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "vilemon",
+    "to": "ghoulmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "ghoulmon",
+    "to": "ghoulmonblack",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hawkmon",
+    "to": "buraimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "buraimon",
+    "to": "butenmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "butenmon",
+    "to": "tactimon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hagurumon",
+    "to": "bombernanimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bombernanimon",
+    "to": "giromon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "giromon",
+    "to": "hiandromon",
+    "level": 55,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 100,
+      "def": 130,
+      "int": 100
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hagurumon",
+    "to": "mekanorimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mekanorimon",
+    "to": "tekkamon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tekkamon",
+    "to": "boltmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 145,
+      "def": 100
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "monodramon",
+    "to": "dinohyumon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dinohyumon",
+    "to": "kyukimon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kyukimon",
+    "to": "slashangemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "goblimon",
+    "to": "minotarumon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "minotarumon",
+    "to": "vajramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "goblimon",
+    "to": "junglemojyamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "junglemojyamon",
+    "to": "etemon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 75,
+      "def": 75,
+      "spd": 65
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "etemon",
+    "to": "jijimon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "goblimon",
+    "to": "nisedrimogemon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "nisedrimogemon",
+    "to": "mametyramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mametyramon",
+    "to": "spinomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gabumon",
+    "to": "drimogemon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "drimogemon",
+    "to": "brachiomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "brachiomon",
+    "to": "cannondramon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "goblimon",
+    "to": "musyamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "musyamon",
+    "to": "karatenmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "karatenmon",
+    "to": "zanbamon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "falcomon",
+    "to": "ninjamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "ninjamon",
+    "to": "karatenmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "falcomon",
+    "to": "kogamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kogamon",
+    "to": "karatenmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gotsumon",
+    "to": "centarumon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "centarumon",
+    "to": "andromon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 75,
+      "def": 75,
+      "int": 75
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "toyagumon",
+    "to": "deputymon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "deputymon",
+    "to": "superstarmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 70,
+      "atk": 70,
+      "def": 80
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "crabmon",
+    "to": "hookmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hookmon",
+    "to": "mermaimon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mermaimon",
+    "to": "ancientmermaidmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gomamon",
+    "to": "shellmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "shellmon",
+    "to": "whamon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 850,
+      "def": 75,
+      "int": 75
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "whamon",
+    "to": "aegisdramon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "crabmon",
+    "to": "morishellmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "morishellmon",
+    "to": "brachiomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "betamon",
+    "to": "gesomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gesomon",
+    "to": "marinedevimon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "marinedevimon",
+    "to": "gulfmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "syakomon",
+    "to": "octomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "octomon",
+    "to": "dragomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 70,
+      "int": 85
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "salamon",
+    "to": "seasarmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "seasarmon",
+    "to": "cerberumon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "cerberumon",
+    "to": "anubismon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gabumon",
+    "to": "dorulumon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dorulumon",
+    "to": "cerberumon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "cerberumon",
+    "to": "ancientgarurumon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "salamon",
+    "to": "meicoomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "meicoomon",
+    "to": "beastmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "beastmon",
+    "to": "ancientsphinxmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackagumon",
+    "to": "darktyrannomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "darktyrannomon",
+    "to": "metaltyrannomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 75,
+      "def": 95
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackagumon",
+    "to": "darklizardmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "darklizardmon",
+    "to": "blackwargrowlmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackwargrowlmon",
+    "to": "chaosgallantmon",
+    "level": 60,
+    "abi": 40,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 130,
+      "def": 130,
+      "int": 130
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackgabumon",
+    "to": "madleomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "madleomon",
+    "to": "beastmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "biyomon",
+    "to": "kokatorimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kokatorimon",
+    "to": "parrotmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "biyomon",
+    "to": "saberdramon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "saberdramon",
+    "to": "crowmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 75,
+      "spd": 90
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "crowmon",
+    "to": "chronomonholymode",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "chronomonholymode",
+    "to": "chronomondm",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tentomon",
+    "to": "yanmamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "yanmamon",
+    "to": "megakabuterimonblue",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tentomon",
+    "to": "sandyanmamon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "sandyanmamon",
+    "to": "megakabuterimonblue",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wormmon",
+    "to": "snimon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "snimon",
+    "to": "okuwamon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 95,
+      "def": 90
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "okuwamon",
+    "to": "ancientbeetlemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "kunemon",
+    "to": "roachmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "roachmon",
+    "to": "garbagemon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "garbagemon",
+    "to": "metaletemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 100,
+      "atk": 120,
+      "def": 140
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "armadillomon",
+    "to": "tortomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "tortomon",
+    "to": "triceramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 75,
+      "def": 75
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "triceramon",
+    "to": "ebonwumon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "palmon",
+    "to": "redvegiemon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "redvegiemon",
+    "to": "blossomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blossomon",
+    "to": "ancienttroiamon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "lopmon",
+    "to": "wendigomon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wendigomon",
+    "to": "antylamongood",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "atk": 65,
+      "int": 75,
+      "spd": 85
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "gargomon",
+    "to": "blackrapidmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackrapidmon",
+    "to": "blackmegagargomon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "numemon",
+    "to": "extyrannomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "extyrannomon",
+    "to": "babamon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bakemon",
+    "to": "mummymon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "mummymon",
+    "to": "pharaohmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "myotismon",
+    "to": "malomyotismon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "seadramon",
+    "to": "waruseadramon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "waruseadramon",
+    "to": "gigaseadramon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "megaseadramon",
+    "to": "azulongmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "woodmon",
+    "to": "argomonultimate",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "argomonultimate",
+    "to": "argomonmega",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wisemon",
+    "to": "lampmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wisemon",
+    "to": "ancientwisemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "silphymon",
+    "to": "ancientkazemon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "infermon",
+    "to": "beelzemonblastmode",
+    "level": 80,
+    "abi": 100,
+    "cam": 100,
+    "bits": 0,
+    "stats": {
+      "hp": 2100,
+      "atk": 300,
+      "spd": 220
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "digitamamon",
+    "to": "belphemonragemode",
+    "level": 65,
+    "abi": 80,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "megaseadramon",
+    "to": "examon",
+    "level": 65,
+    "abi": 100,
+    "cam": 100,
+    "bits": 0,
+    "stats": {
+      "hp": 1650,
+      "atk": 150,
+      "spd": 150
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wargreymon",
+    "to": "susanoomon",
+    "level": 65,
+    "abi": 100,
+    "cam": 100,
+    "bits": 0,
+    "stats": {
+      "hp": 1000,
+      "atk": 150,
+      "int": 150
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackwargrowlmon",
+    "to": "imperialdramondragonmodeblack",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "shinegreymon",
+    "to": "shinegreymonruinmode",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "shinegreymon",
+    "to": "dotshinegreymon",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "miragegaogamon",
+    "to": "dotmiragegaogamon",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "daemon",
+    "to": "daemonmantled",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "baihumon",
+    "to": "fanglongmon",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "blackagumon",
+    "to": "skullknightmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "skullknightmon",
+    "to": "axeknightmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "axeknightmon",
+    "to": "greyknightsmon",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "dracmon",
+    "to": "axemon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "axemon",
+    "to": "axeknightmon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hagurumon",
+    "to": "troopmon",
+    "level": 16,
+    "abi": 0,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "troopmon",
+    "to": "datamon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "sp": 60,
+      "int": 85
+    },
+    "origin": "NXT extension"
+  },
+  {
+    "from": "datamon",
+    "to": "exeraseralpha",
+    "level": 50,
+    "abi": 20,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "exeraseralpha",
+    "to": "exeraserbeta",
+    "level": 60,
+    "abi": 50,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hawkmon",
+    "to": "allomon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hawkmon",
+    "to": "aurumon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "palmon",
+    "to": "kabukimon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "armadillomon",
+    "to": "kenkimon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wormmon",
+    "to": "kongoumon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "salamon",
+    "to": "lynxmon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "salamon",
+    "to": "nefertimon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wormmon",
+    "to": "pipismon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "patamon",
+    "to": "ponchomon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "patamon",
+    "to": "prairiemon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "armadillomon",
+    "to": "seahomon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "wormmon",
+    "to": "shadramon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hawkmon",
+    "to": "shurimon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "hawkmon",
+    "to": "toucanmon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "salamon",
+    "to": "tylomon",
+    "level": 20,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "bommon",
+    "to": "kapurimon",
+    "level": 3,
+    "abi": 0,
+    "cam": 0,
+    "bits": 0,
+    "stats": {},
+    "origin": "NXT extension"
+  },
+  {
+    "from": "filmon",
+    "to": "grapleomon",
+    "level": 30,
+    "abi": 10,
+    "cam": 25,
+    "bits": 0,
+    "stats": {
+      "hp": 400,
+      "atk": 95
+    },
+    "origin": "NXT extension"
+  }
+]

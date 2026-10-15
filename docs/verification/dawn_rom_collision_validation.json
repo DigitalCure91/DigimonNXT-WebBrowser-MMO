@@ -1,0 +1,15 @@
+{
+  "maps": 264,
+  "all_grid_cells": 4690560,
+  "walkable_cells": 1038438,
+  "blocked_cells": 3652122,
+  "source_pixel_bits": 75055104,
+  "rom_sha256": "b8fbc2272ec2a7b3c85674a43ffce0a7dde208319e331b349218e1238ce83005",
+  "special_canvas_crops": [
+    {
+      "map": 88,
+      "right_native_pixels": 16,
+      "cropped_floor_pixels": 0
+    }
+  ]
+}

@@ -1,0 +1,4720 @@
+[
+  {
+    "asset_name": "Bommon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Bommon/Bommon_Idle.png",
+    "reference_name": null,
+    "slug": "bommon",
+    "name": "Bommon",
+    "stage": "Baby",
+    "official_directory": "bommon"
+  },
+  {
+    "asset_name": "Botamon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Botamon/Botamon_Idle.png",
+    "reference_name": "Botamon",
+    "slug": "botamon",
+    "name": "Botamon",
+    "stage": "Baby"
+  },
+  {
+    "asset_name": "Chibomon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Chibomon/Chibomon_Idle.png",
+    "reference_name": null,
+    "slug": "chibomon",
+    "name": "Chibomon",
+    "stage": "Baby",
+    "official_directory": "chicomon"
+  },
+  {
+    "asset_name": "Conomon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Conomon/Conomon_Idle.png",
+    "reference_name": null,
+    "slug": "conomon",
+    "name": "Conomon",
+    "stage": "Baby",
+    "official_directory": "cocomon"
+  },
+  {
+    "asset_name": "Dodomon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Dodomon/Dodomon_Idle.png",
+    "reference_name": null,
+    "slug": "dodomon",
+    "name": "Dodomon",
+    "stage": "Baby",
+    "official_directory": "dodomon"
+  },
+  {
+    "asset_name": "Jyarimon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Jyarimon/Jyarimon_Idle.png",
+    "reference_name": null,
+    "slug": "jyarimon",
+    "name": "Jyarimon",
+    "stage": "Baby",
+    "official_directory": "jyarimon"
+  },
+  {
+    "asset_name": "Kuramon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Kuramon/Kuramon_Idle.png",
+    "reference_name": "Kuramon",
+    "slug": "kuramon",
+    "name": "Kuramon",
+    "stage": "Baby"
+  },
+  {
+    "asset_name": "Pabumon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Pabumon/Pabumon_Idle.png",
+    "reference_name": "Pabumon",
+    "slug": "pabumon",
+    "name": "Pabumon",
+    "stage": "Baby"
+  },
+  {
+    "asset_name": "Pichimon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Pichimon/Pichimon_Idle.png",
+    "reference_name": null,
+    "slug": "pichimon",
+    "name": "Pichimon",
+    "stage": "Baby",
+    "official_directory": "pitchmon"
+  },
+  {
+    "asset_name": "Poyomon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Poyomon/Poyomon_Idle.png",
+    "reference_name": "Poyomon",
+    "slug": "poyomon",
+    "name": "Poyomon",
+    "stage": "Baby"
+  },
+  {
+    "asset_name": "Punimon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Punimon/Punimon_Idle.png",
+    "reference_name": "Punimon",
+    "slug": "punimon",
+    "name": "Punimon",
+    "stage": "Baby"
+  },
+  {
+    "asset_name": "Pusumon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Pusumon/Pusumon_Idle.png",
+    "reference_name": null,
+    "slug": "pusumon",
+    "name": "Pusumon",
+    "stage": "Baby",
+    "official_directory": "pusumon"
+  },
+  {
+    "asset_name": "Puttimon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Puttimon/Puttimon_Idle.png",
+    "reference_name": null,
+    "slug": "puttimon",
+    "name": "Puttimon",
+    "stage": "Baby",
+    "official_directory": "puttimon"
+  },
+  {
+    "asset_name": "YukimiBotamon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/YukimiBotamon/YukimiBotamon_Idle.png",
+    "reference_name": null,
+    "slug": "yukimibotamon",
+    "name": "YukimiBotamon",
+    "stage": "Baby",
+    "official_directory": "yukimibotamon"
+  },
+  {
+    "asset_name": "Yuramon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Yuramon/Yuramon_Idle.png",
+    "reference_name": null,
+    "slug": "yuramon",
+    "name": "Yuramon",
+    "stage": "Baby",
+    "official_directory": "yuramon"
+  },
+  {
+    "asset_name": "Zerimon",
+    "asset_stage": "Baby",
+    "sprite_source": "1 Fresh/Zerimon/Zerimon_Idle.png",
+    "reference_name": null,
+    "slug": "zerimon",
+    "name": "Zerimon",
+    "stage": "Baby",
+    "official_directory": "zerimon"
+  },
+  {
+    "asset_name": "ArcadiamonInTraining",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/ArcadiamonInTraining/ArcadiamonInTraining_Idle.png",
+    "reference_name": "Arcadiamon In-Tr.",
+    "slug": "arcadiamonintraining",
+    "name": "Arcadiamon In-Tr.",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Budmon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Budmon/Budmon_Idle.png",
+    "reference_name": null,
+    "slug": "budmon",
+    "name": "Budmon",
+    "stage": "In-Training",
+    "official_directory": "budmon"
+  },
+  {
+    "asset_name": "Bukamon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Bukamon/Bukamon_Idle.png",
+    "reference_name": "Bukamon",
+    "slug": "bukamon",
+    "name": "Bukamon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Chicchimon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Chicchimon/Chicchimon_Idle.png",
+    "reference_name": null,
+    "slug": "chicchimon",
+    "name": "Chicchimon",
+    "stage": "In-Training",
+    "official_directory": "chicchimon"
+  },
+  {
+    "asset_name": "DemiVeemon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/DemiVeemon/DemiVeemon_Idle.png",
+    "reference_name": null,
+    "slug": "demiveemon",
+    "name": "DemiVeemon",
+    "stage": "In-Training",
+    "official_directory": "chibimon"
+  },
+  {
+    "asset_name": "Dorimon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Dorimon/Dorimon_Idle.png",
+    "reference_name": null,
+    "slug": "dorimon",
+    "name": "Dorimon",
+    "stage": "In-Training",
+    "official_directory": "dorimon"
+  },
+  {
+    "asset_name": "Gigimon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Gigimon/Gigimon_Idle.png",
+    "reference_name": null,
+    "slug": "gigimon",
+    "name": "Gigimon",
+    "stage": "In-Training",
+    "official_directory": "gigimon"
+  },
+  {
+    "asset_name": "Gummymon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Gummymon/Gummymon_Idle.png",
+    "reference_name": null,
+    "slug": "gummymon",
+    "name": "Gummymon",
+    "stage": "In-Training",
+    "official_directory": "gummymon"
+  },
+  {
+    "asset_name": "Kapurimon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Kapurimon/Kapurimon_Idle.png",
+    "reference_name": null,
+    "slug": "kapurimon",
+    "name": "Kapurimon",
+    "stage": "In-Training",
+    "official_directory": "capromon"
+  },
+  {
+    "asset_name": "Kokomon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Kokomon/Kokomon_Idle.png",
+    "reference_name": null,
+    "slug": "kokomon",
+    "name": "Kokomon",
+    "stage": "In-Training",
+    "official_directory": "chocomon"
+  },
+  {
+    "asset_name": "Koromon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Koromon/Koromon_Idle.png",
+    "reference_name": "Koromon",
+    "slug": "koromon",
+    "name": "Koromon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Minomon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Minomon/Minomon_Idle.png",
+    "reference_name": null,
+    "slug": "minomon",
+    "name": "Minomon",
+    "stage": "In-Training",
+    "official_directory": "minomon"
+  },
+  {
+    "asset_name": "Moonmon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Moonmon/Moonmon_Idle.png",
+    "reference_name": null,
+    "slug": "moonmon",
+    "name": "Moonmon",
+    "stage": "In-Training",
+    "official_directory": "moonmon"
+  },
+  {
+    "asset_name": "Motimon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Motimon/Motimon_Idle.png",
+    "reference_name": "Motimon",
+    "slug": "motimon",
+    "name": "Motimon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Nyaromon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Nyaromon/Nyaromon_Idle.png",
+    "reference_name": "Nyaromon",
+    "slug": "nyaromon",
+    "name": "Nyaromon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Pagumon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Pagumon/Pagumon_Idle.png",
+    "reference_name": "Pagumon",
+    "slug": "pagumon",
+    "name": "Pagumon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Pusurimon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Pusurimon/Pusurimon_Idle.png",
+    "reference_name": null,
+    "slug": "pusurimon",
+    "name": "Pusurimon",
+    "stage": "In-Training",
+    "official_directory": "pusurimon"
+  },
+  {
+    "asset_name": "Sunmon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Sunmon/Sunmon_Idle.png",
+    "reference_name": null,
+    "slug": "sunmon",
+    "name": "Sunmon",
+    "stage": "In-Training",
+    "official_directory": "sunmon"
+  },
+  {
+    "asset_name": "Tanemon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Tanemon/Tanemon_Idle.png",
+    "reference_name": "Tanemon",
+    "slug": "tanemon",
+    "name": "Tanemon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Tokomon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Tokomon/Tokomon_Idle.png",
+    "reference_name": "Tokomon",
+    "slug": "tokomon",
+    "name": "Tokomon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Tsumemon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Tsumemon/Tsumemon_Idle.png",
+    "reference_name": "Tsumemon",
+    "slug": "tsumemon",
+    "name": "Tsumemon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Tsunomon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Tsunomon/Tsunomon_Idle.png",
+    "reference_name": "Tsunomon",
+    "slug": "tsunomon",
+    "name": "Tsunomon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Wanyamon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Wanyamon/Wanyamon_Idle.png",
+    "reference_name": "Wanyamon",
+    "slug": "wanyamon",
+    "name": "Wanyamon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Yokomon",
+    "asset_stage": "In-Training",
+    "sprite_source": "2 In Training/Yokomon/Yokomon_Idle.png",
+    "reference_name": "Yokomon",
+    "slug": "yokomon",
+    "name": "Yokomon",
+    "stage": "In-Training"
+  },
+  {
+    "asset_name": "Agumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Agumon/Agumon_Idle.png",
+    "reference_name": "Agumon",
+    "slug": "agumon",
+    "name": "Agumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "ArcadiamonRookie",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/ArcadiamonRookie/ArcadiamonRookie_Idle.png",
+    "reference_name": "Arcadiamon Rookie",
+    "slug": "arcadiamonrookie",
+    "name": "Arcadiamon Rookie",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Armadillomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Armadillomon/Armadillomon_Idle.png",
+    "reference_name": "Armadillomon",
+    "slug": "armadillomon",
+    "name": "Armadillomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Aruraumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Aruraumon/Aruraumon_Idle.png",
+    "reference_name": null,
+    "slug": "aruraumon",
+    "name": "Aruraumon",
+    "stage": "Rookie",
+    "official_directory": "alraumon"
+  },
+  {
+    "asset_name": "Bearmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Bearmon/Bearmon_Idle.png",
+    "reference_name": null,
+    "slug": "bearmon",
+    "name": "Bearmon",
+    "stage": "Rookie",
+    "official_directory": "bearmon"
+  },
+  {
+    "asset_name": "Betamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Betamon/Betamon_Idle.png",
+    "reference_name": "Betamon",
+    "slug": "betamon",
+    "name": "Betamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Biyomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Biyomon/Biyomon_Idle.png",
+    "reference_name": "Biyomon",
+    "slug": "biyomon",
+    "name": "Biyomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "BlackAgumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/BlackAgumon/BlackAgumon_Idle.png",
+    "reference_name": "Agumon (Blk)",
+    "slug": "blackagumon",
+    "name": "Agumon (Blk)",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "BlackGabumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/BlackGabumon/BlackGabumon_Idle.png",
+    "reference_name": "Gabumon (Blk)",
+    "slug": "blackgabumon",
+    "name": "Gabumon (Blk)",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Candlemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Candlemon/Candlemon_Idle.png",
+    "reference_name": null,
+    "slug": "candlemon",
+    "name": "Candlemon",
+    "stage": "Rookie",
+    "official_directory": "candmon"
+  },
+  {
+    "asset_name": "Chuumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Chuumon/Chuumon_Idle.png",
+    "reference_name": "Chuumon",
+    "slug": "chuumon",
+    "name": "Chuumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Coronamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Coronamon/Coronamon_Idle.png",
+    "reference_name": null,
+    "slug": "coronamon",
+    "name": "Coronamon",
+    "stage": "Rookie",
+    "official_directory": "coronamon"
+  },
+  {
+    "asset_name": "Crabmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Crabmon/Crabmon_Idle.png",
+    "reference_name": null,
+    "slug": "crabmon",
+    "name": "Crabmon",
+    "stage": "Rookie",
+    "official_directory": "ganimon"
+  },
+  {
+    "asset_name": "DemiDevimon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/DemiDevimon/DemiDevimon_Idle.png",
+    "reference_name": "DemiDevimon",
+    "slug": "demidevimon",
+    "name": "DemiDevimon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Dokunemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Dokunemon/Dokunemon_Idle.png",
+    "reference_name": null,
+    "slug": "dokunemon",
+    "name": "Dokunemon",
+    "stage": "Rookie",
+    "official_directory": "dokunemon"
+  },
+  {
+    "asset_name": "Dorumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Dorumon/Dorumon_Idle.png",
+    "reference_name": "Dorumon",
+    "slug": "dorumon",
+    "name": "Dorumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "DotAgumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/DotAgumon/DotAgumon_Idle.png",
+    "reference_name": null,
+    "slug": "dotagumon",
+    "name": "DotAgumon",
+    "stage": "Rookie",
+    "official_directory": "agumon"
+  },
+  {
+    "asset_name": "DotFalcomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/DotFalcomon/DotFalcomon_Idle.png",
+    "reference_name": null,
+    "slug": "dotfalcomon",
+    "name": "DotFalcomon",
+    "stage": "Rookie",
+    "official_directory": "falcomon"
+  },
+  {
+    "asset_name": "Dracmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Dracmon/Dracmon_Idle.png",
+    "reference_name": "Dracmon",
+    "slug": "dracmon",
+    "name": "Dracmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Dracomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Dracomon/Dracomon_Idle.png",
+    "reference_name": "Dracomon",
+    "slug": "dracomon",
+    "name": "Dracomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Elecmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Elecmon/Elecmon_Idle.png",
+    "reference_name": "Elecmon",
+    "slug": "elecmon",
+    "name": "Elecmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Falcomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Falcomon/Falcomon_Idle.png",
+    "reference_name": "Falcomon",
+    "slug": "falcomon",
+    "name": "Falcomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "FanBeemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/FanBeemon/FanBeemon_Idle.png",
+    "reference_name": "FanBeemon",
+    "slug": "fanbeemon",
+    "name": "FanBeemon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Floramon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Floramon/Floramon_Idle.png",
+    "reference_name": null,
+    "slug": "floramon",
+    "name": "Floramon",
+    "stage": "Rookie",
+    "official_directory": "floramon"
+  },
+  {
+    "asset_name": "Gabumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Gabumon/Gabumon_Idle.png",
+    "reference_name": "Gabumon",
+    "slug": "gabumon",
+    "name": "Gabumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Gaomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Gaomon/Gaomon_Idle.png",
+    "reference_name": "Gaomon",
+    "slug": "gaomon",
+    "name": "Gaomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Gazimon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Gazimon/Gazimon_Idle.png",
+    "reference_name": "Gazimon",
+    "slug": "gazimon",
+    "name": "Gazimon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Gizamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Gizamon/Gizamon_Idle.png",
+    "reference_name": null,
+    "slug": "gizamon",
+    "name": "Gizamon",
+    "stage": "Rookie",
+    "official_directory": "gizamon"
+  },
+  {
+    "asset_name": "Goblimon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Goblimon/Goblimon_Idle.png",
+    "reference_name": "Goblimon",
+    "slug": "goblimon",
+    "name": "Goblimon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Gomamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Gomamon/Gomamon_Idle.png",
+    "reference_name": "Gomamon",
+    "slug": "gomamon",
+    "name": "Gomamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Gotsumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Gotsumon/Gotsumon_Idle.png",
+    "reference_name": "Gotsumon",
+    "slug": "gotsumon",
+    "name": "Gotsumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Guilmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Guilmon/Guilmon_Idle.png",
+    "reference_name": "Guilmon",
+    "slug": "guilmon",
+    "name": "Guilmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "GumDramon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/GumDramon/GumDramon_Idle.png",
+    "reference_name": null,
+    "slug": "gumdramon",
+    "name": "GumDramon",
+    "stage": "Rookie",
+    "official_directory": "gumdramon"
+  },
+  {
+    "asset_name": "Hackmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Hackmon/Hackmon_Idle.png",
+    "reference_name": "Hackmon",
+    "slug": "hackmon",
+    "name": "Hackmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Hagurumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Hagurumon/Hagurumon_Idle.png",
+    "reference_name": "Hagurumon",
+    "slug": "hagurumon",
+    "name": "Hagurumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Hawkmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Hawkmon/Hawkmon_Idle.png",
+    "reference_name": "Hawkmon",
+    "slug": "hawkmon",
+    "name": "Hawkmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Herissmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Herissmon/Herissmon_Idle.png",
+    "reference_name": null,
+    "slug": "herissmon",
+    "name": "Herissmon",
+    "stage": "Rookie",
+    "official_directory": "herissmon"
+  },
+  {
+    "asset_name": "Impmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Impmon/Impmon_Idle.png",
+    "reference_name": "Impmon",
+    "slug": "impmon",
+    "name": "Impmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Jazamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Jazamon/Jazamon_Idle.png",
+    "reference_name": null,
+    "slug": "jazamon",
+    "name": "Jazamon",
+    "stage": "Rookie",
+    "official_directory": "jazamon"
+  },
+  {
+    "asset_name": "Kamemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Kamemon/Kamemon_Idle.png",
+    "reference_name": null,
+    "slug": "kamemon",
+    "name": "Kamemon",
+    "stage": "Rookie",
+    "official_directory": "kamemon"
+  },
+  {
+    "asset_name": "Keramon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Keramon/Keramon_Idle.png",
+    "reference_name": "Keramon",
+    "slug": "keramon",
+    "name": "Keramon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Kokuwamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Kokuwamon/Kokuwamon_Idle.png",
+    "reference_name": null,
+    "slug": "kokuwamon",
+    "name": "Kokuwamon",
+    "stage": "Rookie",
+    "official_directory": "kokuwamon"
+  },
+  {
+    "asset_name": "Kudamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Kudamon/Kudamon_Idle.png",
+    "reference_name": "Kudamon",
+    "slug": "kudamon",
+    "name": "Kudamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Kunemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Kunemon/Kunemon_Idle.png",
+    "reference_name": null,
+    "slug": "kunemon",
+    "name": "Kunemon",
+    "stage": "Rookie",
+    "official_directory": "kunemon"
+  },
+  {
+    "asset_name": "Lalamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Lalamon/Lalamon_Idle.png",
+    "reference_name": "Lalamon",
+    "slug": "lalamon",
+    "name": "Lalamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Lopmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Lopmon/Lopmon_Idle.png",
+    "reference_name": "Lopmon",
+    "slug": "lopmon",
+    "name": "Lopmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Lucemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Lucemon/Lucemon_Idle.png",
+    "reference_name": "Lucemon",
+    "slug": "lucemon",
+    "name": "Lucemon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Lunamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Lunamon/Lunamon_Idle.png",
+    "reference_name": "Lunamon",
+    "slug": "lunamon",
+    "name": "Lunamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Monodramon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Monodramon/Monodramon_Idle.png",
+    "reference_name": "Monodramon",
+    "slug": "monodramon",
+    "name": "Monodramon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Muchomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Muchomon/Muchomon_Idle.png",
+    "reference_name": null,
+    "slug": "muchomon",
+    "name": "Muchomon",
+    "stage": "Rookie",
+    "official_directory": "muchomon"
+  },
+  {
+    "asset_name": "Mushroomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Mushroomon/Mushroomon_Idle.png",
+    "reference_name": "Mushroomon",
+    "slug": "mushroomon",
+    "name": "Mushroomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Otamamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Otamamon/Otamamon_Idle.png",
+    "reference_name": "Otamamon",
+    "slug": "otamamon",
+    "name": "Otamamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Palmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Palmon/Palmon_Idle.png",
+    "reference_name": "Palmon",
+    "slug": "palmon",
+    "name": "Palmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Patamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Patamon/Patamon_Idle.png",
+    "reference_name": "Patamon",
+    "slug": "patamon",
+    "name": "Patamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "PawnChessmonBlack",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/PawnChessmonBlack/PawnChessmonBlack_Idle.png",
+    "reference_name": null,
+    "slug": "pawnchessmonblack",
+    "name": "PawnChessmonBlack",
+    "stage": "Rookie",
+    "official_directory": "paunchessmon"
+  },
+  {
+    "asset_name": "PawnChessmonWhite",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/PawnChessmonWhite/PawnChessmonWhite_Idle.png",
+    "reference_name": null,
+    "slug": "pawnchessmonwhite",
+    "name": "PawnChessmonWhite",
+    "stage": "Rookie",
+    "official_directory": "paunchessmon-white"
+  },
+  {
+    "asset_name": "Penguinmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Penguinmon/Penguinmon_Idle.png",
+    "reference_name": null,
+    "slug": "penguinmon",
+    "name": "Penguinmon",
+    "stage": "Rookie",
+    "official_directory": "penmon"
+  },
+  {
+    "asset_name": "Renamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Renamon/Renamon_Idle.png",
+    "reference_name": "Renamon",
+    "slug": "renamon",
+    "name": "Renamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Ryudamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Ryudamon/Ryudamon_Idle.png",
+    "reference_name": "Ryudamon",
+    "slug": "ryudamon",
+    "name": "Ryudamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Salamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Salamon/Salamon_Idle.png",
+    "reference_name": "Salamon",
+    "slug": "salamon",
+    "name": "Salamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "ShadowToyAgumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/ShadowToyAgumon/ShadowToyAgumon_Idle.png",
+    "reference_name": null,
+    "slug": "shadowtoyagumon",
+    "name": "ShadowToyAgumon",
+    "stage": "Rookie",
+    "official_directory": "toyagumon_black"
+  },
+  {
+    "asset_name": "Shamanmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Shamanmon/Shamanmon_Idle.png",
+    "reference_name": null,
+    "slug": "shamanmon",
+    "name": "Shamanmon",
+    "stage": "Rookie",
+    "official_directory": "shamamon"
+  },
+  {
+    "asset_name": "Shoutmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Shoutmon/Shoutmon_Idle.png",
+    "reference_name": "Shoutmon",
+    "slug": "shoutmon",
+    "name": "Shoutmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "SistermonBlanc",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/SistermonBlanc/SistermonBlanc_Idle.png",
+    "reference_name": "Sistermon Blanc",
+    "slug": "sistermonblanc",
+    "name": "Sistermon Blanc",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "SistermonBlancAwakened",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/SistermonBlancAwakened/SistermonBlancAwakened_Idle.png",
+    "reference_name": "Sistermon B (Awake.)",
+    "slug": "sistermonblancawakened",
+    "name": "Sistermon B (Awake.)",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "SnowAgumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/SnowAgumon/SnowAgumon_Idle.png",
+    "reference_name": null,
+    "slug": "snowagumon",
+    "name": "SnowAgumon",
+    "stage": "Rookie",
+    "official_directory": "yukiagumon"
+  },
+  {
+    "asset_name": "SnowGoblimon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/SnowGoblimon/SnowGoblimon_Idle.png",
+    "reference_name": null,
+    "slug": "snowgoblimon",
+    "name": "SnowGoblimon",
+    "stage": "Rookie",
+    "official_directory": "snowgoburimon"
+  },
+  {
+    "asset_name": "Solarmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Solarmon/Solarmon_Idle.png",
+    "reference_name": "Solarmon",
+    "slug": "solarmon",
+    "name": "Solarmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Syakomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Syakomon/Syakomon_Idle.png",
+    "reference_name": "Syakomon",
+    "slug": "syakomon",
+    "name": "Syakomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Tapirmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Tapirmon/Tapirmon_Idle.png",
+    "reference_name": null,
+    "slug": "tapirmon",
+    "name": "Tapirmon",
+    "stage": "Rookie",
+    "official_directory": "bakumon"
+  },
+  {
+    "asset_name": "Tentomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Tentomon/Tentomon_Idle.png",
+    "reference_name": "Tentomon",
+    "slug": "tentomon",
+    "name": "Tentomon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Terriermon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Terriermon/Terriermon_Idle.png",
+    "reference_name": "Terriermon",
+    "slug": "terriermon",
+    "name": "Terriermon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "ToyAgumon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/ToyAgumon/ToyAgumon_Idle.png",
+    "reference_name": "ToyAgumon",
+    "slug": "toyagumon",
+    "name": "ToyAgumon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Tsukaimon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Tsukaimon/Tsukaimon_Idle.png",
+    "reference_name": null,
+    "slug": "tsukaimon",
+    "name": "Tsukaimon",
+    "stage": "Rookie",
+    "official_directory": "tukaimon"
+  },
+  {
+    "asset_name": "Veemon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Veemon/Veemon_Idle.png",
+    "reference_name": "Veemon",
+    "slug": "veemon",
+    "name": "Veemon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Vorvomon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Vorvomon/Vorvomon_Idle.png",
+    "reference_name": null,
+    "slug": "vorvomon",
+    "name": "Vorvomon",
+    "stage": "Rookie",
+    "official_directory": "vorvomon"
+  },
+  {
+    "asset_name": "Wormmon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Wormmon/Wormmon_Idle.png",
+    "reference_name": "Wormmon",
+    "slug": "wormmon",
+    "name": "Wormmon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Zubamon",
+    "asset_stage": "Rookie",
+    "sprite_source": "3 Rookie/Zubamon/Zubamon_Idle.png",
+    "reference_name": "Zubamon",
+    "slug": "zubamon",
+    "name": "Zubamon",
+    "stage": "Rookie"
+  },
+  {
+    "asset_name": "Agunimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Agunimon/Agunimon_Idle.png",
+    "reference_name": "Agunimon",
+    "slug": "agunimon",
+    "name": "Agunimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Airdramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Airdramon/Airdramon_Idle.png",
+    "reference_name": "Airdramon",
+    "slug": "airdramon",
+    "name": "Airdramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Akatorimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Akatorimon/Akatorimon_Idle.png",
+    "reference_name": null,
+    "slug": "akatorimon",
+    "name": "Akatorimon",
+    "stage": "Champion",
+    "official_directory": "akatorimon"
+  },
+  {
+    "asset_name": "Angemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Angemon/Angemon_Idle.png",
+    "reference_name": "Angemon",
+    "slug": "angemon",
+    "name": "Angemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Ankylomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Ankylomon/Ankylomon_Idle.png",
+    "reference_name": "Ankylomon",
+    "slug": "ankylomon",
+    "name": "Ankylomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Apemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Apemon/Apemon_Primary.png",
+    "reference_name": null,
+    "slug": "apemon",
+    "name": "Apemon",
+    "stage": "Champion",
+    "official_directory": "hanumon"
+  },
+  {
+    "asset_name": "Aquilamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Aquilamon/Aquilamon_Idle.png",
+    "reference_name": "Aquilamon",
+    "slug": "aquilamon",
+    "name": "Aquilamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "ArcadiamonChampion",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/ArcadiamonChampion/ArcadiamonChampion_Idle.png",
+    "reference_name": "Arcadiamon Champion",
+    "slug": "arcadiamonchampion",
+    "name": "Arcadiamon Champion",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Arresterdramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Arresterdramon/Arresterdramon_Idle.png",
+    "reference_name": null,
+    "slug": "arresterdramon",
+    "name": "Arresterdramon",
+    "stage": "Champion",
+    "official_directory": "arresterdramon"
+  },
+  {
+    "asset_name": "Axemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Axemon/Axemon_Primary.png",
+    "reference_name": null,
+    "slug": "axemon",
+    "name": "Axemon",
+    "stage": "Champion",
+    "official_directory": "deadlyaxemon"
+  },
+  {
+    "asset_name": "Bakemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Bakemon/Bakemon_Idle.png",
+    "reference_name": "Bakemon",
+    "slug": "bakemon",
+    "name": "Bakemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "BaoHuckmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/BaoHuckmon/BaoHuckmon_Idle.png",
+    "reference_name": "BaoHuckmon",
+    "slug": "baohuckmon",
+    "name": "BaoHuckmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Birdramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Birdramon/Birdramon_Idle.png",
+    "reference_name": "Birdramon",
+    "slug": "birdramon",
+    "name": "Birdramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "BomberNanimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/BomberNanimon/BomberNanimon_Idle.png",
+    "reference_name": null,
+    "slug": "bombernanimon",
+    "name": "BomberNanimon",
+    "stage": "Champion",
+    "official_directory": "bombernanimon"
+  },
+  {
+    "asset_name": "Buraimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Buraimon/Buraimon_Primary.png",
+    "reference_name": null,
+    "slug": "buraimon",
+    "name": "Buraimon",
+    "stage": "Champion",
+    "official_directory": "buraimon"
+  },
+  {
+    "asset_name": "Centarumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Centarumon/Centarumon_Primary.png",
+    "reference_name": null,
+    "slug": "centarumon",
+    "name": "Centarumon",
+    "stage": "Champion",
+    "official_directory": "centalmon"
+  },
+  {
+    "asset_name": "Chrysalimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Chrysalimon/Chrysalimon_Idle.png",
+    "reference_name": "Kurisarimon",
+    "slug": "chrysalimon",
+    "name": "Kurisarimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Clockmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Clockmon/Clockmon_Idle.png",
+    "reference_name": "Clockmon",
+    "slug": "clockmon",
+    "name": "Clockmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Coelamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Coelamon/Coelamon_Idle.png",
+    "reference_name": "Coelamon",
+    "slug": "coelamon",
+    "name": "Coelamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "CoredramonBlue",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/CoredramonBlue/CoredramonBlue_Idle.png",
+    "reference_name": "Coredramon (Blue)",
+    "slug": "coredramonblue",
+    "name": "Coredramon (Blue)",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "CoredramonGreen",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/CoredramonGreen/CoredramonGreen_Idle.png",
+    "reference_name": "Coredramon (Green)",
+    "slug": "coredramongreen",
+    "name": "Coredramon (Green)",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Cyclonemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Cyclonemon/Cyclonemon_Idle.png",
+    "reference_name": "Cyclonemon",
+    "slug": "cyclonemon",
+    "name": "Cyclonemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "DarkLizardmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/DarkLizardmon/DarkLizardmon_Primary.png",
+    "reference_name": null,
+    "slug": "darklizardmon",
+    "name": "DarkLizardmon",
+    "stage": "Champion",
+    "official_directory": "darklizamon"
+  },
+  {
+    "asset_name": "DarkTyrannomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/DarkTyrannomon/DarkTyrannomon_Primary.png",
+    "reference_name": null,
+    "slug": "darktyrannomon",
+    "name": "DarkTyrannomon",
+    "stage": "Champion",
+    "official_directory": "darktyranomon"
+  },
+  {
+    "asset_name": "Deputymon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Deputymon/Deputymon_Primary.png",
+    "reference_name": null,
+    "slug": "deputymon",
+    "name": "Deputymon",
+    "stage": "Champion",
+    "official_directory": "revolmon"
+  },
+  {
+    "asset_name": "Devidramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Devidramon/Devidramon_Primary.png",
+    "reference_name": null,
+    "slug": "devidramon",
+    "name": "Devidramon",
+    "stage": "Champion",
+    "official_directory": "devidramon"
+  },
+  {
+    "asset_name": "IceDevimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/DevimonIceDevimon/IceDevimon_Idle.png",
+    "reference_name": "IceDevimon",
+    "slug": "icedevimon",
+    "name": "IceDevimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Devimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/DevimonIceDevimon/Devimon_Idle.png",
+    "reference_name": "Devimon",
+    "slug": "devimon",
+    "name": "Devimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Diatrymon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Diatrymon/Diatrymon_Primary.png",
+    "reference_name": null,
+    "slug": "diatrymon",
+    "name": "Diatrymon",
+    "stage": "Champion",
+    "official_directory": "diatrymon"
+  },
+  {
+    "asset_name": "Dinohyumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Dinohyumon/Dinohyumon_Idle.png",
+    "reference_name": null,
+    "slug": "dinohyumon",
+    "name": "Dinohyumon",
+    "stage": "Champion",
+    "official_directory": "dinohumon"
+  },
+  {
+    "asset_name": "Dokugumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Dokugumon/Dokugumon_Primary.png",
+    "reference_name": null,
+    "slug": "dokugumon",
+    "name": "Dokugumon",
+    "stage": "Champion",
+    "official_directory": "dokugumon"
+  },
+  {
+    "asset_name": "Dolphmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Dolphmon/Dolphmon_Primary.png",
+    "reference_name": null,
+    "slug": "dolphmon",
+    "name": "Dolphmon",
+    "stage": "Champion",
+    "official_directory": "rukamon"
+  },
+  {
+    "asset_name": "Dorugamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Dorugamon/Dorugamon_Idle.png",
+    "reference_name": "Dorugamon",
+    "slug": "dorugamon",
+    "name": "Dorugamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Dorulumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Dorulumon/Dorulumon_Primary.png",
+    "reference_name": null,
+    "slug": "dorulumon",
+    "name": "Dorulumon",
+    "stage": "Champion",
+    "official_directory": "dorulumon"
+  },
+  {
+    "asset_name": "Drimogemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Drimogemon/Drimogemon_Primary.png",
+    "reference_name": null,
+    "slug": "drimogemon",
+    "name": "Drimogemon",
+    "stage": "Champion",
+    "official_directory": "drimogemon"
+  },
+  {
+    "asset_name": "Ebidramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Ebidramon/Ebidramon_Primary.png",
+    "reference_name": null,
+    "slug": "ebidramon",
+    "name": "Ebidramon",
+    "stage": "Champion",
+    "official_directory": "ebidramon"
+  },
+  {
+    "asset_name": "ExVeemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/ExVeemon/ExVeemon_Idle.png",
+    "reference_name": "ExVeemon",
+    "slug": "exveemon",
+    "name": "ExVeemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Filmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Filmon/Filmon_Idle.png",
+    "reference_name": null,
+    "slug": "filmon",
+    "name": "Filmon",
+    "stage": "Champion",
+    "official_directory": "filmon"
+  },
+  {
+    "asset_name": "Firamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Firamon/Firamon_Primary.png",
+    "reference_name": null,
+    "slug": "firamon",
+    "name": "Firamon",
+    "stage": "Champion",
+    "official_directory": "firamon"
+  },
+  {
+    "asset_name": "Flarerizamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Flarerizamon/Flarerizamon_Primary.png",
+    "reference_name": null,
+    "slug": "flarerizamon",
+    "name": "Flarerizamon",
+    "stage": "Champion",
+    "official_directory": "flarelizamon"
+  },
+  {
+    "asset_name": "Flymon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Flymon/Flymon_Primary.png",
+    "reference_name": null,
+    "slug": "flymon",
+    "name": "Flymon",
+    "stage": "Champion",
+    "official_directory": "flymon"
+  },
+  {
+    "asset_name": "Frigimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Frigimon/Frigimon_Idle.png",
+    "reference_name": "Frigimon",
+    "slug": "frigimon",
+    "name": "Frigimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Fugamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Fugamon/Fugamon_Idle.png",
+    "reference_name": null,
+    "slug": "fugamon",
+    "name": "Fugamon",
+    "stage": "Champion",
+    "official_directory": "fugamon"
+  },
+  {
+    "asset_name": "Gaogamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Gaogamon/Gaogamon_Idle.png",
+    "reference_name": "GaoGamon",
+    "slug": "gaogamon",
+    "name": "GaoGamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Gargomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Gargomon/Gargomon_Idle.png",
+    "reference_name": "Gargomon",
+    "slug": "gargomon",
+    "name": "Gargomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Garurumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Garurumon/Garurumon_Idle.png",
+    "reference_name": "Garurumon",
+    "slug": "garurumon",
+    "name": "Garurumon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Gatomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/GatomonBlackGatomon/Gatomon_Idle.png",
+    "reference_name": "Gatomon",
+    "slug": "gatomon",
+    "name": "Gatomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Gawappamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Gawappamon/Gawappamon_Primary.png",
+    "reference_name": null,
+    "slug": "gawappamon",
+    "name": "Gawappamon",
+    "stage": "Champion",
+    "official_directory": "gawappamon"
+  },
+  {
+    "asset_name": "Gekomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Gekomon/Gekomon_Idle.png",
+    "reference_name": "Gekomon",
+    "slug": "gekomon",
+    "name": "Gekomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "GeoGreymon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/GeoGreymon/GeoGreymon_Idle.png",
+    "reference_name": "GeoGreymon",
+    "slug": "geogreymon",
+    "name": "GeoGreymon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Geremon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Geremon/Geremon_Primary.png",
+    "reference_name": "Geremon",
+    "slug": "geremon",
+    "name": "Geremon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Gesomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Gesomon/Gesomon_Primary.png",
+    "reference_name": null,
+    "slug": "gesomon",
+    "name": "Gesomon",
+    "stage": "Champion",
+    "official_directory": "gesomon"
+  },
+  {
+    "asset_name": "Ginryumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Ginryumon/Ginryumon_Idle.png",
+    "reference_name": "Ginryumon",
+    "slug": "ginryumon",
+    "name": "Ginryumon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "GoldNumemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/GoldNumemon/GoldNumemon_Idle.png",
+    "reference_name": "GoldNumemon",
+    "slug": "goldnumemon",
+    "name": "GoldNumemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Golemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Golemon/Golemon_Idle.png",
+    "reference_name": "Golemon",
+    "slug": "golemon",
+    "name": "Golemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Greymon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Greymon/Greymon_Idle.png",
+    "reference_name": "Greymon",
+    "slug": "greymon",
+    "name": "Greymon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "GreymonBlue",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/GreymonBlue/GreymonBlue_Idle.png",
+    "reference_name": "Greymon (Blue)",
+    "slug": "greymonblue",
+    "name": "Greymon (Blue)",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Grizzlymon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Grizzlymon/Grizzlymon_Idle.png",
+    "reference_name": null,
+    "slug": "grizzlymon",
+    "name": "Grizzlymon",
+    "stage": "Champion",
+    "official_directory": "gryzmon"
+  },
+  {
+    "asset_name": "Growlmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Growlmon/Growlmon_Idle.png",
+    "reference_name": "Growlmon",
+    "slug": "growlmon",
+    "name": "Growlmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Guardromon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Guardromon/Guardromon_Idle.png",
+    "reference_name": "Guardromon",
+    "slug": "guardromon",
+    "name": "Guardromon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Hookmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Hookmon/Hookmon_Primary.png",
+    "reference_name": null,
+    "slug": "hookmon",
+    "name": "Hookmon",
+    "stage": "Champion",
+    "official_directory": "hookmon"
+  },
+  {
+    "asset_name": "Hyogamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Hyogamon/Hyogamon_Primary.png",
+    "reference_name": null,
+    "slug": "hyogamon",
+    "name": "Hyogamon",
+    "stage": "Champion",
+    "official_directory": "hyougamon"
+  },
+  {
+    "asset_name": "Icemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Icemon/Icemon_Idle.png",
+    "reference_name": "Icemon",
+    "slug": "icemon",
+    "name": "Icemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Ikkakumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Ikkakumon/Ikkakumon_Idle.png",
+    "reference_name": "Ikkakumon",
+    "slug": "ikkakumon",
+    "name": "Ikkakumon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Jazardmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Jazardmon/Jazardmon_Idle.png",
+    "reference_name": null,
+    "slug": "jazardmon",
+    "name": "Jazardmon",
+    "stage": "Champion",
+    "official_directory": "jazardmon"
+  },
+  {
+    "asset_name": "JungleMojyamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/JungleMojyamon/JungleMojyamon_Primary.png",
+    "reference_name": null,
+    "slug": "junglemojyamon",
+    "name": "JungleMojyamon",
+    "stage": "Champion",
+    "official_directory": "junglemojamon"
+  },
+  {
+    "asset_name": "Kabuterimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Kabuterimon/Kabuterimon_Idle.png",
+    "reference_name": "Kabuterimon",
+    "slug": "kabuterimon",
+    "name": "Kabuterimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "KaratsukiNumemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/KaratsukiNumemon/KaratsukiNumemon_Primary.png",
+    "reference_name": "ShellNumemon",
+    "slug": "karatsukinumemon",
+    "name": "ShellNumemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Kiwimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Kiwimon/Kiwimon_Primary.png",
+    "reference_name": null,
+    "slug": "kiwimon",
+    "name": "Kiwimon",
+    "stage": "Champion",
+    "official_directory": "kiwimon"
+  },
+  {
+    "asset_name": "KnightChessmonBlack",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/KnightChessmonBlack/KnightChessmonBlack_Primary.png",
+    "reference_name": null,
+    "slug": "knightchessmonblack",
+    "name": "KnightChessmonBlack",
+    "stage": "Champion",
+    "official_directory": "knightchessmon_black"
+  },
+  {
+    "asset_name": "KnightChessmonWhite",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/KnightChessmonWhite/KnightChessmonWhite_Primary.png",
+    "reference_name": null,
+    "slug": "knightchessmonwhite",
+    "name": "KnightChessmonWhite",
+    "stage": "Champion",
+    "official_directory": "knightchessmon"
+  },
+  {
+    "asset_name": "Kogamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Kogamon/Kogamon_Primary.png",
+    "reference_name": null,
+    "slug": "kogamon",
+    "name": "Kogamon",
+    "stage": "Champion",
+    "official_directory": "kougamon"
+  },
+  {
+    "asset_name": "Kokatorimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Kokatorimon/Kokatorimon_Idle.png",
+    "reference_name": null,
+    "slug": "kokatorimon",
+    "name": "Kokatorimon",
+    "stage": "Champion",
+    "official_directory": "cockatrimon"
+  },
+  {
+    "asset_name": "Kuwagamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Kuwagamon/Kuwagamon_Idle.png",
+    "reference_name": "Kuwagamon",
+    "slug": "kuwagamon",
+    "name": "Kuwagamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Kyubimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Kyubimon/Kyubimon_Idle.png",
+    "reference_name": "Kyubimon",
+    "slug": "kyubimon",
+    "name": "Kyubimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Lavorvomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Lavorvomon/Lavorvomon_Idle.png",
+    "reference_name": null,
+    "slug": "lavorvomon",
+    "name": "Lavorvomon",
+    "stage": "Champion",
+    "official_directory": "lavorvomon"
+  },
+  {
+    "asset_name": "Lekismon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Lekismon/Lekismon_Idle.png",
+    "reference_name": "Lekismon",
+    "slug": "lekismon",
+    "name": "Lekismon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Leomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Leomon/Leomon_Idle.png",
+    "reference_name": "Leomon",
+    "slug": "leomon",
+    "name": "Leomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Lobomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Lobomon/Lobomon_Idle.png",
+    "reference_name": "Lobomon",
+    "slug": "lobomon",
+    "name": "Lobomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "MadLeomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/MadLeomon/MadLeomon_Primary.png",
+    "reference_name": null,
+    "slug": "madleomon",
+    "name": "MadLeomon",
+    "stage": "Champion",
+    "official_directory": "madleomon"
+  },
+  {
+    "asset_name": "Meicoomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Meicoomon/Meicoomon_Idle.png",
+    "reference_name": null,
+    "slug": "meicoomon",
+    "name": "Meicoomon",
+    "stage": "Champion",
+    "official_directory": "meicoomon"
+  },
+  {
+    "asset_name": "Mekanorimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Mekanorimon/Mekanorimon_Idle.png",
+    "reference_name": null,
+    "slug": "mekanorimon",
+    "name": "Mekanorimon",
+    "stage": "Champion",
+    "official_directory": "mechanorimon"
+  },
+  {
+    "asset_name": "Meramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Meramon/Meramon_Idle.png",
+    "reference_name": "Meramon",
+    "slug": "meramon",
+    "name": "Meramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Minotarumon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Minotarumon/Minotarumon_Primary.png",
+    "reference_name": null,
+    "slug": "minotarumon",
+    "name": "Minotarumon",
+    "stage": "Champion",
+    "official_directory": "minotaurmon"
+  },
+  {
+    "asset_name": "Mojyamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Mojyamon/Mojyamon_Primary.png",
+    "reference_name": null,
+    "slug": "mojyamon",
+    "name": "Mojyamon",
+    "stage": "Champion",
+    "official_directory": "mojyamon"
+  },
+  {
+    "asset_name": "Monochromon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Monochromon/Monochromon_Primary.png",
+    "reference_name": "Monochromon",
+    "slug": "monochromon",
+    "name": "Monochromon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "MoriShellmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/MoriShellmon/MoriShellmon_Primary.png",
+    "reference_name": null,
+    "slug": "morishellmon",
+    "name": "MoriShellmon",
+    "stage": "Champion",
+    "official_directory": "morishellmon"
+  },
+  {
+    "asset_name": "MudFrigimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/MudFrigimon/MudFrigimon_Primary.png",
+    "reference_name": "MudFrigimon",
+    "slug": "mudfrigimon",
+    "name": "MudFrigimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Musyamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Musyamon/Musyamon_Primary.png",
+    "reference_name": null,
+    "slug": "musyamon",
+    "name": "Musyamon",
+    "stage": "Champion",
+    "official_directory": "musyamon"
+  },
+  {
+    "asset_name": "Nanimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Nanimon/Nanimon_Primary.png",
+    "reference_name": "Nanimon",
+    "slug": "nanimon",
+    "name": "Nanimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Ninjamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Ninjamon/Ninjamon_Primary.png",
+    "reference_name": null,
+    "slug": "ninjamon",
+    "name": "Ninjamon",
+    "stage": "Champion",
+    "official_directory": "igamon"
+  },
+  {
+    "asset_name": "NiseDrimogemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/NiseDrimogemon/NiseDrimogemon_Primary.png",
+    "reference_name": null,
+    "slug": "nisedrimogemon",
+    "name": "NiseDrimogemon",
+    "stage": "Champion",
+    "official_directory": "nisedrimogemon"
+  },
+  {
+    "asset_name": "Numemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Numemon/Numemon_Primary.png",
+    "reference_name": "Numemon",
+    "slug": "numemon",
+    "name": "Numemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Octomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Octomon/Octomon_Primary.png",
+    "reference_name": null,
+    "slug": "octomon",
+    "name": "Octomon",
+    "stage": "Champion",
+    "official_directory": "octmon"
+  },
+  {
+    "asset_name": "Ogremon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Ogremon/Ogremon_Idle.png",
+    "reference_name": "Ogremon",
+    "slug": "ogremon",
+    "name": "Ogremon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Omekamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Omekamon/Omekamon_Primary.png",
+    "reference_name": null,
+    "slug": "omekamon",
+    "name": "Omekamon",
+    "stage": "Champion",
+    "official_directory": "omekamon"
+  },
+  {
+    "asset_name": "Peckmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Peckmon/Peckmon_Primary.png",
+    "reference_name": "Peckmon",
+    "slug": "peckmon",
+    "name": "Peckmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "PlatinumSukamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/PlatinumSukamon/PlatinumSukamon_Primary.png",
+    "reference_name": "PlatinumSukamon",
+    "slug": "platinumsukamon",
+    "name": "PlatinumSukamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Raremon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Raremon/Raremon_Primary.png",
+    "reference_name": "Raremon",
+    "slug": "raremon",
+    "name": "Raremon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "RedVegiemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/RedVegiemon/RedVegiemon_Primary.png",
+    "reference_name": null,
+    "slug": "redvegiemon",
+    "name": "RedVegiemon",
+    "stage": "Champion",
+    "official_directory": "redvegimon"
+  },
+  {
+    "asset_name": "Reppamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Reppamon/Reppamon_Primary.png",
+    "reference_name": "Reppamon",
+    "slug": "reppamon",
+    "name": "Reppamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Reptiledramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Reptiledramon/Reptiledramon_Primary.png",
+    "reference_name": "Raptordramon",
+    "slug": "reptiledramon",
+    "name": "Raptordramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Roachmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Roachmon/Roachmon_Primary.png",
+    "reference_name": null,
+    "slug": "roachmon",
+    "name": "Roachmon",
+    "stage": "Champion",
+    "official_directory": "gokimon"
+  },
+  {
+    "asset_name": "Saberdramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Saberdramon/Saberdramon_Primary.png",
+    "reference_name": null,
+    "slug": "saberdramon",
+    "name": "Saberdramon",
+    "stage": "Champion",
+    "official_directory": "saberdramon"
+  },
+  {
+    "asset_name": "SandYanmamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/SandYanmamon/SandYanmamon_Primary.png",
+    "reference_name": null,
+    "slug": "sandyanmamon",
+    "name": "SandYanmamon",
+    "stage": "Champion",
+    "official_directory": "sandyammamon"
+  },
+  {
+    "asset_name": "Sangloupmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Sangloupmon/Sangloupmon_Primary.png",
+    "reference_name": "Sangloupmon",
+    "slug": "sangloupmon",
+    "name": "Sangloupmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Seadramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Seadramon/Seadramon_Idle.png",
+    "reference_name": "Seadramon",
+    "slug": "seadramon",
+    "name": "Seadramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Seasarmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Seasarmon/Seasarmon_Primary.png",
+    "reference_name": null,
+    "slug": "seasarmon",
+    "name": "Seasarmon",
+    "stage": "Champion",
+    "official_directory": "siesamon"
+  },
+  {
+    "asset_name": "Shellmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Shellmon/Shellmon_Primary.png",
+    "reference_name": null,
+    "slug": "shellmon",
+    "name": "Shellmon",
+    "stage": "Champion",
+    "official_directory": "shellmon"
+  },
+  {
+    "asset_name": "Snimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Snimon/Snimon_Primary.png",
+    "reference_name": null,
+    "slug": "snimon",
+    "name": "Snimon",
+    "stage": "Champion",
+    "official_directory": "snimon"
+  },
+  {
+    "asset_name": "Sorcermon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Sorcermon/Sorcermon_Primary.png",
+    "reference_name": "Socerimon",
+    "slug": "sorcermon",
+    "name": "Socerimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Starmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Starmon/Starmon_Primary.png",
+    "reference_name": "Starmon",
+    "slug": "starmon",
+    "name": "Starmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Stingmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Stingmon/Stingmon_Primary.png",
+    "reference_name": "Stingmon",
+    "slug": "stingmon",
+    "name": "Stingmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Strikedramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Strikedramon/Strikedramon_Primary.png",
+    "reference_name": "Strikedramon",
+    "slug": "strikedramon",
+    "name": "Strikedramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Sukamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Sukamon/Sukamon_Idle.png",
+    "reference_name": "Sukamon",
+    "slug": "sukamon",
+    "name": "Sukamon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Sunflowmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Sunflowmon/Sunflowmon_Primary.png",
+    "reference_name": "Sunflowmon",
+    "slug": "sunflowmon",
+    "name": "Sunflowmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Tankmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Tankmon/Tankmon_Primary.png",
+    "reference_name": "Tankmon",
+    "slug": "tankmon",
+    "name": "Tankmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Thundermon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Thundermon/Thundermon_Primary.png",
+    "reference_name": null,
+    "slug": "thundermon",
+    "name": "Thundermon",
+    "stage": "Champion",
+    "official_directory": "thunderballmon"
+  },
+  {
+    "asset_name": "Togemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Togemon/Togemon_Primary.png",
+    "reference_name": "Togemon",
+    "slug": "togemon",
+    "name": "Togemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Tortomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Tortomon/Tortomon_Primary.png",
+    "reference_name": null,
+    "slug": "tortomon",
+    "name": "Tortomon",
+    "stage": "Champion",
+    "official_directory": "tortamon"
+  },
+  {
+    "asset_name": "Troopmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Troopmon/Troopmon_Primary.png",
+    "reference_name": null,
+    "slug": "troopmon",
+    "name": "Troopmon",
+    "stage": "Champion",
+    "official_directory": "troopmon"
+  },
+  {
+    "asset_name": "Tyrannomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Tyrannomon/Tyrannomon_Idle.png",
+    "reference_name": "Tyrannomon",
+    "slug": "tyrannomon",
+    "name": "Tyrannomon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Unimon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Unimon/Unimon_Primary.png",
+    "reference_name": "Unimon",
+    "slug": "unimon",
+    "name": "Unimon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Veedramon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Veedramon/Veedramon_Primary.png",
+    "reference_name": "Veedramon",
+    "slug": "veedramon",
+    "name": "Veedramon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Vegiemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Vegiemon/Vegiemon_Idle.png",
+    "reference_name": "Vegiemon",
+    "slug": "vegiemon",
+    "name": "Vegiemon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Vilemon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Vilemon/Vilemon_Primary.png",
+    "reference_name": null,
+    "slug": "vilemon",
+    "name": "Vilemon",
+    "stage": "Champion",
+    "official_directory": "evilmon"
+  },
+  {
+    "asset_name": "Weedmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Weedmon/Weedmon_Primary.png",
+    "reference_name": null,
+    "slug": "weedmon",
+    "name": "Weedmon",
+    "stage": "Champion",
+    "official_directory": "zassoumon"
+  },
+  {
+    "asset_name": "Wendigomon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Wendigomon/Wendigomon_Primary.png",
+    "reference_name": null,
+    "slug": "wendigomon",
+    "name": "Wendigomon",
+    "stage": "Champion",
+    "official_directory": "wendimon"
+  },
+  {
+    "asset_name": "Wizardmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Wizardmon/Wizardmon_Primary.png",
+    "reference_name": "Wizardmon",
+    "slug": "wizardmon",
+    "name": "Wizardmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Woodmon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Woodmon/Woodmon_Primary.png",
+    "reference_name": "Woodmon",
+    "slug": "woodmon",
+    "name": "Woodmon",
+    "stage": "Champion"
+  },
+  {
+    "asset_name": "Yanmamon",
+    "asset_stage": "Champion",
+    "sprite_source": "4 Champion/Yanmamon/Yanmamon_Primary.png",
+    "reference_name": null,
+    "slug": "yanmamon",
+    "name": "Yanmamon",
+    "stage": "Champion",
+    "official_directory": "yammamon"
+  },
+  {
+    "asset_name": "AeroVeedramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/AeroVeedramon/AeroVeedramon_Primary.png",
+    "reference_name": "AeroVeedramon",
+    "slug": "aeroveedramon",
+    "name": "AeroVeedramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Andromon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Andromon/Andromon_Primary.png",
+    "reference_name": "Andromon",
+    "slug": "andromon",
+    "name": "Andromon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Angewomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Angewomon/Angewomon_Primary.png",
+    "reference_name": "Angewomon",
+    "slug": "angewomon",
+    "name": "Angewomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "AntylamonGood",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/AntylamonGood/AntylamonGood_Primary.png",
+    "reference_name": "Antylamon",
+    "slug": "antylamongood",
+    "name": "Antylamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "ArgomonUltimate",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/ArgomonUltimate/ArgomonUltimate_Primary.png",
+    "reference_name": null,
+    "slug": "argomonultimate",
+    "name": "ArgomonUltimate",
+    "stage": "Ultimate",
+    "official_directory": "algomon-ultimate"
+  },
+  {
+    "asset_name": "Arukenimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Arukenimon/Arukenimon_Primary.png",
+    "reference_name": null,
+    "slug": "arukenimon",
+    "name": "Arukenimon",
+    "stage": "Ultimate",
+    "official_directory": "archnemon"
+  },
+  {
+    "asset_name": "AxeKnightmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/AxeKnightmon/AxeKnightmon_Primary.png",
+    "reference_name": null,
+    "slug": "axeknightmon",
+    "name": "AxeKnightmon",
+    "stage": "Ultimate",
+    "official_directory": "darkknightmon"
+  },
+  {
+    "asset_name": "Beastmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Beastmon/Beastmon_Primary.png",
+    "reference_name": null,
+    "slug": "beastmon",
+    "name": "Beastmon",
+    "stage": "Ultimate",
+    "official_directory": "bastemon"
+  },
+  {
+    "asset_name": "BigMamemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/BigMamemon/BigMamemon_Primary.png",
+    "reference_name": null,
+    "slug": "bigmamemon",
+    "name": "BigMamemon",
+    "stage": "Ultimate",
+    "official_directory": "bigmamemon"
+  },
+  {
+    "asset_name": "BishopChessmonWhite",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/BishopChessmonWhite/BishopChessmonWhite_Primary.png",
+    "reference_name": null,
+    "slug": "bishopchessmonwhite",
+    "name": "BishopChessmonWhite",
+    "stage": "Ultimate",
+    "official_directory": "bishopchessmon"
+  },
+  {
+    "asset_name": "BlackRapidmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/BlackRapidmon/BlackRapidmon_Primary.png",
+    "reference_name": null,
+    "slug": "blackrapidmon",
+    "name": "BlackRapidmon",
+    "stage": "Ultimate",
+    "official_directory": "blackrapidmon"
+  },
+  {
+    "asset_name": "BlackWarGrowlmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/BlackWarGrowlmon/BlackWarGrowlmon_Primary.png",
+    "reference_name": null,
+    "slug": "blackwargrowlmon",
+    "name": "BlackWarGrowlmon",
+    "stage": "Ultimate",
+    "official_directory": "blackmegalogrowmon"
+  },
+  {
+    "asset_name": "Blossomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Blossomon/Blossomon_Primary.png",
+    "reference_name": null,
+    "slug": "blossomon",
+    "name": "Blossomon",
+    "stage": "Ultimate",
+    "official_directory": "blossomon"
+  },
+  {
+    "asset_name": "BlueMeramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/BlueMeramon/BlueMeramon_Primary.png",
+    "reference_name": "BlueMeramon",
+    "slug": "bluemeramon",
+    "name": "BlueMeramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Brachiomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Brachiomon/Brachiomon_Primary.png",
+    "reference_name": null,
+    "slug": "brachiomon",
+    "name": "Brachiomon",
+    "stage": "Ultimate",
+    "official_directory": "brachiomon"
+  },
+  {
+    "asset_name": "Butenmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Butenmon/Butenmon_Primary.png",
+    "reference_name": null,
+    "slug": "butenmon",
+    "name": "Butenmon",
+    "stage": "Ultimate",
+    "official_directory": "butenmon"
+  },
+  {
+    "asset_name": "Cerberumon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Cerberumon/Cerberumon_Primary.png",
+    "reference_name": null,
+    "slug": "cerberumon",
+    "name": "Cerberumon",
+    "stage": "Ultimate",
+    "official_directory": "cerberumon"
+  },
+  {
+    "asset_name": "Cherrymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Cherrymon/Cherrymon_Primary.png",
+    "reference_name": "Cherrymon",
+    "slug": "cherrymon",
+    "name": "Cherrymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Chirinmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Chirinmon/Chirinmon_Primary.png",
+    "reference_name": "Chirinmon",
+    "slug": "chirinmon",
+    "name": "Chirinmon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Crescemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Crescemon/Crescemon_Primary.png",
+    "reference_name": "Crescemon",
+    "slug": "crescemon",
+    "name": "Crescemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Crowmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Crowmon/Crowmon_Primary.png",
+    "reference_name": "Crowmon",
+    "slug": "crowmon",
+    "name": "Crowmon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Cyberdramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Cyberdramon/Cyberdramon_Primary.png",
+    "reference_name": "Cyberdramon",
+    "slug": "cyberdramon",
+    "name": "Cyberdramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Datamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Datamon/Datamon_Primary.png",
+    "reference_name": "Datamon",
+    "slug": "datamon",
+    "name": "Datamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Deramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Deramon/Deramon_Primary.png",
+    "reference_name": null,
+    "slug": "deramon",
+    "name": "Deramon",
+    "stage": "Ultimate",
+    "official_directory": "delumon"
+  },
+  {
+    "asset_name": "Digitamamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Digitamamon/Digitamamon_Primary.png",
+    "reference_name": "Digitamamon",
+    "slug": "digitamamon",
+    "name": "Digitamamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "DinoBeemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/DinoBeemon/DinoBeemon_Primary.png",
+    "reference_name": "Dinobeemon",
+    "slug": "dinobeemon",
+    "name": "Dinobeemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Divermon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Divermon/Divermon_Primary.png",
+    "reference_name": null,
+    "slug": "divermon",
+    "name": "Divermon",
+    "stage": "Ultimate",
+    "official_directory": "hangyomon"
+  },
+  {
+    "asset_name": "DoruGreymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/DoruGreymon/DoruGreymon_Primary.png",
+    "reference_name": "DoruGreymon",
+    "slug": "dorugreymon",
+    "name": "DoruGreymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Dragomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Dragomon/Dragomon_Primary.png",
+    "reference_name": "Dragomon",
+    "slug": "dragomon",
+    "name": "Dragomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Etemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Etemon/Etemon_Primary.png",
+    "reference_name": "Etemon",
+    "slug": "etemon",
+    "name": "Etemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "ExTyrannomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/ExTyrannomon/ExTyrannomon_Primary.png",
+    "reference_name": null,
+    "slug": "extyrannomon",
+    "name": "ExTyrannomon",
+    "stage": "Ultimate",
+    "official_directory": "ex-tyranomon"
+  },
+  {
+    "asset_name": "Flaremon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Flaremon/Flaremon_Primary.png",
+    "reference_name": null,
+    "slug": "flaremon",
+    "name": "Flaremon",
+    "stage": "Ultimate",
+    "official_directory": "flaremon"
+  },
+  {
+    "asset_name": "Garbagemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Garbagemon/Garbagemon_Primary.png",
+    "reference_name": null,
+    "slug": "garbagemon",
+    "name": "Garbagemon",
+    "stage": "Ultimate",
+    "official_directory": "gerbemon"
+  },
+  {
+    "asset_name": "Garudamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Garudamon/Garudamon_Primary.png",
+    "reference_name": "Garudamon",
+    "slug": "garudamon",
+    "name": "Garudamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Giromon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Giromon/Giromon_Primary.png",
+    "reference_name": null,
+    "slug": "giromon",
+    "name": "Giromon",
+    "stage": "Ultimate",
+    "official_directory": "giromon"
+  },
+  {
+    "asset_name": "Grademon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Grademon/Grademon_Primary.png",
+    "reference_name": "Grademon",
+    "slug": "grademon",
+    "name": "Grademon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "GrapLeomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/GrapLeomon/GrapLeomon_Primary.png",
+    "reference_name": "GrapLeomon",
+    "slug": "grapleomon",
+    "name": "GrapLeomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Infermon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Infermon/Infermon_Primary.png",
+    "reference_name": "Infermon",
+    "slug": "infermon",
+    "name": "Infermon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Karatenmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Karatenmon/Karatenmon_Primary.png",
+    "reference_name": null,
+    "slug": "karatenmon",
+    "name": "Karatenmon",
+    "stage": "Ultimate",
+    "official_directory": "karatenmon"
+  },
+  {
+    "asset_name": "Kimeramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Kimeramon/Kimeramon_Primary.png",
+    "reference_name": null,
+    "slug": "kimeramon",
+    "name": "Kimeramon",
+    "stage": "Ultimate",
+    "official_directory": "chimairamon"
+  },
+  {
+    "asset_name": "Knightmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Knightmon/Knightmon_Primary.png",
+    "reference_name": "Knightmon",
+    "slug": "knightmon",
+    "name": "Knightmon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Kyukimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Kyukimon/Kyukimon_Primary.png",
+    "reference_name": null,
+    "slug": "kyukimon",
+    "name": "Kyukimon",
+    "stage": "Ultimate",
+    "official_directory": "kyukimon"
+  },
+  {
+    "asset_name": "LadyDevimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/LadyDevimon/LadyDevimon_Idle.png",
+    "reference_name": "LadyDevimon",
+    "slug": "ladydevimon",
+    "name": "LadyDevimon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Lilamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Lilamon/Lilamon_Primary.png",
+    "reference_name": "Lilamon",
+    "slug": "lilamon",
+    "name": "Lilamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Lillymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Lillymon/Lillymon_Primary.png",
+    "reference_name": "Lillymon",
+    "slug": "lillymon",
+    "name": "Lillymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "LucemonChaosMode",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/LucemonChaosMode/LucemonChaosMode_Primary.png",
+    "reference_name": "Lucemon FM",
+    "slug": "lucemonchaosmode",
+    "name": "Lucemon FM",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MachGaogamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MachGaogamon/MachGaogamon_Primary.png",
+    "reference_name": "MachGaogamon",
+    "slug": "machgaogamon",
+    "name": "MachGaogamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MagnaAngemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MagnaAngemon/MagnaAngemon_Primary.png",
+    "reference_name": "MagnaAngemon",
+    "slug": "magnaangemon",
+    "name": "MagnaAngemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MameTyramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MameTyramon/MameTyramon_Primary.png",
+    "reference_name": null,
+    "slug": "mametyramon",
+    "name": "MameTyramon",
+    "stage": "Ultimate",
+    "official_directory": "mametyramon"
+  },
+  {
+    "asset_name": "Mamemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Mamemon/Mamemon_Primary.png",
+    "reference_name": "Mamemon",
+    "slug": "mamemon",
+    "name": "Mamemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Mammothmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Mammothmon/Mammothmon_Primary.png",
+    "reference_name": null,
+    "slug": "mammothmon",
+    "name": "Mammothmon",
+    "stage": "Ultimate",
+    "official_directory": "mammon"
+  },
+  {
+    "asset_name": "MarineDevimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MarineDevimon/MarineDevimon_Primary.png",
+    "reference_name": null,
+    "slug": "marinedevimon",
+    "name": "MarineDevimon",
+    "stage": "Ultimate",
+    "official_directory": "marindevimon"
+  },
+  {
+    "asset_name": "MasterTyrannomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MasterTyrannomon/MasterTyrannomon_Primary.png",
+    "reference_name": null,
+    "slug": "mastertyrannomon",
+    "name": "MasterTyrannomon",
+    "stage": "Ultimate",
+    "official_directory": "mastertyranomon"
+  },
+  {
+    "asset_name": "Matadormon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Matadormon/Matadormon_Primary.png",
+    "reference_name": "Matadormon",
+    "slug": "matadormon",
+    "name": "Matadormon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MegaKabuterimonBlue",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MegaKabuterimonBlue/MegaKabuterimonBlue_Primary.png",
+    "reference_name": null,
+    "slug": "megakabuterimonblue",
+    "name": "MegaKabuterimonBlue",
+    "stage": "Ultimate",
+    "official_directory": "atlurkabuterimon-blue"
+  },
+  {
+    "asset_name": "MegaKabuterimonRed",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MegaKabuterimonRed/MegaKabuterimonRed_Primary.png",
+    "reference_name": "MegaKabuterimon",
+    "slug": "megakabuterimon",
+    "name": "MegaKabuterimon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MegaSeadramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MegaSeadramon/MegaSeadramon_Primary.png",
+    "reference_name": "MegaSeadramon",
+    "slug": "megaseadramon",
+    "name": "MegaSeadramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Megadramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Megadramon/Megadramon_Primary.png",
+    "reference_name": "Megadramon",
+    "slug": "megadramon",
+    "name": "Megadramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Mermaimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Mermaimon/Mermaimon_Primary.png",
+    "reference_name": null,
+    "slug": "mermaimon",
+    "name": "Mermaimon",
+    "stage": "Ultimate",
+    "official_directory": "mermaimon"
+  },
+  {
+    "asset_name": "MetalGreymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MetalGreymon/MetalGreymon_Idle.png",
+    "reference_name": "MetalGreymon",
+    "slug": "metalgreymon",
+    "name": "MetalGreymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MetalMamemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MetalMamemon/MetalMamemon_Primary.png",
+    "reference_name": "MetalMamemon",
+    "slug": "metalmamemon",
+    "name": "MetalMamemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "MetalTyrannomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/MetalTyrannomon/MetalTyrannomon_Primary.png",
+    "reference_name": "MetalTyrannomon",
+    "slug": "metaltyrannomon",
+    "name": "MetalTyrannomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Meteormon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Meteormon/Meteormon_Primary.png",
+    "reference_name": "Meteormon",
+    "slug": "meteormon",
+    "name": "Meteormon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Monzaemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Monzaemon/Monzaemon_Primary.png",
+    "reference_name": "Monzaemon",
+    "slug": "monzaemon",
+    "name": "Monzaemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Mummymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Mummymon/Mummymon_Primary.png",
+    "reference_name": null,
+    "slug": "mummymon",
+    "name": "Mummymon",
+    "stage": "Ultimate",
+    "official_directory": "mummymon"
+  },
+  {
+    "asset_name": "Myotismon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Myotismon/Myotismon_Primary.png",
+    "reference_name": "Myotismon",
+    "slug": "myotismon",
+    "name": "Myotismon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Okuwamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Okuwamon/Okuwamon_Primary.png",
+    "reference_name": "Okuwamon",
+    "slug": "okuwamon",
+    "name": "Okuwamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Paildramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Paildramon/Paildramon_Primary.png",
+    "reference_name": "Paildramon",
+    "slug": "paildramon",
+    "name": "Paildramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Pandamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Pandamon/Pandamon_Primary.png",
+    "reference_name": "Pandamon",
+    "slug": "pandamon",
+    "name": "Pandamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Parrotmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Parrotmon/Parrotmon_Primary.png",
+    "reference_name": null,
+    "slug": "parrotmon",
+    "name": "Parrotmon",
+    "stage": "Ultimate",
+    "official_directory": "parrotmon"
+  },
+  {
+    "asset_name": "Phantomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Phantomon/Phantomon_Primary.png",
+    "reference_name": "Phantomon",
+    "slug": "phantomon",
+    "name": "Phantomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Piximon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Piximon/Piximon_Primary.png",
+    "reference_name": "Piximon",
+    "slug": "piximon",
+    "name": "Piximon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Rapidmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Rapidmon/Rapidmon_Primary.png",
+    "reference_name": "Rapidmon",
+    "slug": "rapidmon",
+    "name": "Rapidmon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "RizeGreymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/RizeGreymon/RizeGreymon_Primary.png",
+    "reference_name": "RizeGreymon",
+    "slug": "rizegreymon",
+    "name": "RizeGreymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "RookChessmonBlack",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/RookChessmonBlack/RookChessmonBlack_Primary.png",
+    "reference_name": null,
+    "slug": "rookchessmonblack",
+    "name": "RookChessmonBlack",
+    "stage": "Ultimate",
+    "official_directory": "rookchessmon"
+  },
+  {
+    "asset_name": "Scorpiomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Scorpiomon/Scorpiomon_Primary.png",
+    "reference_name": null,
+    "slug": "scorpiomon",
+    "name": "Scorpiomon",
+    "stage": "Ultimate",
+    "official_directory": "anomalocarimon"
+  },
+  {
+    "asset_name": "ShadowWereGarurumon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/ShadowWereGarurumon/ShadowWereGarurumon_Primary.png",
+    "reference_name": "WereGarurumon (Blk)",
+    "slug": "shadowweregarurumon",
+    "name": "WereGarurumon (Blk)",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Shakkoumon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Shakkoumon/Shakkoumon_Primary.png",
+    "reference_name": "Shakkoumon",
+    "slug": "shakkoumon",
+    "name": "Shakkoumon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Shawjamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Shawjamon/Shawjamon_Primary.png",
+    "reference_name": null,
+    "slug": "shawjamon",
+    "name": "Shawjamon",
+    "stage": "Ultimate",
+    "official_directory": "shawujinmon"
+  },
+  {
+    "asset_name": "ShogunGekomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/ShogunGekomon/ShogunGekomon_Primary.png",
+    "reference_name": "ShogunGekomon",
+    "slug": "shogungekomon",
+    "name": "ShogunGekomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Silphymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Silphymon/Silphymon_Primary.png",
+    "reference_name": "Silphymon",
+    "slug": "silphymon",
+    "name": "Silphymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Sinduramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Sinduramon/Sinduramon_Primary.png",
+    "reference_name": null,
+    "slug": "sinduramon",
+    "name": "Sinduramon",
+    "stage": "Ultimate",
+    "official_directory": "sinduramon"
+  },
+  {
+    "asset_name": "SkullBaluchimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/SkullBaluchimon/SkullBaluchimon_Primary.png",
+    "reference_name": null,
+    "slug": "skullbaluchimon",
+    "name": "SkullBaluchimon",
+    "stage": "Ultimate",
+    "official_directory": "skullbaluchimon"
+  },
+  {
+    "asset_name": "SkullGreymon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/SkullGreymon/SkullGreymon_Primary.png",
+    "reference_name": "SkullGreymon",
+    "slug": "skullgreymon",
+    "name": "SkullGreymon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "SuperStarmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/SuperStarmon/SuperStarmon_Primary.png",
+    "reference_name": "SuperStarmon",
+    "slug": "superstarmon",
+    "name": "SuperStarmon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Taomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Taomon/Taomon_Primary.png",
+    "reference_name": "Taomon",
+    "slug": "taomon",
+    "name": "Taomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Tekkamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Tekkamon/Tekkamon_Primary.png",
+    "reference_name": null,
+    "slug": "tekkamon",
+    "name": "Tekkamon",
+    "stage": "Ultimate",
+    "official_directory": "tekkamon"
+  },
+  {
+    "asset_name": "Triceramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Triceramon/Triceramon_Primary.png",
+    "reference_name": "Triceramon",
+    "slug": "triceramon",
+    "name": "Triceramon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Vademon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Vademon/Vademon_Primary.png",
+    "reference_name": "Vademon",
+    "slug": "vademon",
+    "name": "Vademon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Vajramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Vajramon/Vajramon_Primary.png",
+    "reference_name": null,
+    "slug": "vajramon",
+    "name": "Vajramon",
+    "stage": "Ultimate",
+    "official_directory": "vajramon"
+  },
+  {
+    "asset_name": "Vermilimon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Vermilimon/Vermilimon_Primary.png",
+    "reference_name": null,
+    "slug": "vermilimon",
+    "name": "Vermilimon",
+    "stage": "Ultimate",
+    "official_directory": "vermillimon"
+  },
+  {
+    "asset_name": "Volcamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Volcamon/Volcamon_Primary.png",
+    "reference_name": "Volcanomon",
+    "slug": "volcamon",
+    "name": "Volcanomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "WarGrowlmon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/WarGrowlmon/WarGrowlmon_Primary.png",
+    "reference_name": "WarGrowlmon",
+    "slug": "wargrowlmon",
+    "name": "WarGrowlmon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "WaruSeadramon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/WaruSeadramon/WaruSeadramon_Primary.png",
+    "reference_name": null,
+    "slug": "waruseadramon",
+    "name": "WaruSeadramon",
+    "stage": "Ultimate",
+    "official_directory": "waruseadramon"
+  },
+  {
+    "asset_name": "WereGarurumon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/WereGarurumon/WereGarurumon_Primary.png",
+    "reference_name": "WereGarurumon",
+    "slug": "weregarurumon",
+    "name": "WereGarurumon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Whamon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Whamon/Whamon_Primary.png",
+    "reference_name": "Whamon",
+    "slug": "whamon",
+    "name": "Whamon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Wisemon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Wisemon/Wisemon_Primary.png",
+    "reference_name": "Wisemon",
+    "slug": "wisemon",
+    "name": "Wisemon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Zudomon",
+    "asset_stage": "Ultimate",
+    "sprite_source": "5 Ultimate/Zudomon/Zudomon_Primary.png",
+    "reference_name": "Zudomon",
+    "slug": "zudomon",
+    "name": "Zudomon",
+    "stage": "Ultimate"
+  },
+  {
+    "asset_name": "Allomon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Allomon/Allomon_Primary.png",
+    "reference_name": null,
+    "slug": "allomon",
+    "name": "Allomon",
+    "stage": "Armor",
+    "official_directory": "allomon"
+  },
+  {
+    "asset_name": "Aurumon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Aurumon/Aurumon_Primary.png",
+    "reference_name": null,
+    "slug": "aurumon",
+    "name": "Aurumon",
+    "stage": "Armor",
+    "official_directory": "owlmon"
+  },
+  {
+    "asset_name": "Flamedramon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Flamedramon/Flamedramon_Primary.png",
+    "reference_name": "Flamedramon",
+    "slug": "flamedramon",
+    "name": "Flamedramon",
+    "stage": "Armor"
+  },
+  {
+    "asset_name": "Kabukimon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Kabukimon/Kabukimon_Primary.png",
+    "reference_name": null,
+    "slug": "kabukimon",
+    "name": "Kabukimon",
+    "stage": "Armor",
+    "official_directory": "kabukimon"
+  },
+  {
+    "asset_name": "Kenkimon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Kenkimon/Kenkimon_Primary.png",
+    "reference_name": null,
+    "slug": "kenkimon",
+    "name": "Kenkimon",
+    "stage": "Armor",
+    "official_directory": "kenkimon"
+  },
+  {
+    "asset_name": "Kongoumon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Kongoumon/Kongoumon_Primary.png",
+    "reference_name": null,
+    "slug": "kongoumon",
+    "name": "Kongoumon",
+    "stage": "Armor",
+    "official_directory": "kongoumon"
+  },
+  {
+    "asset_name": "Lynxmon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Lynxmon/Lynxmon_Primary.png",
+    "reference_name": null,
+    "slug": "lynxmon",
+    "name": "Lynxmon",
+    "stage": "Armor",
+    "official_directory": "lynxmon"
+  },
+  {
+    "asset_name": "Magnamon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Magnamon/Magnamon_Primary.png",
+    "reference_name": "Magnamon",
+    "slug": "magnamon",
+    "name": "Magnamon",
+    "stage": "Armor"
+  },
+  {
+    "asset_name": "Nefertimon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Nefertimon/Nefertimon_Primary.png",
+    "reference_name": null,
+    "slug": "nefertimon",
+    "name": "Nefertimon",
+    "stage": "Armor",
+    "official_directory": "nefertimon"
+  },
+  {
+    "asset_name": "Pipismon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Pipismon/Pipismon_Primary.png",
+    "reference_name": null,
+    "slug": "pipismon",
+    "name": "Pipismon",
+    "stage": "Armor",
+    "official_directory": "pipismon"
+  },
+  {
+    "asset_name": "Ponchomon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Ponchomon/Ponchomon_Primary.png",
+    "reference_name": null,
+    "slug": "ponchomon",
+    "name": "Ponchomon",
+    "stage": "Armor",
+    "official_directory": "ponchomon"
+  },
+  {
+    "asset_name": "Prairiemon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Prairiemon/Prairiemon_Primary.png",
+    "reference_name": null,
+    "slug": "prairiemon",
+    "name": "Prairiemon",
+    "stage": "Armor",
+    "official_directory": "prairiemon"
+  },
+  {
+    "asset_name": "Seahomon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Seahomon/Seahomon_Primary.png",
+    "reference_name": null,
+    "slug": "seahomon",
+    "name": "Seahomon",
+    "stage": "Armor",
+    "official_directory": "seahomon"
+  },
+  {
+    "asset_name": "Shadramon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Shadramon/Shadramon_Primary.png",
+    "reference_name": null,
+    "slug": "shadramon",
+    "name": "Shadramon",
+    "stage": "Armor",
+    "official_directory": "shadramon"
+  },
+  {
+    "asset_name": "Shurimon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Shurimon/Shurimon_Primary.png",
+    "reference_name": null,
+    "slug": "shurimon",
+    "name": "Shurimon",
+    "stage": "Armor",
+    "official_directory": "shurimon"
+  },
+  {
+    "asset_name": "Toucanmon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Toucanmon/Toucanmon_Primary.png",
+    "reference_name": null,
+    "slug": "toucanmon",
+    "name": "Toucanmon",
+    "stage": "Armor",
+    "official_directory": "tocanmon"
+  },
+  {
+    "asset_name": "Tylomon",
+    "asset_stage": "Armor",
+    "sprite_source": "6 Armor/Tylomon/Tylomon_Primary.png",
+    "reference_name": null,
+    "slug": "tylomon",
+    "name": "Tylomon",
+    "stage": "Armor",
+    "official_directory": "tylomon"
+  },
+  {
+    "asset_name": "Aegisdramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Aegisdramon/Aegisdramon_Primary.png",
+    "reference_name": null,
+    "slug": "aegisdramon",
+    "name": "Aegisdramon",
+    "stage": "Mega",
+    "official_directory": "ageisdramon"
+  },
+  {
+    "asset_name": "AlforceVeedramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AlforceVeedramon/AlforceVeedramon_Primary.png",
+    "reference_name": "UlforceVeedramon",
+    "slug": "alforceveedramon",
+    "name": "UlforceVeedramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Alphamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Alphamon/Alphamon_Primary.png",
+    "reference_name": "Alphamon",
+    "slug": "alphamon",
+    "name": "Alphamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "AncientBeetlemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientBeetlemon/AncientBeetlemon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientbeetlemon",
+    "name": "AncientBeetlemon",
+    "stage": "Mega",
+    "official_directory": "ancientbeatmon"
+  },
+  {
+    "asset_name": "AncientGarurumon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientGarurumon/AncientGarurumon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientgarurumon",
+    "name": "AncientGarurumon",
+    "stage": "Mega",
+    "official_directory": "ancientgarurumon"
+  },
+  {
+    "asset_name": "AncientGreymon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientGreymon/AncientGreymon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientgreymon",
+    "name": "AncientGreymon",
+    "stage": "Mega",
+    "official_directory": "ancientgreymon"
+  },
+  {
+    "asset_name": "AncientKazemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientKazemon/AncientKazemon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientkazemon",
+    "name": "AncientKazemon",
+    "stage": "Mega",
+    "official_directory": "ancientirismon"
+  },
+  {
+    "asset_name": "AncientMegatheriummon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientMegatheriummon/AncientMegatheriummon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientmegatheriummon",
+    "name": "AncientMegatheriummon",
+    "stage": "Mega",
+    "official_directory": "ancientmegatheriumon"
+  },
+  {
+    "asset_name": "AncientMermaidmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientMermaidmon/AncientMermaidmon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientmermaidmon",
+    "name": "AncientMermaidmon",
+    "stage": "Mega",
+    "official_directory": "ancientmermaimon"
+  },
+  {
+    "asset_name": "AncientSphinxmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientSphinxmon/AncientSphinxmon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientsphinxmon",
+    "name": "AncientSphinxmon",
+    "stage": "Mega",
+    "official_directory": "ancientsphinkmon"
+  },
+  {
+    "asset_name": "AncientTroiamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientTroiamon/AncientTroiamon_Primary.png",
+    "reference_name": null,
+    "slug": "ancienttroiamon",
+    "name": "AncientTroiamon",
+    "stage": "Mega",
+    "official_directory": "ancienttroiamon"
+  },
+  {
+    "asset_name": "AncientVolcanomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientVolcanomon/AncientVolcanomon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientvolcanomon",
+    "name": "AncientVolcanomon",
+    "stage": "Mega",
+    "official_directory": "ancientvolcamon"
+  },
+  {
+    "asset_name": "AncientWisemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/AncientWisemon/AncientWisemon_Primary.png",
+    "reference_name": null,
+    "slug": "ancientwisemon",
+    "name": "AncientWisemon",
+    "stage": "Mega",
+    "official_directory": "ancientwisetmon"
+  },
+  {
+    "asset_name": "Anubismon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Anubismon/Anubismon_Primary.png",
+    "reference_name": null,
+    "slug": "anubismon",
+    "name": "Anubismon",
+    "stage": "Mega",
+    "official_directory": "anubimon"
+  },
+  {
+    "asset_name": "Apocalymon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Apocalymon/Apocalymon_Primary.png",
+    "reference_name": "Apocalymon",
+    "slug": "apocalymon",
+    "name": "Apocalymon",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Apollomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Apollomon/Apollomon_Primary.png",
+    "reference_name": null,
+    "slug": "apollomon",
+    "name": "Apollomon",
+    "stage": "Mega",
+    "official_directory": "apollomon"
+  },
+  {
+    "asset_name": "ArgomonMega",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ArgomonMega/ArgomonMega_Primary.png",
+    "reference_name": null,
+    "slug": "argomonmega",
+    "name": "ArgomonMega",
+    "stage": "Mega",
+    "official_directory": "algomon"
+  },
+  {
+    "asset_name": "Armagemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Armagemon/Armagemon_Primary.png",
+    "reference_name": "Armageddemon",
+    "slug": "armagemon",
+    "name": "Armageddemon",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Azulongmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Azulongmon/Azulongmon_Primary.png",
+    "reference_name": null,
+    "slug": "azulongmon",
+    "name": "Azulongmon",
+    "stage": "Mega",
+    "official_directory": "qinglongmon"
+  },
+  {
+    "asset_name": "Babamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Babamon/Babamon_Primary.png",
+    "reference_name": null,
+    "slug": "babamon",
+    "name": "Babamon",
+    "stage": "Mega",
+    "official_directory": "babamon"
+  },
+  {
+    "asset_name": "Baihumon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Baihumon/Baihumon_Primary.png",
+    "reference_name": null,
+    "slug": "baihumon",
+    "name": "Baihumon",
+    "stage": "Mega",
+    "official_directory": "baihumon"
+  },
+  {
+    "asset_name": "BanchoLeomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/BanchoLeomon/BanchoLeomon_Primary.png",
+    "reference_name": "BanchoLeomon",
+    "slug": "bancholeomon",
+    "name": "BanchoLeomon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Barbamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Barbamon/Barbamon_Primary.png",
+    "reference_name": "Barbamon",
+    "slug": "barbamon",
+    "name": "Barbamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "BlackMegaGargomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/BlackMegaGargomon/BlackMegaGargomon_Primary.png",
+    "reference_name": null,
+    "slug": "blackmegagargomon",
+    "name": "BlackMegaGargomon",
+    "stage": "Mega",
+    "official_directory": "blacksaintgalgomon"
+  },
+  {
+    "asset_name": "BlackWarGreymon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/BlackWarGreymon/BlackWarGreymon_Primary.png",
+    "reference_name": "BlackWarGreymon",
+    "slug": "blackwargreymon",
+    "name": "BlackWarGreymon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Boltmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Boltmon/Boltmon_Primary.png",
+    "reference_name": "Boltmon",
+    "slug": "boltmon",
+    "name": "Boltmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Cannondramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Cannondramon/Cannondramon_Primary.png",
+    "reference_name": null,
+    "slug": "cannondramon",
+    "name": "Cannondramon",
+    "stage": "Mega",
+    "official_directory": "cannondramon"
+  },
+  {
+    "asset_name": "ChaosGallantmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ChaosGallantmon/ChaosGallantmon_Primary.png",
+    "reference_name": "ChaosGallantmon",
+    "slug": "chaosgallantmon",
+    "name": "ChaosGallantmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Chaosmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Chaosmon/Chaosmon_Primary.png",
+    "reference_name": "Chaosmon",
+    "slug": "chaosmon",
+    "name": "Chaosmon",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "CherubimonEvil",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/CherubimonEvil/CherubimonEvil_Primary.png",
+    "reference_name": "Kerpymon (Blk)",
+    "slug": "cherubimonevil",
+    "name": "Kerpymon (Blk)",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "CherubimonGood",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/CherubimonGood/CherubimonGood_Primary.png",
+    "reference_name": "Kerpymon (Good)",
+    "slug": "cherubimongood",
+    "name": "Kerpymon (Good)",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Craniamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Craniamon/Craniamon_Primary.png",
+    "reference_name": "Craniamon",
+    "slug": "craniamon",
+    "name": "Craniamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Crusadermon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Crusadermon/Crusadermon_Primary.png",
+    "reference_name": "Crusadermon",
+    "slug": "crusadermon",
+    "name": "Crusadermon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Daemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Daemon/Daemon_Primary.png",
+    "reference_name": "Creepymon",
+    "slug": "daemon",
+    "name": "Creepymon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "DaemonMantled",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/DaemonMantled/DaemonMantled_Primary.png",
+    "reference_name": null,
+    "slug": "daemonmantled",
+    "name": "DaemonMantled",
+    "stage": "Mega",
+    "official_directory": "demon"
+  },
+  {
+    "asset_name": "Darkdramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Darkdramon/Darkdramon_Primary.png",
+    "reference_name": "Darkdramon",
+    "slug": "darkdramon",
+    "name": "Darkdramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Devitamamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Devitamamon/Devitamamon_Primary.png",
+    "reference_name": null,
+    "slug": "devitamamon",
+    "name": "Devitamamon",
+    "stage": "Mega",
+    "official_directory": "devitamamon"
+  },
+  {
+    "asset_name": "Diaboromon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Diaboromon/Diaboromon_Primary.png",
+    "reference_name": "Diaboromon",
+    "slug": "diaboromon",
+    "name": "Diaboromon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Dianamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Dianamon/Dianamon_Primary.png",
+    "reference_name": "Dianamon",
+    "slug": "dianamon",
+    "name": "Dianamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Dorugoramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Dorugoramon/Dorugoramon_Primary.png",
+    "reference_name": "Dorugoramon",
+    "slug": "dorugoramon",
+    "name": "Dorugoramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "DotMirageGaogamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/DotMirageGaogamon/DotMirageGaogamon_Primary.png",
+    "reference_name": null,
+    "slug": "dotmiragegaogamon",
+    "name": "DotMirageGaogamon",
+    "stage": "Mega",
+    "official_directory": "miragegaogamon"
+  },
+  {
+    "asset_name": "DotShineGreymon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/DotShineGreymon/DotShineGreymon_Primary.png",
+    "reference_name": null,
+    "slug": "dotshinegreymon",
+    "name": "DotShineGreymon",
+    "stage": "Mega",
+    "official_directory": "shinegreymon"
+  },
+  {
+    "asset_name": "Dynasmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Dynasmon/Dynasmon_Primary.png",
+    "reference_name": "Dynasmon",
+    "slug": "dynasmon",
+    "name": "Dynasmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "EXEraserAlpha",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/EXEraserAlpha/EXEraserAlpha_Primary.png",
+    "reference_name": null,
+    "slug": "exeraseralpha",
+    "name": "EXEraserAlpha",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "EXEraserBeta",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/EXEraserBeta/EXEraserBeta_Primary.png",
+    "reference_name": null,
+    "slug": "exeraserbeta",
+    "name": "EXEraserBeta",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Eaglemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Eaglemon/Eaglemon_Primary.png",
+    "reference_name": null,
+    "slug": "eaglemon",
+    "name": "Eaglemon",
+    "stage": "Mega",
+    "official_directory": "crossmon"
+  },
+  {
+    "asset_name": "Ebemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Ebemon/Ebemon_Primary.png",
+    "reference_name": "Ebemon",
+    "slug": "ebemon",
+    "name": "Ebemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Ebonwumon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Ebonwumon/Ebonwumon_Primary.png",
+    "reference_name": null,
+    "slug": "ebonwumon",
+    "name": "Ebonwumon",
+    "stage": "Mega",
+    "official_directory": "xuanwumon"
+  },
+  {
+    "asset_name": "Fanglongmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Fanglongmon/Fanglongmon_Idle.png",
+    "reference_name": null,
+    "slug": "fanglongmon",
+    "name": "Fanglongmon",
+    "stage": "Mega",
+    "official_directory": "huanglongmon"
+  },
+  {
+    "asset_name": "Gaiomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Gaiomon/Gaiomon_Primary.png",
+    "reference_name": "Gaiomon",
+    "slug": "gaiomon",
+    "name": "Gaiomon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Gallantmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Gallantmon/Gallantmon_Primary.png",
+    "reference_name": "Gallantmon",
+    "slug": "gallantmon",
+    "name": "Gallantmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "GallantmonCrimsonMode",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GallantmonCrimsonMode/GallantmonCrimsonMode_Primary.png",
+    "reference_name": "Gallantmon CM",
+    "slug": "gallantmoncrimsonmode",
+    "name": "Gallantmon CM",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Ghoulmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Ghoulmon/Ghoulmon_Primary.png",
+    "reference_name": null,
+    "slug": "ghoulmon",
+    "name": "Ghoulmon",
+    "stage": "Mega",
+    "official_directory": "deathmon"
+  },
+  {
+    "asset_name": "GhoulmonBlack",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GhoulmonBlack/GhoulmonBlack_Primary.png",
+    "reference_name": null,
+    "slug": "ghoulmonblack",
+    "name": "GhoulmonBlack",
+    "stage": "Mega",
+    "official_directory": "deathmon-black"
+  },
+  {
+    "asset_name": "GigaSeadramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GigaSeadramon/GigaSeadramon_Primary.png",
+    "reference_name": null,
+    "slug": "gigaseadramon",
+    "name": "GigaSeadramon",
+    "stage": "Mega",
+    "official_directory": "gigaseadramon"
+  },
+  {
+    "asset_name": "Goldramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Goldramon/Goldramon_Primary.png",
+    "reference_name": "Goldramon",
+    "slug": "goldramon",
+    "name": "Goldramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "GranDracmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GranDracmon/GranDracmon_Primary.png",
+    "reference_name": "GranDracmon",
+    "slug": "grandracmon",
+    "name": "GranDracmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "GranKuwagamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GranKuwagamon/GranKuwagamon_Primary.png",
+    "reference_name": "GranKuwagamon",
+    "slug": "grankuwagamon",
+    "name": "GranKuwagamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "GranLocomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GranLocomon/GranLocomon_Primary.png",
+    "reference_name": "GroundLocomon",
+    "slug": "granlocomon",
+    "name": "GroundLocomon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "GreyKnightsmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/GreyKnightsmon/GreyKnightsmon_Primary.png",
+    "reference_name": null,
+    "slug": "greyknightsmon",
+    "name": "GreyKnightsmon",
+    "stage": "Mega",
+    "official_directory": "greyknightsmon"
+  },
+  {
+    "asset_name": "Gryphonmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Gryphonmon/Gryphonmon_Primary.png",
+    "reference_name": "Gryphonmon",
+    "slug": "gryphonmon",
+    "name": "Gryphonmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Gulfmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Gulfmon/Gulfmon_Primary.png",
+    "reference_name": null,
+    "slug": "gulfmon",
+    "name": "Gulfmon",
+    "stage": "Mega",
+    "official_directory": "gulfmon"
+  },
+  {
+    "asset_name": "HerculesKabuterimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/HerculesKabuterimon/HerculesKabuterimon_Primary.png",
+    "reference_name": "HerculesKabuterimon",
+    "slug": "herculeskabuterimon",
+    "name": "HerculesKabuterimon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "HiAndromon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/HiAndromon/HiAndromon_Primary.png",
+    "reference_name": "HiAndromon",
+    "slug": "hiandromon",
+    "name": "HiAndromon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Hououmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Hououmon/Hououmon_Primary.png",
+    "reference_name": "Hououmon",
+    "slug": "hououmon",
+    "name": "Hououmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ImperialdramonDragonMode",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ImperialdramonDragonMode/ImperialdramonDragonMode_Primary.png",
+    "reference_name": "Imperialdramon DM",
+    "slug": "imperialdramondragonmode",
+    "name": "Imperialdramon DM",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ImperialdramonDragonModeBlack",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ImperialdramonDragonModeBlack/ImperialdramonDragonModeBlack_Primary.png",
+    "reference_name": null,
+    "slug": "imperialdramondragonmodeblack",
+    "name": "ImperialdramonDragonModeBlack",
+    "stage": "Mega",
+    "official_directory": "imperialdramon_dragon_black"
+  },
+  {
+    "asset_name": "ImperialdramonFighterMode",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ImperialdramonFighterMode/ImperialdramonFighterMode_Primary.png",
+    "reference_name": "Imperialdramon FM",
+    "slug": "imperialdramon-fighter",
+    "name": "Imperialdramon Fighter Mode",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ImperialdramonPaladinMode",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ImperialdramonPaladinMode/ImperialdramonPaladinMode_Primary.png",
+    "reference_name": "Imperialdramon PM",
+    "slug": "imperialdramonpaladinmode",
+    "name": "Imperialdramon PM",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Jijimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Jijimon/Jijimon_Primary.png",
+    "reference_name": null,
+    "slug": "jijimon",
+    "name": "Jijimon",
+    "stage": "Mega",
+    "official_directory": "jijimon"
+  },
+  {
+    "asset_name": "JumboGamemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/JumboGamemon/JumboGamemon_Primary.png",
+    "reference_name": null,
+    "slug": "jumbogamemon",
+    "name": "JumboGamemon",
+    "stage": "Mega",
+    "official_directory": "jumbogamemon"
+  },
+  {
+    "asset_name": "JustimonBlitz_Arm",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/JustimonBlitz_Arm/JustimonBlitz_Arm_Primary.png",
+    "reference_name": "Justimon",
+    "slug": "justimonblitz-arm",
+    "name": "Justimon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "KingChessmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/KingChessmon/KingChessmon_Primary.png",
+    "reference_name": null,
+    "slug": "kingchessmon",
+    "name": "KingChessmon",
+    "stage": "Mega",
+    "official_directory": "kingchessmon"
+  },
+  {
+    "asset_name": "Kuzuhamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Kuzuhamon/Kuzuhamon_Primary.png",
+    "reference_name": "Kuzuhamon",
+    "slug": "kuzuhamon",
+    "name": "Kuzuhamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Lampmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Lampmon/Lampmon_Primary.png",
+    "reference_name": null,
+    "slug": "lampmon",
+    "name": "Lampmon",
+    "stage": "Mega",
+    "official_directory": "lampmon"
+  },
+  {
+    "asset_name": "Leopardmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Leopardmon/Leopardmon_Primary.png",
+    "reference_name": "Leopardmon",
+    "slug": "leopardmon",
+    "name": "Leopardmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Leviamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Leviamon/Leviamon_Primary.png",
+    "reference_name": "Leviamon",
+    "slug": "leviamon",
+    "name": "Leviamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Lilithmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Lilithmon/Lilithmon_Primary.png",
+    "reference_name": "Lilithmon",
+    "slug": "lilithmon",
+    "name": "Lilithmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Lotosmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Lotosmon/Lotosmon_Primary.png",
+    "reference_name": "Lotosmon",
+    "slug": "lotosmon",
+    "name": "Lotosmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Machinedramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Machinedramon/Machinedramon_Primary.png",
+    "reference_name": "Machinedramon",
+    "slug": "machinedramon",
+    "name": "Machinedramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Magnadramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Magnadramon/Magnadramon_Primary.png",
+    "reference_name": "Magnadramon",
+    "slug": "magnadramon",
+    "name": "Magnadramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MaloMyotismon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MaloMyotismon/MaloMyotismon_Primary.png",
+    "reference_name": null,
+    "slug": "malomyotismon",
+    "name": "MaloMyotismon",
+    "stage": "Mega",
+    "official_directory": "belialvamdemon"
+  },
+  {
+    "asset_name": "MarineAngemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MarineAngemon/MarineAngemon_Primary.png",
+    "reference_name": "MarineAngemon",
+    "slug": "marineangemon",
+    "name": "MarineAngemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MegaGargomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MegaGargomon/MegaGargomon_Primary.png",
+    "reference_name": "MegaGargomon",
+    "slug": "megagargomon",
+    "name": "MegaGargomon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Megidramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Megidramon/Megidramon_Primary.png",
+    "reference_name": "Megidramon",
+    "slug": "megidramon",
+    "name": "Megidramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Merukimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Merukimon/Merukimon_Primary.png",
+    "reference_name": "Merukimon",
+    "slug": "merukimon",
+    "name": "Merukimon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MetalEtemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MetalEtemon/MetalEtemon_Primary.png",
+    "reference_name": "MetalEtemon",
+    "slug": "metaletemon",
+    "name": "MetalEtemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MetalGarurumon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MetalGarurumon/MetalGarurumon_Idle.png",
+    "reference_name": "MetalGarurumon",
+    "slug": "metalgarurumon",
+    "name": "MetalGarurumon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MetalSeadramon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MetalSeadramon/MetalSeadramon_Primary.png",
+    "reference_name": "MetalSeadramon",
+    "slug": "metalseadramon",
+    "name": "MetalSeadramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Millenniummon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Millenniummon/Millenniummon_Primary.png",
+    "reference_name": null,
+    "slug": "millenniummon",
+    "name": "Millenniummon",
+    "stage": "Mega",
+    "official_directory": "millenniumon"
+  },
+  {
+    "asset_name": "Minervamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Minervamon/Minervamon_Primary.png",
+    "reference_name": "Minervamon",
+    "slug": "minervamon",
+    "name": "Minervamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MirageGaogamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MirageGaogamon/MirageGaogamon_Primary.png",
+    "reference_name": "MirageGaogamon",
+    "slug": "miragegaogamon",
+    "name": "MirageGaogamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "MoonMillenniummon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/MoonMillenniummon/MoonMillenniummon_Primary.png",
+    "reference_name": null,
+    "slug": "moonmillenniummon",
+    "name": "MoonMillenniummon",
+    "stage": "Mega",
+    "official_directory": "moonmillenniumon"
+  },
+  {
+    "asset_name": "Neptunemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Neptunemon/Neptunemon_Primary.png",
+    "reference_name": "Neptunemon",
+    "slug": "neptunemon",
+    "name": "Neptunemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Omnimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Omnimon/Omnimon_Primary.png",
+    "reference_name": "Omnimon",
+    "slug": "omnimon",
+    "name": "Omnimon",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Ophanimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Ophanimon/Ophanimon_Primary.png",
+    "reference_name": "Ophanimon",
+    "slug": "ophanimon",
+    "name": "Ophanimon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Parasimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Parasimon/Parasimon_Primary.png",
+    "reference_name": null,
+    "slug": "parasimon",
+    "name": "Parasimon",
+    "stage": "Mega",
+    "official_directory": "parasimon"
+  },
+  {
+    "asset_name": "Pharaohmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Pharaohmon/Pharaohmon_Primary.png",
+    "reference_name": null,
+    "slug": "pharaohmon",
+    "name": "Pharaohmon",
+    "stage": "Mega",
+    "official_directory": "pharaohmon"
+  },
+  {
+    "asset_name": "Piedmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Piedmon/Piedmon_Primary.png",
+    "reference_name": "Piedmon",
+    "slug": "piedmon",
+    "name": "Piedmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Plesiomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Plesiomon/Plesiomon_Primary.png",
+    "reference_name": "Plesiomon",
+    "slug": "plesiomon",
+    "name": "Plesiomon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "PrinceMamemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/PrinceMamemon/PrinceMamemon_Primary.png",
+    "reference_name": "PrinceMamemon",
+    "slug": "princemamemon",
+    "name": "PrinceMamemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Pukumon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Pukumon/Pukumon_Primary.png",
+    "reference_name": null,
+    "slug": "pukumon",
+    "name": "Pukumon",
+    "stage": "Mega",
+    "official_directory": "pukumon"
+  },
+  {
+    "asset_name": "Puppetmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Puppetmon/Puppetmon_Primary.png",
+    "reference_name": "Puppetmon",
+    "slug": "puppetmon",
+    "name": "Puppetmon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "QueenChessmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/QueenChessmon/QueenChessmon_Primary.png",
+    "reference_name": null,
+    "slug": "queenchessmon",
+    "name": "QueenChessmon",
+    "stage": "Mega",
+    "official_directory": "queenchessmon"
+  },
+  {
+    "asset_name": "Ravemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Ravemon/Ravemon_Primary.png",
+    "reference_name": "Ravemon",
+    "slug": "ravemon",
+    "name": "Ravemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Rosemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Rosemon/Rosemon_Primary.png",
+    "reference_name": "Rosemon",
+    "slug": "rosemon",
+    "name": "Rosemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "SaberLeomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/SaberLeomon/SaberLeomon_Primary.png",
+    "reference_name": "SaberLeomon",
+    "slug": "saberleomon",
+    "name": "SaberLeomon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Sakuyamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Sakuyamon/Sakuyamon_Primary.png",
+    "reference_name": "Sakuyamon",
+    "slug": "sakuyamon",
+    "name": "Sakuyamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Seraphimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Seraphimon/Seraphimon_Primary.png",
+    "reference_name": "Seraphimon",
+    "slug": "seraphimon",
+    "name": "Seraphimon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ShineGreymon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ShineGreymon/ShineGreymon_Primary.png",
+    "reference_name": "ShineGreymon",
+    "slug": "shinegreymon",
+    "name": "ShineGreymon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ShineGreymonRuinMode",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ShineGreymonRuinMode/ShineGreymonRuinMode_Primary.png",
+    "reference_name": null,
+    "slug": "shinegreymonruinmode",
+    "name": "ShineGreymonRuinMode",
+    "stage": "Mega",
+    "official_directory": "shinegreymon_ruin"
+  },
+  {
+    "asset_name": "SkullMammothmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/SkullMammothmon/SkullMammothmon_Primary.png",
+    "reference_name": null,
+    "slug": "skullmammothmon",
+    "name": "SkullMammothmon",
+    "stage": "Mega",
+    "official_directory": "skullmammon"
+  },
+  {
+    "asset_name": "Skullknightmon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Skullknightmon/Skullknightmon_Primary.png",
+    "reference_name": null,
+    "slug": "skullknightmon",
+    "name": "Skullknightmon",
+    "stage": "Mega",
+    "official_directory": "skullknightmon"
+  },
+  {
+    "asset_name": "SlashAngemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/SlashAngemon/SlashAngemon_Primary.png",
+    "reference_name": null,
+    "slug": "slashangemon",
+    "name": "SlashAngemon",
+    "stage": "Mega",
+    "official_directory": "slashangemon"
+  },
+  {
+    "asset_name": "Spinomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Spinomon/Spinomon_Primary.png",
+    "reference_name": null,
+    "slug": "spinomon",
+    "name": "Spinomon",
+    "stage": "Mega",
+    "official_directory": "spinomon"
+  },
+  {
+    "asset_name": "Susanoomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Susanoomon/Susanoomon_Primary.png",
+    "reference_name": "Susanomon",
+    "slug": "susanoomon",
+    "name": "Susanomon",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Tactimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Tactimon/Tactimon_Primary.png",
+    "reference_name": null,
+    "slug": "tactimon",
+    "name": "Tactimon",
+    "stage": "Mega",
+    "official_directory": "tactimon"
+  },
+  {
+    "asset_name": "TigerVespamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/TigerVespamon/TigerVespamon_Primary.png",
+    "reference_name": "TigerVespamon",
+    "slug": "tigervespamon",
+    "name": "TigerVespamon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Valkyrimon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Valkyrimon/Valkyrimon_Primary.png",
+    "reference_name": "Valkyrimon",
+    "slug": "valkyrimon",
+    "name": "Valkyrimon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Varodurumon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Varodurumon/Varodurumon_Primary.png",
+    "reference_name": "Varodurumon",
+    "slug": "varodurumon",
+    "name": "Varodurumon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "VenomMyotismon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/VenomMyotismon/VenomMyotismon_Primary.png",
+    "reference_name": "VenomMyotismon",
+    "slug": "venommyotismon",
+    "name": "VenomMyotismon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Vikemon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Vikemon/Vikemon_Primary.png",
+    "reference_name": "Vikemon",
+    "slug": "vikemon",
+    "name": "Vikemon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "WarGreymon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/WarGreymon/WarGreymon_Primary.png",
+    "reference_name": "WarGreymon",
+    "slug": "wargreymon",
+    "name": "WarGreymon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "Zanbamon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Zanbamon/Zanbamon_Primary.png",
+    "reference_name": null,
+    "slug": "zanbamon",
+    "name": "Zanbamon",
+    "stage": "Mega",
+    "official_directory": "zanbamon"
+  },
+  {
+    "asset_name": "ZeedMillenniummon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/ZeedMillenniummon/ZeedMillenniummon_Primary.png",
+    "reference_name": null,
+    "slug": "zeedmillenniummon",
+    "name": "ZeedMillenniummon",
+    "stage": "Mega",
+    "official_directory": "zeedmillenniumon"
+  },
+  {
+    "asset_name": "Zhuqiaomon",
+    "asset_stage": "Mega",
+    "sprite_source": "7 Mega/Zhuqiaomon/Zhuqiaomon_Primary.png",
+    "reference_name": null,
+    "slug": "zhuqiaomon",
+    "name": "Zhuqiaomon",
+    "stage": "Mega",
+    "official_directory": "zhuqiaomon"
+  },
+  {
+    "asset_name": "BeelzemonBlastMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/BeelzemonBlastMode/BeelzemonBlastMode_Primary.png",
+    "reference_name": "Beelzemon BM",
+    "slug": "beelzemonblastmode",
+    "name": "Beelzemon BM",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "BelphemonRageMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/BelphemonRageMode/BelphemonRageMode_Primary.png",
+    "reference_name": "Belphemon RM",
+    "slug": "belphemonragemode",
+    "name": "Belphemon RM",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "Chaosdramon",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/Chaosdramon/Chaosdramon_Primary.png",
+    "reference_name": "Chaosdramon",
+    "slug": "chaosdramon",
+    "name": "Chaosdramon",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ChronomonDM",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/ChronomonDM/ChronomonDM_Primary.png",
+    "reference_name": null,
+    "slug": "chronomondm",
+    "name": "ChronomonDM",
+    "stage": "Ultra",
+    "official_directory": "chronomon_destroy"
+  },
+  {
+    "asset_name": "ChronomonHolyMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/ChronomonHolyMode/ChronomonHolyMode_Primary.png",
+    "reference_name": null,
+    "slug": "chronomonholymode",
+    "name": "ChronomonHolyMode",
+    "stage": "Ultra",
+    "official_directory": "chronomon_holy"
+  },
+  {
+    "asset_name": "Examon",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/Examon/Examon_Primary.png",
+    "reference_name": "Examon",
+    "slug": "examon",
+    "name": "Examon",
+    "stage": "Ultra"
+  },
+  {
+    "asset_name": "MirageGaogamonBurstMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/MirageGaogamonBurstMode/MirageGaogamonBurstMode_Primary.png",
+    "reference_name": "MirageGaogamon BM",
+    "slug": "miragegaogamonburstmode",
+    "name": "MirageGaogamon BM",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "RavemonBurstMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/RavemonBurstMode/RavemonBurstMode_Primary.png",
+    "reference_name": "Ravemon BM",
+    "slug": "ravemonburstmode",
+    "name": "Ravemon BM",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "RosemonBurstMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/RosemonBurstMode/RosemonBurstMode_Primary.png",
+    "reference_name": "Rosemon BM",
+    "slug": "rosemonburstmode",
+    "name": "Rosemon BM",
+    "stage": "Mega"
+  },
+  {
+    "asset_name": "ShineGreymonBurstMode",
+    "asset_stage": "Ultra",
+    "sprite_source": "8 Ultra/ShineGreymonBurstMode/ShineGreymonBurstMode_Primary.png",
+    "reference_name": "ShineGreymon BM",
+    "slug": "shinegreymonburstmode",
+    "name": "ShineGreymon BM",
+    "stage": "Mega"
+  }
+]

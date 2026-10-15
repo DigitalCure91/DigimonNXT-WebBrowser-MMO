@@ -1,0 +1,406 @@
+{
+  "started": "2026-09-22T00:33:55.348Z",
+  "screens": [
+    {
+      "label": "signup-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/signup.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "dashboard-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/dashboard.php?welcome=1",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "party-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/party.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "options-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/options.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "options-mobile",
+      "url": "http://127.0.0.1:8099/DigimonNXT/options.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "world_map-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/world_map.php?world=cyberspace&area=packet-meadow",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "world_map-mobile",
+      "url": "http://127.0.0.1:8099/DigimonNXT/world_map.php?world=cyberspace&area=packet-meadow",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "battle_arena-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/battle_arena.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "battle-arena-result",
+      "url": "http://127.0.0.1:8099/DigimonNXT/battle_arena.php?match=1",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "battle_arena-mobile",
+      "url": "http://127.0.0.1:8099/DigimonNXT/battle_arena.php?match=1",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "tamer_rivals-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/tamer_rivals.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "tamer_rivals-mobile",
+      "url": "http://127.0.0.1:8099/DigimonNXT/tamer_rivals.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "ai_activity-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/ai_activity.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "ai_activity-mobile",
+      "url": "http://127.0.0.1:8099/DigimonNXT/ai_activity.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "wildbattle-desktop",
+      "url": "http://127.0.0.1:8099/DigimonNXT/wildbattle.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "wildbattle-mobile",
+      "url": "http://127.0.0.1:8099/DigimonNXT/wildbattle.php",
+      "overflow": false,
+      "missing": []
+    },
+    {
+      "label": "wildbattle-result",
+      "url": "http://127.0.0.1:8099/DigimonNXT/wildbattle.php",
+      "overflow": false,
+      "missing": []
+    }
+  ],
+  "checks": [
+    {
+      "name": "_setup.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "_setup.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "Create / Repair Schema completes",
+      "ok": true
+    },
+    {
+      "name": "signup.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "signup.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "party.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "party.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "Signup creates three party members",
+      "ok": true
+    },
+    {
+      "name": "options.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "options.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "Dawn audio controls are present",
+      "ok": true
+    },
+    {
+      "name": "46 Dawn music tracks selectable",
+      "ok": true
+    },
+    {
+      "name": "Original Dawn music decodes and plays",
+      "ok": true
+    },
+    {
+      "name": "Music volume control saves 25%",
+      "ok": true
+    },
+    {
+      "name": "Sound can be muted",
+      "ok": true
+    },
+    {
+      "name": "Music volume survives reload",
+      "ok": true
+    },
+    {
+      "name": "Mute survives reload",
+      "ok": true
+    },
+    {
+      "name": "Avatar preferences save",
+      "ok": true
+    },
+    {
+      "name": "Avatar persists",
+      "ok": true
+    },
+    {
+      "name": "world_map.php?world=cyberspace&area=packet-meadow HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "world_map.php?world=cyberspace&area=packet-meadow PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "Dawn tamer sheet renders on overworld",
+      "ok": true
+    },
+    {
+      "name": "battle_arena.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "battle_arena.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "Ranked match is available",
+      "ok": true
+    },
+    {
+      "name": "Ranked challenge settles and shows report",
+      "ok": true
+    },
+    {
+      "name": "Ranked settlement displays restoration",
+      "ok": true
+    },
+    {
+      "name": "tamer_rivals.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "tamer_rivals.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "ai_activity.php HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "ai_activity.php PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "world_map.php?world=cyberspace&area=packet-meadow HTTP success",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "world_map.php?world=cyberspace&area=packet-meadow PHP rendered",
+      "ok": true
+    },
+    {
+      "name": "Walkable path to roaming Digimon",
+      "ok": true
+    },
+    {
+      "name": "Map movement request succeeds",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "Walkable path to roaming Digimon",
+      "ok": true
+    },
+    {
+      "name": "Map movement request succeeds",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "Walkable path to roaming Digimon",
+      "ok": true
+    },
+    {
+      "name": "Map movement request succeeds",
+      "ok": true,
+      "detail": 200
+    },
+    {
+      "name": "Nearby roaming Digimon can be challenged",
+      "ok": true
+    },
+    {
+      "name": "Wild battle has three enemies",
+      "ok": true
+    },
+    {
+      "name": "Wild battle has three partners",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild attack accepted",
+      "ok": true
+    },
+    {
+      "name": "Wild battle reaches settlement",
+      "ok": true
+    },
+    {
+      "name": "All three party members restore HP and SP after battle",
+      "ok": true
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "badResponses": [],
+  "failedRequests": [],
+  "username": "smoke_mubxyb51",
+  "skinCount": 66,
+  "botBatch": "2026-09-22T00:33:59+00:00 {\"processed\":80,\"skipped\":false,\"cursor\":80,\"errors\":[]}",
+  "wild": {
+    "commands": 24,
+    "result": "win"
+  },
+  "completed": "2026-09-22T00:34:26.609Z",
+  "success": true
+}

@@ -1,0 +1,170 @@
+{
+  "release": "0.7.0",
+  "schema_revision": 8,
+  "tested_at_utc": "2026-09-22T05:11:09.086276+00:00",
+  "status": "passed",
+  "environment": {
+    "php": "8.3.6",
+    "mariadb": "10.11.14",
+    "os": "Linux",
+    "database_isolation": "Fresh named disposable databases; no installed game database used"
+  },
+  "map_runtime": {
+    "maps": 264,
+    "landings": 481,
+    "safe_landings": 1,
+    "battle_landings": 480,
+    "squads": 3665,
+    "bot_visits": 264,
+    "gates": 528,
+    "max_sync_ms": 35.55,
+    "checks": 4710314,
+    "elapsed_seconds": 21.26,
+    "peak_memory_mb": 28
+  },
+  "static_world": {
+    "maps": 264,
+    "original_layers": 351,
+    "walkable_components": 481,
+    "encounter_cells": 48546
+  },
+  "uploaded_sources": {
+    "original_uploaded_png_layers": 351,
+    "exact_sha256_matches": 351,
+    "duplicate_or_missing_layers": 0
+  },
+  "independent_rom_collision": {
+    "maps": 264,
+    "all_grid_cells": 4690560,
+    "walkable_cells": 1038438,
+    "blocked_cells": 3652122,
+    "source_pixel_bits": 75055104,
+    "rom_sha256": "b8fbc2272ec2a7b3c85674a43ffce0a7dde208319e331b349218e1238ce83005",
+    "special_canvas_crops": [
+      {
+        "map": 88,
+        "right_native_pixels": 16,
+        "cropped_floor_pixels": 0
+      }
+    ]
+  },
+  "prior_console_upgrade": {
+    "checks": 48,
+    "preserved_tables": 38,
+    "legacy_alias": "dawn-070",
+    "event_groups": 3
+  },
+  "http_security": {
+    "checks": 35,
+    "passed": [
+      "anonymous presence denied",
+      "anonymous movement denied",
+      "real account login",
+      "native Dawn map renders through HTTP",
+      "visible squads and directional tamer catalog included",
+      "presence response never cached",
+      "movement rejects GET",
+      "movement requires CSRF",
+      "invalid direction rejected",
+      "oversized movement rejected",
+      "landing rejects GET",
+      "landing requires CSRF",
+      "cross-area landing rejected",
+      "forged landing and browser coordinates cannot move player",
+      "valid landing uses manifest coordinates only",
+      "secondary landing only shows reachable squads",
+      "same landing keeps existing signal IDs",
+      "real floor corridor regression fixture found",
+      "batched movement checks intermediate wall",
+      "movement pacing enforced",
+      "stale map movement rejected",
+      "real diagonal gate fixture found",
+      "diagonal gate corner bypass rejected by HTTP",
+      "valid gate sends player to safe canonical destination",
+      "clicked signal is accepted through authenticated endpoint",
+      "real three-versus-three encounter starts",
+      "direct map travel returns to active battle",
+      "movement returns to active battle",
+      "presence returns to active battle",
+      "landing returns to active battle",
+      "battle travel attempts preserve persisted position",
+      "battle action token is present",
+      "battle disconnect settles restoration",
+      "every party partner has full HP and SP after battle",
+      "completed battle unlocks travel"
+    ]
+  },
+  "regressions": {
+    "overworld_authority": {
+      "status": "passed",
+      "coverage": [
+        "Owner and area boundaries",
+        "Legal-path battle range",
+        "Expired/consumed IDs",
+        "Replay protection",
+        "Persistent respawn cooldown",
+        "Legal roaming"
+      ]
+    },
+    "team_combat": {
+      "status": "passed",
+      "catalog_moves": 768,
+      "coverage": [
+        "3 versus 3 initiative/targeting/reserves/statuses",
+        "Persistent command tokens and transactional rollback",
+        "Scan once and settlement receipts",
+        "Party EXP",
+        "Full party restoration after win, loss and disconnect"
+      ]
+    },
+    "bot_activation": {
+      "status": "passed",
+      "seeded_tamers": 1000,
+      "real_starter_partners": 3000,
+      "sampled_first_actions": 40,
+      "sampled_actions": {
+        "wild": 28,
+        "ranked": 8,
+        "party": 4
+      },
+      "sampled_wild_outcomes": {
+        "wins": 5,
+        "losses": 23
+      },
+      "coverage": [
+        "Fair cursor",
+        "Interval throttling",
+        "Budget yields",
+        "Shared lock",
+        "Actual earned scan",
+        "Genuine ranked energy/teams",
+        "Full restoration",
+        "Reseed preserves progress"
+      ]
+    },
+    "exact_v0_4_schema6_upgrade": {
+      "status": "passed",
+      "coverage": [
+        "Original species IDs",
+        "Human account, collection, wallet, scan, items, party and legacy location preserved",
+        "Old encounter safely retired without rewards",
+        "1000 bot identities and progress preserved on repeated repair"
+      ]
+    },
+    "release_validator": "passed",
+    "presentation_validator": "passed",
+    "available_php_and_javascript_syntax": "passed"
+  },
+  "late_regressions": {
+    "diagonal_gate_corner_blocker": "passed through real HTTP",
+    "active_battle_travel_guard": "passed on direct page, move, presence and landing",
+    "same_landing_preserves_signal_ids": "passed through real HTTP",
+    "24_area_snapshot_eviction_preserves_claimed_cooldown": "passed in production runtime",
+    "all_three_dawn_event_groups_advance_preserved_event_ids": "passed"
+  },
+  "limits": [
+    "Runtime timings and randomized battle/squad outcomes describe this run, not a long-duration load guarantee.",
+    "This report covers server/map integration. Native Windows execution and the separate browser/client visual report are outside this test report.",
+    "Travel connections are authored NXT gates; testing does not claim the original DS event/story engine was reproduced."
+  ]
+}

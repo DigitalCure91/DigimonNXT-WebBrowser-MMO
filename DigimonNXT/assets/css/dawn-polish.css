@@ -1,0 +1,13 @@
+/* Dawn Link finishing layer: original ROM art, readable game controls. */
+.dn-team-page .dn-team-arena{background:linear-gradient(180deg,rgba(5,19,29,.48),rgba(7,20,32,.64)),url('../dawn/backgrounds/battle_000.png') center/cover no-repeat;image-rendering:auto}
+.dn-team-row-heading{background:rgba(6,18,27,.68);border-radius:7px;padding:8px 11px}
+.dn-team-card{backdrop-filter:blur(2px)}
+.pv-side-menu .pv-side-group a{min-height:38px}
+.dn-dawn-tamer-grid .nxt-skin-platform img{image-rendering:pixelated}
+.pv-trainer-avatar img,.pv-trainer-chip img{image-rendering:pixelated;object-fit:contain}
+button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid #8df5e8;outline-offset:3px}
+.pv-page select{max-width:100%}
+@media(max-width:560px){.pv-page-head .pv-actions{flex-wrap:wrap}.dn-stat-strip strong{overflow-wrap:anywhere}.pv-trainer-profile-grid{min-width:0}}
+.bp-page .bp-hero{background:linear-gradient(110deg,rgba(6,17,33,.96) 10%,rgba(9,25,44,.77) 68%,rgba(18,29,52,.56)),url('../dawn/backgrounds/battle_065.png') center/cover no-repeat}
+.bp-page .bp-leaderboard{max-height:540px;overflow:auto;scrollbar-width:thin;padding-right:6px}
+@media(max-width:560px){.bp-page .bp-leaderboard{max-height:420px}}

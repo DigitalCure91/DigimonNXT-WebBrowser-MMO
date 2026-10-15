@@ -1,0 +1,1 @@
+<?php declare(strict_types=1);require_once __DIR__.'/includes/bootstrap.php';pv_require_login();pv_redirect('profile.php?id='.(int)$_SESSION['myid']);

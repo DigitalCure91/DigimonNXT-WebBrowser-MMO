@@ -1,0 +1,20 @@
+{
+    "passed": 15,
+    "checks": [
+        "Bot-only matches do not store presentation events",
+        "Bot-only settlement still spends exactly one energy",
+        "Human attacker has bounded, resolved action events",
+        "Human attacker final snapshot matches committed result",
+        "Human attacker final vitals match actual simulator state",
+        "Human attacker recorded events are persisted without reconstruction",
+        "Human match spends exactly one energy",
+        "Human party fully restores after recorded match",
+        "Duplicate settlement remains rejected without extra match or energy",
+        "Defense fixture selects the human participant",
+        "Human defender has bounded, resolved action events",
+        "Human defender final snapshot matches committed result",
+        "Human defender final vitals match actual simulator state",
+        "Human defender recorded events are persisted without reconstruction",
+        "Recorded defense leaves defender energy and points unchanged"
+    ]
+}

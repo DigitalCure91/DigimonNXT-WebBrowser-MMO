@@ -1,0 +1,21 @@
+{
+  "rom_sha256": "b8fbc2272ec2a7b3c85674a43ffce0a7dde208319e331b349218e1238ce83005",
+  "rom_matches_bundled_audio": true,
+  "original_sdat_sha256_verified": true,
+  "all_shipped_file_hashes_verified": 228,
+  "battle_audio_full_decodes_verified": [
+    "se002",
+    "se009",
+    "se015",
+    "se016",
+    "se029",
+    "se030",
+    "bgm30",
+    "bgm31",
+    "bgm54",
+    "bgm53"
+  ],
+  "battle_preload_distinct_effects": 6,
+  "battle_preload_bytes": 118065,
+  "tests": "17 Web Audio lifecycle contract checks passed in Node; actual browser listening not performed by this script."
+}
