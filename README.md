@@ -6,16 +6,6 @@
 
 **1,000 collectible forms · 264 Dawn maps · 3v3 battles · Play in your browser**
 
-<img width="3788" height="1845" alt="1" src="https://github.com/user-attachments/assets/7cf8070f-b297-4513-8ffc-b53495269b11" />
-
-<img width="3787" height="1852" alt="2" src="https://github.com/user-attachments/assets/f6978f17-f2fd-4172-9f71-cb7fec077159" />
-
-<img width="3784" height="1851" alt="3" src="https://github.com/user-attachments/assets/59a4a27d-e826-44eb-adea-a15ae0d6ef60" />
-
-<img width="3789" height="1858" alt="4" src="https://github.com/user-attachments/assets/dd4794d2-1b52-4baa-88ec-ec2f7fc77ed1" />
-
-<img width="3788" height="1850" alt="5" src="https://github.com/user-attachments/assets/2681d058-50a1-46c4-9333-0ea821e07ee4" />
-
 ## 🌍 A world to explore
 
 Travel across **264 Dawn maps** covering 30 environments. Watch wild Digimon roam, spot other tamers and follow travel gates to your next destination.
@@ -133,18 +123,3 @@ Apache and MySQL must already be running. Closing this console leaves those serv
 | Stop | `stop_tamer_service_windows.bat` |
 | Start | `start_tamer_service_windows.bat` |
 
-### Keep your progress when updating
-
-Back up your database and keep your installed **`config/app.php`** when copying updated game files. Use **Create / Repair Schema** when a release requires it, then restart the tamer task after updating PHP files.
-
-**Fresh Rebuild deletes the configured game database.** Saves in this source edition live in MySQL, so copying the game folder alone does not move your progress to another PC.
-
-[Console guide](docs/WORLD_SERVER_CONSOLE.md) · [Command list](WORLD_SERVER_COMMANDS.txt) · [Background rival setup](tools/README_TAMER_SERVICE.txt)
-
-</details>
-
-## Credits
-
-Created by **AkumaVenom**. Digimon NXT combines Dawn's pixel-art world, Cyber Sleuth-inspired progression and ReArise-inspired Battle Park with its own gameplay rules. Dawn maps use NXT's own travel and encounter systems.
-
-Project code uses the [MIT License](LICENSE). See [Data sources](docs/DATA_SOURCES.md) and [Dawn assets](docs/DAWN_ASSETS.md) for separate game-data and artwork attribution and licensing.
